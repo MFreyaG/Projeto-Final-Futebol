@@ -1,0 +1,1650 @@
+dob,firstName,height,id,lastName,nickname,positionGroupType
+1988-06-18,Islam,188.0,1961,Slimani,Islam Slimani,F
+2003-06-11,Kayky,172.0,5959,Chagas,Kayky,F
+1987-04-22,David,189.0,148,Luiz,David Luiz,D
+1991-08-23,Fabián,188.0,258,Balbuena,Fabián Balbuena,D
+2004-05-03,Andrey,180.0,18430,Santos,Andrey Santos,M
+2005-06-05,Deivid,187.0,18305,Washington,Deivid Washington,LW
+1991-07-12,James,181.0,1690,Rodríguez,James Rodríguez,M
+1996-05-05,Matheus,175.0,2044,Pereira,Matheus Pereira,M
+1985-05-04,Fernando,179.0,19,Luiz Roza,Fernandinho,M
+1989-02-19,Fernando,178.0,1906,Marcal Oliverira,Marcal,D
+2004-04-01,Matheus,184.0,16132,França,Matheus França,M
+2002-07-04,Murillo,182.0,18361,Costa dos Santos,Murillo,D
+1992-08-13,Lucas,172.0,85,Moura,Lucas Moura,F
+1988-10-07,Diego,186.0,1395,Costa,Diego Costa,F
+1999-04-14,Nicolás,173.0,978,Acevedo,Nicolás Acevedo,M
+1997-06-18,Eduard,180.0,1285,Atuesta,Eduard Atuesta,M
+1997-04-26,Jhegson,170.0,1034,Méndez,Jhegson Méndez,M
+1989-09-02,Alexandre,180.0,2493,Pato,Alexandre Pato,F
+1996-02-01,Tomás,180.0,2364,Pochettino,Tomás Pochettino,M
+1999-02-24,Caio,174.0,2530,Alexandre,Caio Alexandre,M
+2002-04-12,Gabriel,170.0,18345,Pirani,Gabriel Pirani,M
+1997-06-30,Yeferson,160.0,3084,Soteldo,Yeferson Soteldo,F
+2000-10-31,Thiago,179.0,3270,Andrade,Thiago Andrade,F
+2000-06-24,Lucas,171.0,5203,Esteves,Lucas Esteves,D
+1996-10-11,Alan,183.0,2346,Franco,Alan Franco,D
+1998-02-13,Sebastian,180.0,7541,Ferreira,Sebastian Ferreira,F
+1998-08-21,Alan,175.0,7571,Franco,Alan Franco,M
+1996-06-02,Luiz,175.0,3963,Araújo,Luiz Araújo,F
+1995-06-25,Marcelino,175.0,2353,Moreno,Marcelino Moreno,M
+2000-04-14,Rafael,183.0,16713,Navarro,Rafael Navarro,F
+1989-03-10,Júnior,181.0,1036,Urso,Júnior Urso,M
+1997-11-12,Robson,186.0,4034,Bambu,Robson Bambu,D
+1996-02-28,Danilo,183.0,7365,Barbosa,Danilo Barbosa,M
+2000-10-06,Adson,171.0,16020,Ferreira Soares,Adson,F
+1992-08-24,Jemerson,184.0,6644,de Jesus Nascimento,Jemerson,D
+1994-05-04,Otavio,173.0,4270,Henrique Passos Santos,Otavio,M
+2001-12-14,Luis,181.0,3988,Henrique,Luis Henrique,F
+1990-10-18,Fransergio,186.0,5970,Barbosa,Fransergio,M
+1995-11-30,Rafael,183.0,9862,Ratao,Rafael Ratao,F
+1990-07-09,Fábio,172.0,4180,Pereira da Silva,Fábio,D
+1988-06-18,Islam,188.0,1961,Slimani,Islam Slimani,F
+1997-05-20,Gerson,184.0,3981,Santos Da Silva,Gerson,M
+1987-03-29,Dimitri,175.0,3990,Payet,Dimitri Payet,F
+1998-06-22,Jean,179.0,3893,Lucas,Jean Lucas,M
+1995-03-20,Leo,188.0,3939,Jardim,Leo Jardim,GK
+2004-12-21,Ângelo,182.0,17974,Gabriel,Ângelo Gabriel,F
+2003-03-17,Arthur,173.0,18077,Augusto de Matos Soares,Arthur,D
+1989-04-17,Charles,171.0,4591,Aránguiz,Charles Aránguiz,M
+2000-07-15,Paulo,177.0,4596,Henrique Sampaio Filho,Paulinho,F
+2000-06-02,Richard,187.0,3658,Rios,Richard Rios,M
+1994-06-23,Higor,186.0,3533,Meritão,Higor Meritão,M
+1997-05-06,Nathan,182.0,15814,Silva,Nathan Silva,D
+1996-09-02,Moisés,175.0,16176,Vieira da Veiga,Moisés,F
+1990-12-09,Gabriel,178.0,17970,Carabajal,Gabriel Carabajal,M
+1997-06-30,Yeferson,160.0,3084,Soteldo,Yeferson Soteldo,F
+1992-01-02,Jhon,194.0,18491,Chancellor,Jhon Chancellor,D
+1994-08-11,David,176.0,15779,Terans,David Terans,M
+1996-11-05,Pedro,193.0,6575,Raúl,Pedro Raúl,F
+1989-07-29,Julio,188.0,3562,Furch,Julio Furch,F
+1998-11-08,Leonardo,166.0,3335,Fernández,Leonardo Fernández,M
+1993-04-23,Washington,187.0,3697,Aguerre,Washington Aguerre,GK
+1997-09-05,Maximiliano,176.0,7385,Silvera,Maximiliano Silvera,F
+1992-07-04,Ángel,176.0,7663,Romero,Ángel Romero,F
+1996-12-04,Diogo,193.0,6598,De Oliveira,Diogo De Oliveira,F
+1990-05-20,Rafael,186.0,6918,Cabral,Rafael,GK
+1994-02-02,Tobias,188.0,7010,Figueiredo,Tobias Figueiredo,D
+2000-06-02,Richard,187.0,3658,Rios,Richard Rios,M
+1993-04-23,Washington,187.0,3697,Aguerre,Washington Aguerre,GK
+1993-07-10,Jesús,178.0,7093,Trindade,Jesús Trindade,M
+1992-07-04,Ángel,176.0,7663,Romero,Ángel Romero,F
+1997-06-30,Yeferson,160.0,3084,Soteldo,Yeferson Soteldo,F
+1998-11-08,Leonardo,166.0,3335,Fernández,Leonardo Fernández,M
+1997-09-05,Maximiliano,176.0,7385,Silvera,Maximiliano Silvera,F
+1996-12-04,Diogo,193.0,6598,De Oliveira,Diogo De Oliveira,F
+1989-07-29,Julio,188.0,3562,Furch,Julio Furch,F
+1994-06-23,Higor,186.0,3533,Meritão,Higor Meritão,M
+1997-09-05,Maximiliano,176.0,7385,Silvera,Maximiliano Silvera,F
+1997-05-06,Nathan,182.0,15814,Silva,Nathan Silva,D
+1992-07-04,Ángel,176.0,7663,Romero,Ángel Romero,F
+1998-11-08,Leonardo,166.0,3335,Fernández,Leonardo Fernández,M
+1990-12-09,Gabriel,178.0,17970,Carabajal,Gabriel Carabajal,M
+1994-06-23,Higor,186.0,3533,Meritão,Higor Meritão,M
+1996-12-04,Diogo,193.0,6598,De Oliveira,Diogo De Oliveira,F
+1989-07-29,Julio,188.0,3562,Furch,Julio Furch,F
+1993-07-10,Jesús,178.0,7093,Trindade,Jesús Trindade,M
+1998-11-08,Leonardo,166.0,3335,Fernández,Leonardo Fernández,M
+1992-07-04,Ángel,176.0,7663,Romero,Ángel Romero,F
+1996-12-04,Diogo,193.0,6598,De Oliveira,Diogo De Oliveira,F
+1997-06-30,Yeferson,160.0,3084,Soteldo,Yeferson Soteldo,F
+1989-07-29,Julio,188.0,3562,Furch,Julio Furch,F
+1989-09-02,Alexandre,180.0,2493,Pato,Alexandre Pato,F
+2000-10-31,Thiago,179.0,3270,Andrade,Thiago Andrade,F
+1996-10-11,Alan,183.0,2346,Franco,Alan Franco,D
+1999-04-14,Nicolás,173.0,978,Acevedo,Nicolás Acevedo,M
+1997-04-26,Jhegson,170.0,1034,Méndez,Jhegson Méndez,M
+1989-03-10,Júnior,181.0,1036,Urso,Júnior Urso,M
+1995-06-25,Marcelino,175.0,2353,Moreno,Marcelino Moreno,M
+1996-06-02,Luiz,175.0,3963,Araújo,Luiz Araújo,F
+1990-01-06,Alex,173.0,9174,Teixeira,Alex Teixeira,F
+2002-07-11,Pedro Henrique,177.0,16754,Azevedo Pereira,Pedrinho,D
+1992-03-11,Carlos,177.0,8380,De Peña,Carlos De Peña,F
+1987-05-22,Arturo,180.0,1527,Vidal,Arturo Vidal,M
+1995-03-20,Leo,188.0,3939,Jardim,Leo Jardim,GK
+1987-04-04,Júnior,176.0,9115,Moraes,Júnior Moraes,F
+1995-09-07,Marlon,182.0,8644,da Silva,Marlon,D
+2000-02-02,Vitor,185.0,9114,da Silva Matos,Vitão,D
+2004-08-09,Eguinaldo,175.0,18436,de Sousa Lemos,Eguinaldo,F
+1998-04-13,Pedro,172.0,9176,Delmino,Pedrinho,F
+1997-03-30,Bruno,175.0,8084,Ramos,Bruno Tabata,F
+1997-07-15,Maycon,173.0,9113,Barberan,Maycon,M
+1987-01-24,Luis,182.0,1535,Suarez,Luis Suarez,F
+1999-04-01,Vitor,181.0,8378,dos Santos,Vitinho,F
+2003-06-11,Kayky,172.0,5959,Chagas,Kayky,F
+1985-05-04,Fernando,179.0,19,Luiz Roza,Fernandinho,M
+2001-02-06,Natan,188.0,18015,Bernardo de Souza,Natan,D
+1993-03-07,Gilberto,181.0,7997,Moraes Júnior,Gilberto,D
+1996-03-22,Everton,174.0,8006,Sousa Soares,Everton,M
+1988-06-18,Islam,188.0,1961,Slimani,Islam Slimani,F
+1988-05-12,Marcelo,174.0,1680,da Silva,Marcelo,D
+1991-07-12,Rodrigo,187.0,13211,Battaglia,Rodrigo Battaglia,M
+1993-06-11,Helibelton,181.0,13239,Palacios,Helibelton Palacios,D
+1993-11-03,Rodrigo,188.0,1478,Ely,Rodrigo Ely,D
+2001-03-24,Lucas,182.0,17958,Pires,Lucas Pires,D
+1991-06-22,Hugo,174.0,1458,Mallo,Hugo Mallo,D
+1993-02-26,Jese,178.0,12367,Rodríguez Ruiz,Jese,F
+1987-08-03,Gary,171.0,12735,Medel,Gary Medel,D
+2001-02-06,Natan,188.0,18015,Bernardo de Souza,Natan,D
+1988-01-13,Tomas,177.0,12769,Rincon,Tomas Rincon,M
+1995-09-07,Marlon,182.0,8644,da Silva,Marlon,D
+1998-08-21,Alan,175.0,7571,Franco,Alan Franco,M
+1994-06-01,Giorgian,174.0,13930,De Arrascaeta,Giorgian De Arrascaeta,M
+1987-01-24,Luis,182.0,1535,Suarez,Luis Suarez,F
+1997-04-26,Jhegson,170.0,1034,Méndez,Jhegson Méndez,M
+1997-03-14,José Luis,183.0,13931,Rodríguez,José Luis Rodríguez,RB
+1989-04-10,Everton,174.0,13831,Ribeiro,Everton Ribeiro,M
+1993-03-24,Guillermo,173.0,13927,Varela,Guillermo Varela,D
+1998-10-01,Agustin,175.0,13928,Canobbio,Agustin Canobbio,F
+1991-10-22,Robert,189.0,13936,Arboleda,Robert Arboleda,D
+1997-06-20,Pedro,185.0,13830,Guilherme,Pedro,F
+1993-03-23,Sergio,190.0,13924,Rochet,Sergio Rochet,GK
+1989-11-04,Enner,177.0,11960,Valencia,Enner Valencia,F
+1987-12-13,Weverton,189.0,13829,Pereira da Silva,Weverton,GK
+1994-01-28,Leonel,176.0,14526,Di Placido,Leonel Di Placido,D
+1998-08-21,Alan,175.0,7571,Franco,Alan Franco,M
+1992-04-03,Juan,171.0,14774,Cazares,Juan Cazares,M
+1995-11-03,Matías,180.0,14399,Rojas,Matías Rojas,M
+2001-10-14,Lucas,183.0,14806,Esquivel,Lucas Esquivel,D
+2000-01-15,Imanol,170.0,14817,Machuca,Imanol Machuca,F
+2003-01-22,Lucas,176.0,15054,Besozzi,Lucas Besozzi,F
+1988-10-15,Pablo,187.0,14846,Vegetti,Pablo Vegetti,F
+2002-05-16,Bruno,181.0,14845,Zapelli,Bruno Zapelli,F
+2004-02-14,Wendell Silva,,18863,Santos dos Santos,Wendell,RW
+2005-07-24,Leonardo,,24492,Derik,Leonardo Derik,LB
+1986-10-19,Joel,193.0,17933,Carli,Joel Carli,D
+2001-03-20,Nathan,186.0,17994,Melo,Nathan Melo,M
+2004-03-14,Leo,181.0,24061,Azevedo,Leo Azevedo,DM
+2001-10-17,Werik,190.0,18394,Popó,Werik Popó,F
+2001-06-06,Reinaldo,177.0,18595,Nascimento Satorno,Reinaldo Nascimento Satorno,RW
+2004-07-26,Edney,172.0,24062,Santos da Silva,Edney,RB
+2006-05-12,João,170.0,24915,Cruz,João Cruz,M
+2002-09-01,Matheus,191.0,18508,Cadorini,Matheus Cadorini,F
+2007-04-24,Estêvão Willian,176.0,24621,Almeida,Estevão,RW
+2003-03-17,Arthur,173.0,18077,Augusto de Matos Soares,Arthur,D
+1994-03-28,Vinicius,195.0,16548,Silvestre,Vinicius Silvestre,GK
+2004-02-20,Gustavo Xavier,,24603,Teixeira,Xavier,LB
+2003-10-14,Ruan,,24664,Santos,Ruan Santos,RCB
+2001-01-25,Julimar,182.0,19335,Silva Oliveira Junior,Julimar,CF
+1999-10-26,Jhonata,179.0,18484,Robert,Jhonata Robert,F
+2003-05-01,Eduardo,,18836,Simioni,Eduardo Simioni,M
+2002-03-02,Ronald,174.0,18780,Barcellos,Ronald Barcellos,CF
+2004-11-14,Leandro Mathias,187.0,18818,Silva Bueno,Leandro,GK
+1999-02-25,Henrique,185.0,20685,Vermudt,Henrique Vermudt,RCB
+2004-08-07,Luiz,178.0,24544,Felipe,Luiz Felipe,AM
+2003-06-19,Éberth,195.0,24914,Araújo Nogueira,Éberth,CF
+2006-08-07,Halerrandrio,175.0,24908,dos Santos Feitosa,Halerrandrio,RW
+2004-09-10,Arthur,178.0,18880,Zanella,Arthur Zanella,LB
+2001-12-21,Sammuel,177.0,16179,Queiroz De Freitas,Sammuel,M
+1999-02-13,Vitor,186.0,16157,Mendes,Vitor Mendes,D
+2004-04-30,Vinicius,177.0,18823,Rangel,Vinicius Rangel,LB
+2003-04-16,Ian,180.0,18351,Custódio,Ian Custódio,D
+2005-05-07,Lyncon,186.0,19129,Côrrea Gonçalves,Lyncon,RCB
+2001-01-20,Luan,184.0,16158,Freitas,Luan Freitas,D
+2006-08-10,Ruan,,24308,Índio,Ruan Índio,CF
+1996-02-13,Eduardo,187.0,17951,Bauermann,Eduardo Bauermann,D
+2004-09-05,Arielson,,18812,Sampaio Galvão,Arielson,CF
+2002-09-16,Gustavo,200.0,23350,Ramalho,Gustavo Ramalho,GK
+2004-02-19,Caio,174.0,17892,Matheus da Silva,Caio,F
+1993-05-20,Rafael,178.0,18545,Gava,Rafael Gava,M
+2003-08-03,Felipe,187.0,18294,Motta,Felipe Motta,RCB
+1999-02-02,Walce,188.0,23962,da Silva Costa Filho,Walce,RCB
+1992-01-02,Jhon,194.0,18491,Chancellor,Jhon Chancellor,D
+1999-01-31,Hugo,199.0,16133,Souza,Hugo Souza,GK
+2003-07-15,Ryan,172.0,19470,Gustavo,Ryan Gustavo,M
+2001-07-24,Wallison,177.0,23344,Nunes Silva,Wallison,RB
+2004-07-22,Ythallo,,19613,Rodrigues de Oliveira,Ythallo,RCB
+2004-01-09,Freddy,,19907,Noguera,Freddy Noguera,CF
+2002-05-04,Gabriel Caetano,191.0,23318,Godoy de Andrade,Caetano,LCB
+2002-07-11,Pedro Henrique,177.0,16754,Azevedo Pereira,Pedrinho,D
+2000-06-15,Fabrício,190.0,19541,Oliveira de Souza,Fabrício,GK
+2002-02-21,Carlos Eduardo,170.0,17961,Bertolassi da Silva,Cadu,D
+2004-01-08,José,174.0,18621,Welinton,José Welinton,LB
+1994-04-10,Luiz Antonio,184.0,18083,Ferreira Rodrigues,Felipe,M
+2002-07-20,João,188.0,18537,Maranini,João Maranini,D
+2003-07-10,João,181.0,23349,Neto,João Neto,LW
+2002-05-12,Everton,184.0,18572,Macedo Moraes,Everton,F
+1996-02-17,Renato,178.0,16165,Kayzer,Renato Kayzer,F
+2003-01-15,Ighor,176.0,24601,Gabryel,Ighor Gabryel,CF
+1988-05-21,Felipe,187.0,17874,Alves,Felipe Alves,GK
+2001-01-18,Bryan,175.0,15789,García,Bryan García,M
+2004-01-01,Giovani,184.0,16553,Amorim da Silva,Giovani,F
+2001-10-13,Igo,190.0,17927,Gabriel,Igo Gabriel,GK
+2005-01-02,Viery,185.0,19454,Fernandes Santos Lopes,Viery,LCB
+2004-06-17,Kauan,165.0,24060,Santos,Kauan Santos,CM
+1995-08-20,Luis,180.0,17883,Orejuela,Luis Orejuela,D
+2002-04-16,Jhonny,179.0,18390,Cardinoti Pedro,Jhonny,D
+2007-04-02,Matheus,180.0,24042,Reis,Matheus Reis,LW
+2000-03-12,Newton,,24481,da Costa Júnior,Newton,CM
+1999-06-17,Halls,198.0,18417,Rocha da Silva,Halls,GK
+2006-01-01,Eduardo,177.0,19579,Anastacio,Dudu,AM
+2005-04-16,Kauan,174.0,18085,Rodrigues da Silva,Kauan,M
+2005-03-22,Agner,,23351,Izigethy de Souza,Agner,F
+2003-03-13,Matheus,186.0,17878,Belém,Matheus Belém,D
+1985-09-21,Pedro,190.0,18469,Geromel,Pedro Geromel,D
+1999-02-16,Breno,189.0,18010,Herculano,Breno Herculano,F
+1997-02-08,Dadá,172.0,17917,Belmonte,Dadá Belmonte,F
+2000-01-07,Du,172.0,16023,Queiroz,Du Queiroz,M
+2001-08-23,Eder,171.0,18813,Maciel Lopes,Edinho,DM
+1996-09-02,Moisés,175.0,16176,Vieira da Veiga,Moisés,F
+2001-06-07,Lucas,185.0,18009,Emmanuel,Lucas Emmanuel,F
+1998-03-25,Lucas,188.0,23117,Rafael,Lucas Rafael,RCB
+2003-01-20,Denzel,191.0,23519,Damasceno,Denzel Damasceno,CF
+2004-01-19,Leonardo,175.0,19578,Ataíde,Leonardo Ataíde,RB
+2003-02-22,Henrique,,24318,Cardoso,Henrique Cardoso,DM
+2005-05-23,Paulo,172.0,18577,de Souza Babilônia,Paulinho,D
+2005-03-16,José Guilherme,,18617,de Lima Costa,Zé Guilherme,LB
+2004-08-16,Marcelo,178.0,19910,Braz,Marcelinho,AM
+2004-03-26,Isaac,185.0,18364,Tomich,Isaac,F
+2004-11-26,Lucas,163.0,19568,Ronier,Lucas Ronier,RW
+1999-11-10,Pedro,176.0,18113,Pereira Lopes,Pedrinho,F
+2003-07-03,Lucas,185.0,22090,Justen,Lucas Justen,RB
+2002-05-02,Mateus,199.0,14223,Oliveira,Mateus Oliveira,GK
+2005-04-12,Luis,175.0,24319,Fernando,Luis Fernando,RW
+2000-06-22,Diego,175.0,15411,Hernández,Diego Hernández,F
+2002-04-25,Juan Pablo,179.0,19127,Vilela Tavares,Juan Pablo,LB
+1993-12-22,William,182.0,18504,Pottker,William Pottker,F
+2002-04-16,Ivonei,175.0,17968,da Silva Rabelo,Ivonei,M
+2002-03-07,Young,202.0,17875,Navarro Moraes,Young,GK
+2000-07-11,Paulo,188.0,17949,Mazoti,Paulo Mazoti,GK
+2005-03-15,Gustavo,,24440,Dohmann,Gustavo Dohmann,DM
+1993-04-22,Rosicley,170.0,22797,Pereira da Silva,Rossi,RW
+2004-06-29,Paulo Ricardo,,23375,Alves Ibelli,Paulinho,DM
+1997-01-23,Lucas,186.0,11542,Cunha,Lucas Cunha,D
+1998-02-15,Felipe,172.0,17957,Jonatan,Felipe Jonatan,D
+2001-04-09,Victor,180.0,18551,Yan,Victor Yan,M
+2004-07-16,Emersonn,186.0,19580,Correia da Silva,Emersonn,RW
+2005-09-22,Adyson,168.0,17916,do Nascimento Soares,Adyson,F
+2003-10-24,Talles,180.0,24556,Wander,Talles Wander,CF
+2003-02-28,Evertton,,23959,Fernandes Araújo,Evertton,DM
+2004-02-14,Rafael,173.0,19576,Monteiro,Rafael Monteiro,D
+,Jonathan,180.0,24909,Alecxander,Jonathan Alecxander,RCB
+2001-07-30,Daniel,171.0,16378,Ruiz Rivera,Daniel Ruiz Rivera,F
+1991-05-27,Henrique,177.0,17921,Almeida,Henrique Almeida,F
+1993-07-10,Jesús,178.0,7093,Trindade,Jesús Trindade,M
+2001-05-20,Rwan,187.0,17977,Seco,Rwan Seco,F
+2005-02-28,Vitor,172.0,15792,Roque,Vitor Roque,F
+2000-07-12,Kayque,176.0,17940,Pereira,Kayque,M
+2001-03-24,Lucas,182.0,17958,Pires,Lucas Pires,D
+1999-04-13,Erison Danilo,180.0,13500,de Souza,Erison,F
+2006-08-03,Rayan,185.0,18837,Vitor,Rayan Vitor,RW
+1987-05-22,Arturo,180.0,1527,Vidal,Arturo Vidal,M
+1992-02-04,Tadeu,184.0,17979,Ferreira,Tadeu,GK
+2002-08-30,Sandry,174.0,17966,Santos Goes,Sandry,M
+2003-05-24,Mateo,183.0,15455,Ponte,Mateo Ponte,D
+2001-02-02,Luan,187.0,18019,Cândido,Luan Cândido,D
+2005-06-20,João Vitor,,24314, Araujo Da Silva,João Vitor,DM
+1995-10-02,Hayner,178.0,23130,Monjardim Cordeiro,Hayner,RB
+2006-02-11,Yago,,24910,Souza,Yago Souza,AM
+1991-04-15,Vinícius Goes,177.0,18481,Barbosa de Souza,Vina,M
+2000-06-24,Lucas,171.0,5203,Esteves,Lucas Esteves,D
+1998-02-07,Igor Matheus,177.0,18497,Liziero Pereira,Liziero,M
+2001-05-24,Brayan,189.0,16181,Ceballos,Brayan Ceballos,D
+1995-10-02,Pedro,188.0,16742,Henrique,Pedro Henrique,D
+2004-01-22,Thauan,176.0,16255,Lara,Thauan Lara,D
+2003-02-15,Jean,172.0,19550,Gabriel,Jean Gabriel,CM
+2000-03-29,Gabriel,192.0,18462,Grando,Gabriel Grando,GK
+1998-09-14,Gabriel,197.0,18509,Mesquita,Gabriel Mesquita,GK
+1989-09-02,Alexandre,180.0,2493,Pato,Alexandre Pato,F
+2003-04-03,Yago,182.0,24911,Santos,Yago Santos,CM
+2002-01-08,Bernardo,186.0,18565,Marcos Lemes,Bernardo,M
+1993-06-16,Renzo,178.0,17055,Saravia,Renzo Saravia,RB
+1994-02-18,Richard,191.0,18519,Candido Coelho,Richard,M
+1999-11-06,Alix,195.0,18817,Vinicius,Alix Vinicius,RCB
+2004-08-09,Eguinaldo,175.0,18436,de Sousa Lemos,Eguinaldo,F
+2004-03-23,Pedro,182.0,18002,Junqueira,Pedro Junqueira,F
+1993-03-24,Guillermo,173.0,13927,Varela,Guillermo Varela,D
+1994-08-03,Mateus,194.0,18441,Claus,Claus,GK
+1996-10-02,Róger,182.0,16008,Guedes,Róger Guedes,F
+1988-06-19,Aloísio,170.0,17923,dos Santos Gonçalves,Aloísio,F
+2001-02-01,Marcos,186.0,13223,Paulo,Marcos Paulo,F
+2005-11-20,Gustavo,,19908,Gomes,Gustavo Gomes,AM
+1997-03-07,Victor Hugo,186.0,18443,Soares dos Santos,Kanu,D
+2003-04-16,Kaique,192.0,18349,Pereira,Kaique,GK
+1989-06-13,Andreas,189.0,13601,Samaris,Andreas Samaris,DM
+1991-06-22,Hugo,174.0,1458,Mallo,Hugo Mallo,D
+1996-06-21,Alfredo,177.0,23510,Morelos,Alfredo Morelos,CF
+2002-11-09,João Luiz,196.0,19607,da Silva Cipriano,Cipriano,LCB
+1997-01-03,Jefferson,176.0,24315, Antonio da Silva,Jefferson,LB
+1988-06-18,Islam,188.0,1961,Slimani,Islam Slimani,F
+2002-01-23,Anthoni,193.0,16247,Spier Souza,Anthoni,GK
+1992-01-09,Esteban,191.0,1769,Burgos,Esteban Burgos,D
+2003-02-26,Natan,199.0,24912,Rodrigues de Sales,Natan,GK
+1989-03-10,Júnior,181.0,1036,Urso,Júnior Urso,M
+1994-08-11,David,176.0,15779,Terans,David Terans,M
+1987-04-04,Júnior,176.0,9115,Moraes,Júnior Moraes,F
+1999-04-21,Rafael,174.0,18531,Bilu,Rafael Bilu,F
+1998-10-07,Matheusinho,175.0,18570,da Silva Duarte,Matheusinho,D
+2004-12-26,Daniel,,18811,Nolasco,Daniel Nolasco,RCB
+1993-09-23,Jonathan,181.0,17894,Calleri,Jonathan Calleri,F
+1998-05-11,Caio,184.0,17893,Paulista,Caio Paulista,F
+1992-08-24,Jemerson,184.0,6644,de Jesus Nascimento,Jemerson,D
+2001-09-05,Nathan,183.0,18114,Santos de Araújo,Nathan,D
+1998-04-16,Darlan,171.0,18477,Pereira Mendes,Darlan,M
+1990-12-09,Gabriel,178.0,17970,Carabajal,Gabriel Carabajal,M
+2006-02-28,João Henrique,,18860,Mendes da Silva,Esquerdinha,LB
+2001-08-14,Lucas,178.0,18434,Figueiredo dos Santos,Lucas Figueiredo,F
+2000-09-01,Breno,177.0,17936,Rodrigues da Silva,Breno,M
+2004-10-11,Renato,188.0,19126,Santos,Renato Santos,RCB
+1996-03-05,Gabriel,173.0,18501,Boschilia,Boschilia,M
+1999-05-28,Vinicius,178.0,17962,Balieiro,Vinicius Balieiro,M
+2003-01-20,Tiago,194.0,18599,Gomes,Tiago Gomes,GK
+1999-03-30,Wesley,175.0,18576,Ribeiro Silva,Wesley,F
+2004-04-25,Miguel,177.0,18304,Terceros,Miguel Terceros,AM
+2002-02-03,Estêvão,176.0,16249,Barreto de Oliveira,Estêvão,M
+1998-02-11,Matheus Leonardo,164.0,17909,Sales Cardoso,Matheusinho,M
+1994-06-01,Giorgian,174.0,13930,De Arrascaeta,Giorgian De Arrascaeta,M
+1992-02-06,José Rodolfo,177.0,16726,Pires Ribeiro,Dodô,D
+2003-04-25,Cleiton,194.0,16121,Santana dos Santos,Cleiton,D
+2002-01-20,Thalisson,190.0,18492,Pereira Moreira,Thalisson,D
+2002-06-24,Pedro,180.0,22099,Cunha Scaramussa,Pedrinho,LB
+2002-05-08,Kaiky,182.0,16564,Naves,Kaiky Naves,D
+1994-12-15,Matheus,190.0,17981,Alves,Matheus Alves,GK
+2002-05-17,Matheus,187.0,16022,Donelli,Matheus Donelli,GK
+2001-12-26,Marcos,184.0,18446,Victor,Marcos Victor,D
+2006-07-04,Lorran,180.0,23508,Lucas,Lorran Lucas,AM
+2005-10-18,Gustavo,198.0,18861,Henrique,Gustavo Henrique,LCB
+1994-06-23,Higor,186.0,3533,Meritão,Higor Meritão,M
+2000-03-13,Wesley,170.0,18517,Gasolina,Wesley Gasolina,D
+2001-09-20,João Lucas,186.0,16251,de Souza Cardoso,Johnny Cardoso,M
+1989-09-10,Marcos,174.0,16150,da Silva França,Keno,F
+2004-01-10,Pedro,191.0,19567,Luccas,Pedro Luccas,GK
+1997-12-10,Lucas,197.0,17924,Perri,Lucas Perri,GK
+1992-03-11,Carlos,177.0,8380,De Peña,Carlos De Peña,F
+1992-02-06,Maurício,183.0,23352,Antônio,Maurício Antônio,RCB
+1994-10-01,Pedro,175.0,16183,Rocha,Pedro Rocha,F
+1996-02-06,Iago,195.0,17901,Maidana,Iago Maidana,D
+1992-01-06,Magno José,175.0,17991,da Silva,Maguinho,D
+2001-02-06,Natan,188.0,18015,Bernardo de Souza,Natan,D
+1995-10-31,Jackson Diego,175.0,18084,Ibraim Fagundes,Dieguinho,M
+2002-07-02,Gabriel,195.0,18717,Perieira,Gabriel Pereira,GK
+1989-07-10,Alan,178.0,16144,Borges de Carvalho,Alan,F
+2000-07-09,Robson,187.0,17900,dos Santos Nascimento,Robson,GK
+1990-02-26,Manoel,181.0,16151,Silva Carvalho,Manoel,D
+1997-08-11,Gabriel,171.0,17885,Neves,Gabriel Neves,M
+2003-07-16,Rikelme,184.0,18550,Amorim Rocha,Rikelme,M
+1998-10-20,Jacob,180.0,7144,Montes,Jacob Montes,M
+1997-04-14,Guilherme,176.0,15801,Arana,Guilherme Arana,D
+2002-05-14,Ryan Carlos,172.0,18450,Santos De Sousa,Ryan Carlos Santos De Sousa,D
+2000-10-20,Hércules,178.0,16184,Pereira do Nascimento,Hércules,M
+1999-04-16,Vinicius,188.0,18534,Barreta,Vinicius Barreta,GK
+2004-01-31,Rômulo,183.0,19909,Pereira,Rômulo,RCB
+1997-07-31,Luan,181.0,18697,Dias,Luan Dias,AM
+1999-04-12,Rafael,179.0,20673,Elias,Rafael Elias,CF
+1998-03-23,Adryelson,184.0,17928,Silva,Adryelson,D
+2005-02-24,Arthur,,18667,Wenderroscky,Arthur,AM
+1990-03-17,Aderbar Melo,188.0,16123,dos Santos,Santos,GK
+1996-10-04,Felipe,177.0,18479,Carballo,Felipe Carballo,M
+1994-01-28,Leonel,176.0,14526,Di Placido,Leonel Di Placido,D
+2000-03-08,Felipe,196.0,18464,Scheibig,Felipe Scheibig,GK
+1989-04-27,Junior,173.0,12107,Caicara,Junior Caicara,D
+1995-01-06,Raphael,178.0,11678,Guzzo,Raphael Guzzo,M
+1988-01-13,Tomas,177.0,12769,Rincon,Tomas Rincon,M
+1997-08-19,Cleiton,190.0,18087,Schwengber,Cleiton,GK
+1988-03-12,Christian,188.0,16186,Chagas Tarouco,Titi,D
+1993-03-07,Gilberto,181.0,7997,Moraes Júnior,Gilberto,D
+1987-03-29,Dimitri,175.0,3990,Payet,Dimitri Payet,F
+1989-12-18,Edenilson,175.0,15817,Andrade dos Santos,Edenilson,M
+2001-01-06,Diogenes,186.0,17950,Vinicius da Silva,Diogenes,GK
+1993-11-03,Rodrigo,188.0,1478,Ely,Rodrigo Ely,D
+2006-03-15,William,,24543,Gomes,William Gomes,F
+2005-03-07,Jair,195.0,24122,Paula,Jair Paula,RCB
+1987-11-18,Walter,188.0,18532,Capeloza Artune,Walter,GK
+2003-12-31,João Pedro,192.0,19472,de Sousa Rodrigues,Tchoca,D
+1997-07-06,Juninho,176.0,18020,Capixaba,Juninho Capixaba,D
+2006-03-28,Kaua,180.0,18905,Elias,Kaua Elias,CF
+2004-08-26,Paulo,185.0,18779,Vitor,Paulo Vitor,RCB
+2004-01-08,Samuel,178.0,23374,Alves Barroso,Samuel,RB
+1988-09-14,Maicon,191.0,17952,Pereira Roque,Maicon,D
+1991-01-17,Tiquinho,187.0,17947,Soares,Tiquinho Soares,F
+1996-02-13,John,196.0,16252,Victor,John Victor,GK
+1994-11-29,Alef,190.0,18502,Manga,Alef Manga,F
+2000-02-21,Jhonny,170.0,17995,Lucas,Jhonny Lucas,M
+2004-05-03,Andrey,180.0,18430,Santos,Andrey Santos,M
+1998-04-01,Alexandre,182.0,16254,Zurawski,Alexandre Alemão,F
+1998-03-05,Anderson,190.0,18510,Paixão,Anderson Paixão,GK
+2001-01-30,Vinicius,185.0,17967,Zanocelo,Vinicius Zanocelo,M
+2000-04-14,Rafael,183.0,16713,Navarro,Rafael Navarro,F
+1996-11-05,Pedro,193.0,6575,Raúl,Pedro Raúl,F
+1999-02-03,Zé,180.0,17993,Ricardo,Zé Ricardo,M
+1993-05-22,Ramiro,169.0,18522,Moschen Benetti,Ramiro,M
+1995-02-16,Ademir,172.0,15806,da Silva Santos Junior,Ademir,F
+2000-09-29,Gabriel,176.0,16559,Menino,Gabriel Menino,M
+1998-02-15,Andrey,175.0,18498,Ramos do Nascimento,Andrey,M
+1998-07-29,Matheus,176.0,18006,Santos,Matheusinho,F
+1987-10-27,Rodrigo,188.0,16256,Moledo,Rodrigo Moledo,D
+1995-09-06,Iury,185.0,18559,Castilho,Iury Castilho,F
+1997-03-26,Marcos,176.0,18721,Vinícius,Marcos Vinícius,CM
+2004-12-21,Ângelo,182.0,17974,Gabriel,Ângelo Gabriel,F
+2005-07-25,Nathan,177.0,18392,Camargo,Nathan Camargo,M
+2005-09-20,Lian,,18932,dos Santos da Silva,Lian,F
+2001-02-28,Kaique,195.0,15776,Rocha,Kaique Rocha,D
+1999-03-22,Bernardo,191.0,18797,Schappo,Bernardo Schappo,LCB
+2004-02-15,Kaio,168.0,18505,César,Kaio César,F
+1995-03-19,Clayson,166.0,19563,da Silva Vieira,Clayson,LW
+1994-09-05,Vitor,185.0,15796,Bueno,Vitor Bueno,M
+1995-04-24,Allano Brendon,182.0,11608,de Souza Lima,Allano,F
+2002-05-22,Matheus,176.0,18619,Araújo,Matheus Araújo,AM
+1997-03-23,Thiago,179.0,16137,Maia,Thiago Maia,M
+2001-12-14,Luis,181.0,3988,Henrique,Luis Henrique,F
+1998-02-12,Mateus,175.0,18526,Vital,Mateus Vital,M
+1995-07-02,Lucas,188.0,7994,Verissimo,Lucas Verissimo,D
+2003-01-04,Matías,165.0,17377,Segovia,Matías Segovia,M
+2000-08-09,Rodrigo,175.0,17886,Nestor,Rodrigo Nestor,M
+1990-06-06,Samuel,166.0,16146,Xavier,Samuel Xavier,D
+2002-09-09,Jhonatan,178.0,16566,dos Santos Rosa,Jhon Jhon,AM
+1993-06-16,Zé,175.0,16569,Rafael,Zé Rafael,M
+1997-07-18,Matheus,191.0,13417,Babi,Matheus Babi,CF
+1988-02-08,Renato,186.0,16027,Augusto,Renato Augusto,M
+1996-05-05,Matheus,175.0,2044,Pereira,Matheus Pereira,M
+2000-08-10,Eric,174.0,18026,Ramires,Eric Ramires,M
+1991-07-12,James,181.0,1690,Rodríguez,James Rodríguez,M
+1990-10-18,Fransergio,186.0,5970,Barbosa,Fransergio,M
+1991-07-05,Everaldo,182.0,18560,Stum,Everaldo,F
+1998-01-06,João Pedro,183.0,18562,Vilardi Pinto,Pepê,M
+2000-03-01,Rômulo,182.0,18598,Zanre Zwarg,Rômulo,DM
+1996-03-15,Joriwinnyson,190.0,17897,Santos dos Anjos Rodrigues,Jori,GK
+1990-10-03,Sander,177.0,17989,Henrique Bortolotto,Sander,D
+1996-06-03,Sebastián,172.0,15840,Gómez,Sebastián Gómez,M
+2003-03-08,Kaiki,172.0,18516,Bruno da Silva,Kaiki,D
+1989-04-17,Charles,171.0,4591,Aránguiz,Charles Aránguiz,M
+1995-11-03,Matías,180.0,14399,Rojas,Matías Rojas,M
+1997-09-07,Gustavo,169.0,16012,Mosquito,Gustavo Mosquito,F
+2002-08-02,Talles,176.0,17887,Costa,Talles Costa,M
+1989-04-10,Everton,174.0,13831,Ribeiro,Everton Ribeiro,M
+1998-08-21,Alan,175.0,7571,Franco,Alan Franco,M
+1995-05-13,Alex,182.0,15797,Santana,Alex Santana,M
+2004-01-25,Rafael,,19125,Barcelos,Rafael Barcelos,DM
+1997-09-05,Maximiliano,176.0,7385,Silvera,Maximiliano Silvera,F
+2002-06-28,Daniel,169.0,18596,Martins,Daniel Martins,AM
+1999-10-24,Vitor,168.0,18460,Jacaré,Vitor Jacaré,F
+2001-03-01,Joao Fernando,188.0,18702,Monteiro Siqueira,Joao Fernando,GK
+1991-08-23,Fabián,188.0,258,Balbuena,Fabián Balbuena,D
+1997-05-20,Gerson,184.0,3981,Santos Da Silva,Gerson,M
+1992-06-23,Pablo,185.0,16717,Teixeira,Pablo,F
+2000-04-18,Gustavo,190.0,18696,dos Santos,Vilar,RCB
+1994-09-28,Mateus,172.0,17913,Gonçalves,Mateus Gonçalves,F
+1991-06-18,Mauricio,191.0,18373,Kozlinski,Mauricio Kozlinski,GK
+1997-05-30,Luis Eduardo,175.0,16715,Marques dos Santos,Dudu,D
+1999-01-08,Igor,175.0,18518,Formiga,Igor Formiga,D
+1992-08-13,Ricardo,190.0,18075,Silva,Ricardo Silva,D
+2001-09-16,Alexandre,184.0,16145,Jesus,Alexandre Jesus,F
+2002-06-04,Rodrigo,176.0,18429,Alves,Rodrigo Alves,M
+2002-02-24,Everton,170.0,18393,Souza Messias,Everton,F
+1992-06-28,Mateus,192.0,17898,Pasinato,Mateus Pasinato,GK
+1999-09-10,Bruno,180.0,16019,Méndez,Bruno Méndez,D
+1999-04-01,Brenno,190.0,18461,Oliveira Fraga Costa,Brenno,GK
+2000-10-06,Adson,171.0,16020,Ferreira Soares,Adson,F
+1992-01-07,Eduardo,166.0,16714,Pereira Rodrigues,Dudu,F
+1994-01-20,Lucas,182.0,17941,Piazon,Lucas Piazon,M
+1996-03-06,Léo,183.0,18418,Pinheiro da Conceição,Léo,D
+1990-02-01,Fellipe,178.0,17996,Bastos,Fellipe Bastos,M
+2003-06-11,Kayky,172.0,5959,Chagas,Kayky,F
+1996-03-13,Nathan,177.0,16738,Allan de Souza,Nathan,M
+1980-09-30,Fábio,188.0,16750,Lopes Maciel,Fábio,GK
+1990-07-09,Rafael,172.0,18105,Pereira da Silva,Rafael,D
+1988-09-06,João,186.0,16166,Ricardo,João Ricardo,GK
+2004-09-08,Patrick,174.0,18455,Verhon,Patrick Verhon,M
+2003-05-09,Luis Henrique,178.0,18483,Hoffmann,Zinho,F
+2001-03-10,Juan,177.0,18529,Christian,Juan Christian,F
+2005-06-05,Deivid,187.0,18305,Washington,Deivid Washington,LW
+2005-05-01,Kayky,185.0,18906,Almeida,Kayky Almeida,RCB
+2000-05-02,Lucas,188.0,17982,Halter,Lucas Halter,D
+1996-05-02,Benjamín,186.0,16565,Kuscevic,Benjamín Kuscevic,D
+1992-09-27,Gabriel,194.0,18574,Vasconcelos Ferreira,Gabriel,GK
+1996-05-16,Marcio,178.0,18605,Almeida de Oliveira,Marcinho,RB
+1996-11-15,João,179.0,18580,Pedro,João Pedro,D
+1995-04-28,Igor,190.0,15804,Rabello,Igor Rabello,D
+2001-01-03,Lucas,173.0,16244,Ramos,Lucas Ramos,M
+2001-02-25,Khellven,176.0,15780,Silva Oliveira,Khellven,D
+2000-04-19,Marco Antônio,191.0,18488,de Oliveira Montes,Marcão,GK
+1988-05-12,Marcelo,174.0,1680,da Silva,Marcelo,D
+2000-01-19,Miranda,181.0,18419,Matheus dos Santos,Miranda,D
+1997-03-16,Gonzalo,171.0,19612,Escobar,Gonzalo Escobar,LB
+1996-04-19,Manuel,189.0,14736,Capasso,Manuel Capasso,D
+1987-06-12,Carlos Gilberto,192.0,16024,do Nascimento Silva,Gil,D
+2003-12-09,Renato,180.0,18810,Marques,Renato Marques,CF
+1989-06-06,Willian,178.0,18496,Farias,Willian Farias,M
+2001-02-11,Gabriel,172.0,18438,Pec,Gabriel Pec,F
+1997-02-21,Zé,185.0,15788,Ivaldo,Zé Ivaldo,D
+1988-12-11,Marcos,176.0,16556,Rocha,Marcos Rocha,D
+2004-05-06,Cauan,183.0,18432,Barros,Cauan Barros,M
+1987-06-06,Cássio,195.0,16009,Ramos,Cássio,GK
+2002-05-09,Daniel,177.0,18528,Júnior,Daniel Júnior,M
+2002-05-16,Bruno,181.0,14845,Zapelli,Bruno Zapelli,F
+1996-02-02,Lucas,187.0,18512,Oliveira,Lucas Oliveira,D
+1992-03-26,Emanuel,178.0,16174,Brítez,Emanuel Brítez,D
+1991-06-21,Pablo,188.0,16716,Castro,Pablo,D
+1998-12-28,Joaquim,190.0,17955,Pereira Silva,Joaquim,D
+2002-02-18,Pedro,,18679,Vilhena,Pedro Vilhena,AM
+2003-09-28,Júlio,186.0,18889,César,Júlio César,RCB
+1996-04-28,Fabricio,167.0,16245,Bustos,Fabricio Bustos,D
+1987-05-21,David,188.0,16159,Braz,David Braz,D
+2004-05-14,Felipe,,18862,Negrucci,Felipe Negrucci,DM
+1993-04-23,Washington,187.0,3697,Aguerre,Washington Aguerre,GK
+2002-05-29,Felipe,182.0,19453,Andrade,Felipe Andrade,RCB
+2003-05-20,Michel,188.0,18350,Rafael dos Santos,Michel,D
+1986-06-23,Mariano,177.0,15809,Ferreira Filho,Mariano,D
+1993-05-18,Luciano,180.0,17895,da Rocha Neves,Luciano,F
+1995-12-28,Mauricio,187.0,11939,Lemos,Mauricio Lemos,D
+1992-08-17,Diogo,179.0,18471,Barbosa,Diogo Barbosa,D
+2000-06-13,Joao,189.0,8545,Marcelo,Joao Marcelo,D
+1991-11-30,Juan Martín,179.0,16191,Lucero,Juan Martín Lucero,F
+1994-10-11,Júnior,188.0,16185,Santos,Júnior Santos,F
+2003-09-20,Pablo Henrique,180.0,19542,Almeida Silva,Pablinho,RW
+1988-09-17,Thiago,187.0,15794,Heleno,Thiago Heleno,D
+1993-05-06,Gustavo,185.0,16551,Gómez,Gustavo Gómez,D
+2004-01-02,João Wellington,186.0,24320,Gadelha Melo de Oliveira,Japa,AM
+2002-04-30,Luciano,184.0,15790,Arriagada,Luciano Arriagada,F
+1996-01-07,Marcelo,181.0,16187,Benevenuto,Marcelo Benevenuto,D
+1989-06-23,Rafael,192.0,18102,Pires Monteiro,Rafael,GK
+1992-04-16,Marllon,186.0,18536,Jerônimo Borges,Marllon,D
+2006-02-05,Pedro,170.0,18363,Silva dos Santos,Pedro,F
+1999-03-10,Matheus,191.0,15812,Mendes,Matheus Mendes,GK
+1996-11-10,Lucas,184.0,17972,Braga,Lucas Braga,F
+1997-01-03,Reynaldo,186.0,18513,Cesar Moraes,Reynaldo,D
+2002-03-18,Mateus,174.0,18838,Carvalho,Mateus Carvalho,DM
+2005-04-25,Josué,,24313,Souza dos Santos,Josué,DM
+1994-08-20,Gabriel,175.0,18614,Inocêncio,Gabriel Inocêncio,LB
+1989-10-21,Bruno,180.0,20670,Henrique,Bruno Henrique,CM
+1998-08-29,Claudio,174.0,16729,Rodrigues Gomes,Guga,D
+1995-08-21,Agustin,193.0,14338,Rossi,Agustin Rossi,GK
+1994-11-11,Philipe,191.0,17931,Sampaio,Philipe Sampaio,D
+1998-07-16,Anderson,169.0,11652,Oliveira,Anderson Oliveira,M
+1987-12-13,Weverton,189.0,13829,Pereira da Silva,Weverton,GK
+1995-03-20,Leo,188.0,3939,Jardim,Leo Jardim,GK
+1990-07-22,Everson,192.0,15808,Marques Pires,Everson,GK
+1999-07-21,Diego,184.0,18071,Costa,Diego Costa,D
+1997-04-10,Marcilio Florencio,188.0,16154,Mota Filho,Nino,D
+1993-03-23,Sergio,190.0,13924,Rochet,Sergio Rochet,GK
+1990-05-20,Rafael,186.0,6918,Cabral,Rafael,GK
+1989-06-09,Danilo,185.0,17904,Avelar,Danilo Avelar,D
+2001-02-26,Leonardo,186.0,18017,Realpe,Leonardo Realpe,D
+1991-03-14,Walter,184.0,18465,Kannemann,Walter Kannemann,D
+1996-04-13,Marcos,188.0,18440,Felipe,Marcos Felipe,GK
+1988-04-03,Danilo,188.0,18442,Fernandes,Danilo Fernandes,GK
+1996-02-24,Lucas,188.0,11481,Mineiro,Lucas Mineiro,M
+1994-05-10,Gabriel,183.0,18425,Dias,Gabriel Dias,D
+1991-03-27,Bartolomeu Jacinto,180.0,24065,Quissanga,Bastos,RCB
+1993-09-08,Dalbert Henrique,181.0,12951,Chagas Estevão,Dalbert,D
+1992-04-03,Juan,171.0,14774,Cazares,Juan Cazares,M
+2002-01-05,Natanael,172.0,18495,Moreira Milouski,Natanael,D
+2004-04-06,Léo,179.0,19469,Mana,Léo Mana,D
+1998-11-08,Leonardo,166.0,3335,Fernández,Leonardo Fernández,M
+1993-06-11,Helibelton,181.0,13239,Palacios,Helibelton Palacios,D
+1993-05-25,Hyoran,174.0,15807,Kaue Dalmoro,Hyoran,M
+2003-06-07,Calebe,,19128,Oliveira Costa,Calebe,M
+2004-03-07,Kauã Diniz,,24913,Kauã Diniz,Kauã Diniz,DM
+2002-05-21,Talisson,188.0,18388,de Almeida,Talisson,F
+1992-07-04,Ángel,176.0,7663,Romero,Ángel Romero,F
+1995-06-29,João,189.0,18107,Paulo,João Paulo,GK
+1993-09-01,Guilherme,179.0,16175,de Jesus da Silva,Tinga,D
+1986-01-10,Nino,168.0,17905,Paraíba,Nino Paraíba,D
+1998-08-24,Joaquín,185.0,16557,Piquerez,Joaquín Piquerez,D
+1994-07-05,Patric,181.0,18539,Calmon,Patric Calmon,D
+1994-06-17,Martín,175.0,17908,Benítez,Martín Benítez,M
+1994-03-27,Joao,178.0,5005,Victor,Joao Victor,F
+2002-04-12,Gabriel,170.0,18345,Pirani,Gabriel Pirani,M
+1998-10-01,Agustin,175.0,13928,Canobbio,Agustin Canobbio,F
+2004-04-23,Gustavo,176.0,18391,Neves,Gustavinho,M
+1995-02-05,Bruno,186.0,18489,Viana,Bruno Viana,D
+1994-06-19,Lucas,178.0,16167,Crispim,Lucas Crispim,M
+2006-07-21,Endrick,173.0,16552,Moreira de Sousa,Endrick,F
+2003-01-18,Patryck,181.0,17880,Lanza dos Reis,Patryck,D
+2001-03-18,Yuri,183.0,16028,Alberto,Yuri Alberto,F
+2001-06-05,Natã Felipe,180.0,18468,de Amorim Santos,Natã,D
+1994-06-04,Emmanuel,169.0,17912,Martínez,Emmanuel Martínez,F
+1996-02-12,Fabrício,190.0,16125,Bruno,Fabrício Bruno,D
+2002-06-08,Bruno,192.0,18839,Souza,Bruno Souza,GK
+1989-02-19,Fernando,178.0,1906,Marcal Oliverira,Marcal,D
+1990-08-18,Aderlan,182.0,18022,de Lima Silva,Aderlan,D
+2002-01-10,Pablo,178.0,17884,Maia,Pablo Maia,M
+1990-06-16,Pedro,181.0,16712,Henrique,Pedrao,F
+1989-06-11,Fagner,168.0,16017,Conserva Lemos,Fagner,D
+1999-06-10,Bento,190.0,15778,Matheus Krepski,Bento,GK
+1999-04-07,Matheus,188.0,18540,Alexandre,Matheus Alexandre,D
+1997-03-30,Bruno,175.0,8084,Ramos,Bruno Tabata,F
+1997-05-06,Nathan,182.0,15814,Silva,Nathan Silva,D
+1997-09-23,Wallisson Luiz,184.0,18520,Alves Máximo,Wallisson,M
+1999-04-05,Gabriel,183.0,18008,Novaes,Gabriel Novaes,F
+1996-03-16,Lucas,186.0,17906,Kal,Lucas Kal,M
+1993-03-01,Alison,182.0,17964,Lopes Ferreira,Alison,M
+2001-04-01,Gabriel,170.0,18459,Teixeira Aragão,Gabriel Teixeira,F
+1992-09-14,Renê,174.0,16259,Rodrigues Martins,Renê,D
+1997-11-28,Eduardo,196.0,18601,Santos,Eduarod Santos,RCB
+2001-03-23,Denilson,180.0,18548,Alves Borges,Denilson,M
+2002-07-03,Arthur,184.0,11757,Sales,Arthur Sales,F
+1993-08-12,Filipe,183.0,18542,Augusto,Filipe Augusto,M
+1995-03-11,José,177.0,16172,Welison,Zé Welison,M
+2000-01-07,João Paulo,178.0,18478,de Souza Mares,Bitello,M
+1993-04-30,Gustavo,181.0,17944,Sauer,Gustavo Sauer,F
+1999-09-14,Fernando,181.0,16751,Pereira Bueno Júnior,Fernando,D
+1999-02-04,Julián,169.0,17998,Palacios,Julián Palacios,M
+1993-02-07,Bruno,182.0,17990,Santos,Bruno Santos,D
+1993-09-14,Zé,184.0,18507,Roberto,Zé Roberto,F
+2002-02-14,Guilherme,178.0,18602,Lopes,Guilherme Lopes,LB
+2003-02-16,Luis Eduardo,179.0,18473,Soares da Silva,Cuiabano,D
+2001-06-15,Vinicius Rodrigues,171.0,18778,Adelino dos Santos,Dodozinho,AM
+2001-10-14,Lucas,183.0,14806,Esquivel,Lucas Esquivel,D
+1993-06-25,Alisson,174.0,18073,de Freitas Castro,Alisson,F
+1996-08-06,Neto,176.0,18524,Moura,Neto Moura,M
+2002-04-25,Jhoanner,182.0,18448,Chávez,Jhoanner Chávez,D
+1997-03-17,Everton,177.0,18485,Galdino,Everton Galdino,F
+2003-05-02,Marcos,176.0,17976,Leonardo,Marcos Leonardo,F
+1997-01-08,Paulinho,173.0,20674,Paula,Paulinho Paula,CM
+2002-05-09,Matheus,187.0,16257,Dias,Matheus Dias,M
+1992-01-13,Madson,182.0,15785,Ferreira dos Santos,Madson,D
+2003-01-11,Rodrigo,180.0,17918,Varanda,Rodrigo Varanda,F
+2002-07-04,Murillo,182.0,18361,Costa dos Santos,Murillo,D
+1991-05-21,Guilherme,174.0,18594,Costa Marques,Guilherme,AM
+1983-06-26,Felipe,183.0,16161,Melo,Felipe Melo,M
+2000-06-02,Richard,187.0,3658,Rios,Richard Rios,M
+1991-05-30,Robson,175.0,18566,dos Santos Fernandes,Robson,F
+1989-09-13,Luciano,187.0,18515,Castán,Luciano Castán,D
+1991-05-20,Vitor,187.0,11999,Hugo,Vitor Hugo,D
+1995-05-06,Lucas,181.0,18027,Evangelista,Lucas Evangelista,M
+1986-07-27,Matheus,192.0,17899,Cavichioli,Matheus Cavichioli,GK
+2000-03-26,Fausto,180.0,16025,Vera,Fausto Vera,M
+1997-11-04,Everton,185.0,18298,Morelli,Everton Morelli,CM
+1995-01-02,Júlio César,186.0,18452,de Rezende Miranda,Rezende,M
+1997-03-16,Maurício,183.0,20686,Garcez,Maurício Garcez,LW
+1995-04-06,Sergio,180.0,12427,Da Luiz Junior,Sergio,F
+1994-10-07,Wanderson,175.0,16243,Sousa Campos,Wanderson,F
+2003-10-01,Weslley,164.0,18902,Patati,Weslley Patati,LW
+1997-03-03,Allan,172.0,16704,Rodrigues de Souza,Allan,M
+1998-11-08,Maycon,191.0,18013,Cleiton,Maycon Cleiton,GK
+1992-11-10,Mayke,178.0,16550,Rocha de Oliveira,Mayke,D
+2005-03-05,Wesley,180.0,18816,Gassova Ribeiro,Wesley,LW
+1991-04-16,Bruno,185.0,18466,Alves,Bruno Alves,D
+2000-01-15,Imanol,170.0,14817,Machuca,Imanol Machuca,F
+1987-08-03,Gary,171.0,12735,Medel,Gary Medel,D
+1998-01-18,Nicolás,185.0,15784,Hernández,Nicolás Hernández,D
+1997-08-29,Hugo,179.0,18082,Ferreira de Farias,Hugo,D
+2004-05-21,João,176.0,17882,Moreira,João Moreira,D
+1999-09-27,Derik,191.0,20671,Lacerda,Derik Lacerda,CF
+1995-06-19,Raphael,176.0,16558,Veiga,Raphael Veiga,M
+1995-06-25,Marcelino,175.0,2353,Moreno,Marcelino Moreno,M
+1996-01-21,Cristian,174.0,854,Pavon,Cristian Pavon,F
+1998-06-22,Jean,179.0,3893,Lucas,Jean Lucas,M
+1997-03-03,Pedro,181.0,19902,Augusto,Pedro Augusto,DM
+1997-11-14,Erick,176.0,15786,Conrado Carvalho,Erick,M
+1995-11-30,Rafael,183.0,9862,Ratao,Rafael Ratao,F
+1998-06-30,Matheus,183.0,1520,Fernandes,Matheus Fernandes,M
+1987-03-18,Gabriel,181.0,16248,Mercado,Gabriel Mercado,D
+2004-03-29,Kevyson,178.0,17959,Costa e Silva,Kevyson,D
+2003-04-18,Pedro,177.0,23509,Fonseca de Araújo,Pedrinho,AM
+1989-10-17,Carlos,184.0,18106,Eduardo,Carlos Eduardo,M
+1996-12-31,Raniele,184.0,18541,Almeida Melo,Raniele,M
+1998-02-15,Artur,168.0,18088,Guimarães,Artur,F
+2002-06-20,Thiago,190.0,18814,Dombroski,Thiago Dombroski,LCB
+1993-10-15,Víctor,180.0,16018,Cantillo,Víctor Cantillo,M
+1993-04-28,Gonzalo,180.0,17920,Mastriani,Gonzalo Mastriani,F
+2006-11-06,Julio,,24043,Fidelis,Julio Fidelis,D
+1993-05-16,Willian,179.0,17992,Oliveira,Willian Oliveira,M
+1999-04-01,Vitor,181.0,8378,dos Santos,Vitinho,F
+1986-10-14,Henrique,185.0,18575,Adriano Buss,Henrique,D
+1997-01-13,Joao,187.0,11717,Basso,Joao Basso,D
+1985-01-04,Réver,192.0,15813,Alves de Araújo,Réver,D
+1985-09-16,Fábio,179.0,16026,Santos,Fábio Santos,D
+1990-05-29,Mario,169.0,16130,Santos,Marinho,F
+2001-07-04,David,190.0,23368,Sousa,David Sousa,LCB
+1991-05-08,Deyverson,187.0,18558,Brum Silva Acosta,Deyverson,F
+2004-01-04,Wesley,,19336,Da Costa Silva,Wesley,LB
+1995-05-11,Rony,167.0,16549,da Silva Barbosa,Rony,F
+1990-07-09,Lucas,176.0,18081,Lima,Lucas Lima,M
+1987-10-23,Adilson,173.0,18078,dos Anjos Oliveira,Juninho,M
+1994-05-04,Otavio,173.0,4270,Henrique Passos Santos,Otavio,M
+1987-01-10,Felipe,174.0,17914,Azevedo,Felipe Azevedo,F
+1991-05-13,Alan,177.0,9187,Patrick,Alan Patrick,M
+1992-08-30,Tchê,175.0,17939,Tchê,Tchê Tchê,M
+1996-01-31,Léo,189.0,16735,Pereira,Léo Pereira,D
+1990-05-31,Giuliano,172.0,16014,Victor de Paula,Giuliano,M
+1992-10-26,Bruno,183.0,17988,Melo,Bruno Melo,D
+2001-12-23,Andrés,178.0,18021,Hurtado,Andrés Hurtado,D
+1998-07-03,Arthur,174.0,11624,Gomes,Arthur Gomes,F
+2002-07-03,Gabriel,178.0,18581,Silva,Gabriel Silva,M
+1993-01-06,Wellington,170.0,18556,Silva,Wellington Silva,F
+1997-06-30,Yeferson,160.0,3084,Soteldo,Yeferson Soteldo,F
+1999-08-29,Luciano,176.0,23456,Juba,Luciano Juba,LW
+2001-10-05,Matheus,176.0,16164,Martinelli Lima,Martinelli,M
+2001-11-15,Henry,175.0,18600,Mosquera,Henry Mosquera,LW
+1997-01-24,Mathías,178.0,18476,Villasanti,Mathías Villasanti,M
+2004-04-27,Thiago,,24441,Henrique,Thiago Henrique,DM
+1996-03-22,Matheus,183.0,16188,Jussa,Matheus Jussa,M
+1999-04-14,Nicolás,173.0,978,Acevedo,Nicolás Acevedo,M
+1994-03-10,Alan,186.0,18535,Empereur,Alan Empereur,D
+2006-06-07,João,178.0,24316,Dalla Corte,João Dalla Corte,LCB
+1985-09-07,Marcio Rafael,172.0,18103,Ferreira de Souza,Rafinha,D
+1997-07-15,Maycon,173.0,9113,Barberan,Maycon,M
+1997-06-20,Pedro,185.0,13830,Guilherme,Pedro,F
+2001-09-20,Hugo,175.0,18080,Ferreira Neto,Hugo,D
+1993-08-03,Vinícius,179.0,18000,Santos Silva,Vinícius,F
+1985-05-04,Fernando,179.0,19,Luiz Roza,Fernandinho,M
+1996-01-24,Breno,178.0,16555,Lopes,Breno Lopes,F
+1988-10-15,Pablo,187.0,14846,Vegetti,Pablo Vegetti,F
+1995-09-07,Marlon,182.0,8644,da Silva,Marlon,D
+2001-04-04,Bruno,175.0,18499,Gomes,Bruno Gomes,M
+1996-01-03,Rodrigo,174.0,17963,Fernández,Rodrigo Fernández,M
+2000-07-15,Paulo,177.0,4596,Henrique Sampaio Filho,Paulinho,F
+1989-09-28,Reinaldo,178.0,18472,Manoel da Silva,Reinaldo,D
+2001-05-20,Jadsom,176.0,18023,Meemyas de Oliveira da Silva,Jadsom,M
+1992-06-28,Wellington,172.0,17890,Rato,Wellington Rato,M
+1996-06-11,Vinícius,181.0,16160,Moreira de Lima,Lima,F
+1997-02-15,Joao,195.0,19572,Magno,Joao Magno,CF
+1989-11-04,Enner,177.0,11960,Valencia,Enner Valencia,F
+2000-03-23,Ruan,176.0,19306,Oliveira,Ruan Oliveira,AM
+2004-02-23,João,,21128,Vitor,João Vitor,RCB
+1991-12-08,Bruno,174.0,16189,Pacheco,Bruno Pacheco,D
+1997-03-07,Bruno,177.0,18579,Rodrigues,Bruno Rodrigues,F
+1997-06-19,Ayrton,180.0,16136,Lucas,Ayrton Lucas,D
+1991-07-10,Jonathan,175.0,18555,Cafú,Jonathan Cafú,F
+1999-01-21,Zé,184.0,18428,Gabriel,Zé Gabriel,M
+2000-04-25,Helinho,175.0,18028,Nunes de Castro,Helinho,F
+1996-12-04,Diogo,193.0,6598,De Oliveira,Diogo De Oliveira,F
+1995-05-12,Thaciano,182.0,18454,Mickael da Silva,Thaciano,M
+1997-06-18,Eduard,180.0,1285,Atuesta,Eduard Atuesta,M
+1996-08-15,Franco,175.0,18480,Cristaldo,Franco Cristaldo,M
+1986-07-25,Givanildo,180.0,15816,Vieira de Souza,Hulk,F
+1988-11-19,Victor,187.0,17930,Cuesta,Victor Cuesta,D
+2000-12-19,Christian,178.0,15798,Alves Cardoso,Christian,M
+2003-11-24,Lucas,186.0,17877,Beraldo,Lucas Beraldo,D
+2000-04-30,Calebe,173.0,15810,Ferreira da Silva,Calebe,M
+2001-07-16,André,176.0,16163,da Costa Neto,André,M
+2001-06-22,Maurício,174.0,16250,Magalhães Prado,Maurício,M
+2005-09-28,Gabriel,185.0,19468,Moscardo,Gabriel Moscardo,M
+1994-02-13,Marlon,177.0,17903,Lopes,Marlon Lopes,D
+1992-08-13,Lucas,172.0,85,Moura,Lucas Moura,F
+1997-05-20,Marlon,178.0,12963,Rodrigues Xavier,Marlon,D
+1995-09-15,Cauly,175.0,18456,Oliveira Souza,Cauly Oliveira Souza,M
+1993-03-05,Eduardo,180.0,19608,da Silva Júnior,Edu,CF
+2000-10-09,Lucas,175.0,18421,Piton,Lucas Piton,D
+1994-12-17,Fernando,178.0,18544,Sobral,Fernando Sobral,M
+2003-10-08,Alexsander,177.0,16155,Gomes da Costa,Alexsander,M
+2004-03-03,Matheus,182.0,17946,Nascimento,Matheus Nascimento,F
+1987-01-24,Luis,182.0,1535,Suarez,Luis Suarez,F
+2000-03-05,Tomás,176.0,15787,Cuello,Tomás Cuello,F
+1994-01-15,Erick,187.0,16135,Pulgar,Erick Pulgar,M
+1992-02-24,Eduardo,173.0,15805,Sasha,Eduardo Sasha,F
+1999-04-25,Carlos,187.0,20672,de Menezes Júnior,Cacá,RCB
+1991-10-22,Robert,189.0,13936,Arboleda,Robert Arboleda,D
+1991-09-11,Pablo,179.0,18546,Ceppelini,Pablo Ceppelini,M
+2002-05-18,John,181.0,18347,Kennedy,John Kennedy,F
+1992-07-29,Maycon Vinícius,174.0,18527,Ferreira da Cruz,Nikão,M
+2003-01-28,Lucas Eduardo,,18616,Muller,Mila,DM
+1998-03-10,Matías,171.0,15803,Zaracho,Matías Zaracho,M
+2000-02-07,Emerson,196.0,18293,Júnior,Emerson Júnior,GK
+1990-03-30,Douglas,188.0,17926,Borges,Douglas Borges,GK
+1991-07-12,Rodrigo,187.0,13211,Battaglia,Rodrigo Battaglia,M
+1998-01-03,Hugo,177.0,15781,Moura,Hugo Moura,M
+1991-02-07,Wanderson,186.0,18074,Santos Pereira,Wanderson,D
+1992-06-05,Yago,169.0,16177,Pikachu,Yago Pikachu,D
+2002-02-23,André,185.0,18620,Luiz,André Luiz,CF
+2001-05-06,Gabriel,190.0,18447,Xavier,Gabriel Xavier,D
+1988-07-25,José Paulo,183.0,16755,Bezerra Maciel Júnior,Paulinho,M
+1995-03-27,Marlon,185.0,17935,Freitas,Marlon Freitas,M
+1996-01-20,Filipe,174.0,18521,Machado,Filipe Machado,M
+1988-02-02,Germán,176.0,16141,Cano,Germán Cano,F
+1994-07-22,Diego,182.0,18001,Gonçalves,Diego Gonçalves,F
+2002-12-29,Ricardo,184.0,18543,Cerqueira,Ricardo Cerqueira,M
+1998-10-10,Gabriel,178.0,16253,Baralhas,Gabriel Baralhas,M
+2001-05-24,Matheus,193.0,16737,Cunha,Matheus Cunha,GK
+2001-04-13,Paulo,180.0,18422,Victor,Paulo Victor,D
+2002-03-07,Juan,177.0,17896,Santos da Silva,Juan,F
+2002-10-12,Diego,182.0,11677,Rosa,Diego Rosa,M
+1999-05-04,Matheus,172.0,16015,Bidu,Matheus Bidu,D
+1993-02-16,Lucas,181.0,18578,Silva,Lucas Silva,M
+2000-03-01,Philippe,188.0,18011,Costa,Philippe Costa,F
+1999-06-05,Nicolás,171.0,18552,Quagliata,Nicolás Quagliata,F
+2003-03-07,Igor Jesus,179.0,18359,Lima,Igor,DM
+2003-08-29,Diogo,173.0,18833,Batista,Diogo Batista,RB
+2001-03-19,Ed,186.0,17971,Carlos,Ed Carlos,M
+2001-02-26,Lucas Alexandre,190.0,18012,Galdino de Azevedo,Lucão,GK
+1986-11-19,Willian,171.0,16143,Bigode,Willian,F
+2000-06-16,Edu,185.0,17986,Ribeiro de Souza,Edu,D
+2006-02-09,Luis,175.0,18353,Guilherme,Luis Guilherme,M
+2002-07-10,Gabriel,189.0,15799,Delfim,Gabriel Delfim,GK
+1989-09-05,Thiago,181.0,790,Santos,Thiago Santos,M
+1992-06-17,Hueglo,192.0,18514,dos Santos Neris,Neris,D
+2001-05-28,Luiz,174.0,18003,Filipe,Luiz Filipe,F
+1999-05-28,Mikael,184.0,17919,Viana de Sousa,Mikael,F
+2005-02-16,Nathan,,18875,Ribeiro,Nathan Ribeiro,LW
+2004-03-01,Erick Marcus,177.0,18435,Dos Santos Oliveira,Erick Marcus Dos Santos,F
+2001-03-06,Igor,185.0,16706,Gomes,Igor Gomes,D
+2000-01-12,Alerrandro,176.0,18032,Ferreira Godoy Viana,Alerrandro,F
+1997-04-26,Jhegson,170.0,1034,Méndez,Jhegson Méndez,M
+1998-01-31,Matheus,187.0,18720,Bianqui,Matheus Bianqui,CM
+1999-03-17,Igor,183.0,16730,Gomes,Igor Gomes,M
+1998-11-09,Matheus,186.0,15793,Felipe,Matheus Felipe,D
+2000-12-06,José Manuel,188.0,16554,López,José Manuel López,F
+2005-05-18,Alexsandro Amorim,177.0,19124,de Freitas Filho,Amorim,AM
+2002-01-14,Thomas,180.0,18475,Luciano,Thomas Luciano,D
+2004-04-24,Isaac,,18604,Rodrigues de Lima,Isaac,LW
+2002-06-10,Zé,192.0,18420,Vitor,Zé Vitor,D
+2001-05-07,JP,184.0,18835,Galvão,JP Galvão,RCB
+1997-03-27,Murilo,188.0,16560,Cerqueira,Murilo,D
+2003-06-05,Rodrigo Henrique,170.0,18079,Santos de Souza,Rodriguinho,M
+1992-01-22,Marcelo,182.0,15795,Cirino,Marcelo Cirino,F
+1992-07-09,Sidimar,185.0,17985,Fernando Cigolini,Sidimar,D
+2001-07-05,Chrystian,178.0,18362,Barletta,Chrystian Barletta,F
+1993-03-01,Jandrei,186.0,17873,Chitolina Carniel,Jandrei,GK
+1993-08-17,Rodrigo,183.0,16129,Caio,Rodrigo Caio,D
+2003-10-07,André Dhominique,178.0,18571,Santiago da Silva,André,D
+1998-07-04,Ariel,178.0,18299,Gomes,Ariel,LW
+2002-06-02,Wesley,178.0,18815,Pombo,Wesley Pombo,RW
+2004-04-20,Ruan,,18951,Assis,Ruan Assis,RW
+1983-04-22,Wellington,180.0,17922,Paulista,Wellington Paulista,F
+1993-09-09,Luiz,189.0,18108,Felipe,Luiz Felipe,D
+2002-02-08,Bruno,186.0,18025,Praxedes,Bruno Praxedes,M
+1990-12-30,Bruno,184.0,16127,Henrique,Bruno Henrique,F
+1999-04-24,Raul,189.0,18444,Gustavo,Raul Gustavo,D
+1995-11-16,Matheus,190.0,18007,Peixoto,Matheus Peixoto,F
+1990-06-06,Alexandre,184.0,17910,Egea,Alê,M
+1997-10-26,Luis,182.0,17929,Segovia,Luis Segovia,D
+1989-09-15,Henrique,186.0,18719,Dourado,Henrique Dourado,CF
+2003-01-22,Lucas,176.0,15054,Besozzi,Lucas Besozzi,F
+1996-01-03,Léo,185.0,18014,Ortiz,Léo Ortiz,D
+2004-04-01,Matheus,184.0,16132,França,Matheus França,M
+1999-05-10,Alex,189.0,17954,de Oliveira Nascimento,Alex,D
+2003-12-14,Marlon,176.0,18433,Gomes,Marlon Gomes,M
+2004-04-20,Guilherme Sucigan,171.0,18796,Mafra Cunha,Biro,RW
+1996-01-11,Daniel,173.0,18453,Sampaio Simões,Danielzinho,M
+2003-01-04,Kevin,176.0,18354,Macedo,Kevin Macedo,F
+1989-07-29,Julio,188.0,3562,Furch,Julio Furch,F
+1995-04-03,William,176.0,4995,de Asevedo Furtado,William,D
+2001-10-29,Gustavo César,174.0,18563,Mendonça Gravino,Gustavinho,M
+2002-02-11,Matías,175.0,18431,Galarza,Matías Galarza,M
+2002-01-20,Luan,190.0,18018,Patrick,Luan Patrick,D
+1995-06-02,Camilo,174.0,15152,Cándido,Camilo Cándido,D
+1993-06-04,Juan,173.0,3538,Iturbe,Juan Iturbe,F
+2000-09-08,Matheus,171.0,16131,França Silva,Matheuzinho,D
+2002-04-07,Thiago,186.0,18031,Borbas,Thiago Borbas,F
+1998-06-26,Paulinho,171.0,19901,Bóia,Paulinho Bóia,LW
+1997-09-20,Lucas,175.0,17942,Fernandes,Lucas Fernandes,M
+1986-12-13,Luiz Diallisson,172.0,18005,de Souza Alves,Apodi,F
+1991-05-30,Rodrigo,185.0,8012,Pinho,Rodrigo Pinho,F
+1999-05-14,Luan,175.0,18104,Vinicius da Silva Santos,Luan,M
+1990-10-22,Jean,170.0,18597,Dias,Jean Dias,LW
+1994-07-11,Yony,184.0,16778,González,Yony González,RW
+1998-03-03,Gustavo Nonato,175.0,22100,Santana,Nonato,CM
+1988-04-06,João,191.0,18533,Carlos,João Carlos,GK
+1989-06-05,Gilberto,178.0,18568,Oliveira Souza Júnior,Gilberto,F
+1999-04-01,Bruno,190.0,15811,Fuchs,Bruno Fuchs,D
+1996-03-22,Everton,174.0,8006,Sousa Soares,Everton,M
+2002-10-02,Mateus,178.0,17911,Henrique,Mateus Henrique,M
+2003-02-11,Ronald,186.0,18561,Cardoso Falkoski,Ronald,M
+1994-03-01,José Romário,168.0,16168,Silva de Souza,Romarinho,F
+1997-03-14,José Luis,183.0,13931,Rodríguez,José Luis Rodríguez,RB
+2000-02-02,Vitor,185.0,9114,da Silva Matos,Vitão,D
+1988-08-08,Bruno,185.0,18615,Mezenga,Bruno Mezenga,CF
+1993-06-23,Victor,177.0,18493,Luis,Victor Luis,D
+2003-06-13,Ezequiel,185.0,21094,Oliveira,Ezequiel Oliveira,GK
+1987-04-22,David,189.0,148,Luiz,David Luiz,D
+1990-01-06,Alex,173.0,9174,Teixeira,Alex Teixeira,F
+2002-01-04,Gustavo,175.0,16563,Garcia,Gustavo Garcia,D
+2004-01-28,Jean,191.0,18490,Pedroso,Jean Pedroso,D
+2001-06-21,Rubens,178.0,15815,Dias,Rubens,M
+1988-07-22,Silvio,175.0,16173,Romero,Silvio Romero,F
+2004-03-12,Mycael,191.0,19459,Pontes Moreira,Mycael,GK
+2003-04-05,Stênio,180.0,18530,Zanetti Toledo,Stênio,F
+2003-03-12,Luis,187.0,23248,Mina,Luis Mina,RCB
+1990-07-09,Fábio,172.0,4180,Pereira da Silva,Fábio,D
+1999-08-11,Matheus,181.0,18449,Bahia,Matheus Bahia,D
+2002-07-17,Yani,186.0,19606,Quintero,Yani Quintero,DM
+1992-04-04,Gustavo,178.0,12223,Campanharo,Gustavo Campanharo,D
+1994-11-03,Messias,191.0,17953,Rodrigues da Silva Júnior,Messias,D
+2004-01-04,Petterson,181.0,23507,Novaes Reis,Petterson,CF
+1994-02-02,Tobias,188.0,7010,Figueiredo,Tobias Figueiredo,D
+1993-09-18,Gabriel,187.0,17938,Pires,Gabriel Pires,M
+1990-10-23,Allyson,184.0,12474,Aires dos Santos,Allyson,D
+1993-05-10,Luan,188.0,16709,Garcia Teixeira,Luan,D
+1998-10-09,Carlos,204.0,16016,Miguel,Carlos Miguel,GK
+1994-05-28,Everaldo,172.0,16007,Silva do Nascimento,Everaldo,F
+2001-03-03,Léo,194.0,18286,Linck,Léo Linck,GK
+1994-08-26,Jair,178.0,18426,Rodrigues Júnior,Jair,M
+2000-01-07,Vinicius,190.0,18781,Mingotti,Vinicius Mingotti,CF
+1988-05-17,Marcelo,186.0,17980,Rangel,Marcelo Rangel,GK
+2002-08-11,Gustavo,191.0,18470,Martins,Gustavo Martins,D
+1989-01-12,Alan,190.0,15802,Kardec,Alan Kardec,F
+1996-09-28,Michel,178.0,16140,Araújo,Michel Araújo,M
+1998-09-09,Jamerson,177.0,18494,Santos de Jesus,Jamerson,D
+1995-01-24,David,193.0,18445,Duarte,David Duarte,D
+1996-02-28,Danilo,183.0,7365,Barbosa,Danilo Barbosa,M
+1995-04-05,Éder,184.0,17902,Ferreira Graminho,Éder Ferreira,D
+1996-06-02,Luiz,175.0,3963,Araújo,Luiz Araújo,F
+1994-05-06,Raí,179.0,18395,Ramos,Raí Ramos,D
+2004-02-18,Felipe,187.0,18718,Augusto,Felipe Augusto,CF
+1985-08-09,Filipe,182.0,16126,Luís,Filipe Luís,D
+2002-04-21,Raí,175.0,18380,Pessanha,Raí,M
+2003-03-14,Bruno,174.0,18033,Gonçalves de Jesus,Bruninho,F
+2000-11-24,Emerson,175.0,18553,Negueba,Emerson Negueba,F
+2002-02-08,Rômulo,193.0,15791,Cardoso da Cruz,Rômulo,F
+1998-10-21,Vitor,194.0,13603,Eudes,Vitor Eudes,GK
+1997-07-31,Caíque Luiz,198.0,21203,Santos da Purificação,Caíque,GK
+2001-06-01,Fernando,182.0,18523,Henrique,Fernando Henrique,M
+1998-02-13,Sebastian,180.0,7541,Ferreira,Sebastian Ferreira,F
+1985-02-02,Fernando,191.0,16171,Miguel,Fernando Miguel,GK
+1998-03-09,João,181.0,17960,Lucas,João Lucas,D
+1997-02-24,Nicolas,181.0,18076,Vichiatto da Silva,Nicolas,D
+2001-01-14,Adriel,195.0,18463,Vasconcelos Ramos,Adriel,GK
+2005-09-21,Alisson,,19461,Santana,Alisson,F
+1994-12-05,Javier,184.0,18192,Méndez,Javier Méndez,DM
+1987-04-12,Luiz,184.0,12185,Adriano,Luiz Adriano,F
+1988-03-29,Gatito,191.0,17925,Fernández,Gatito Fernández,GK
+1996-08-30,Gabriel,178.0,16124,Barbosa,Gabriel Barbosa,F
+1999-06-24,João Victor,182.0,16010,Caetano,Caetano,D
+1999-02-16,Alesson,173.0,18004,dos Santos Batista,Alesson,F
+2004-03-16,Rodrigo,185.0,18072,Huendra,Rodriguinho,M
+1993-02-26,Jese,178.0,12367,Rodríguez Ruiz,Jese,F
+1995-10-17,David,180.0,17891,Corrêa da Fonseca,David,F
+1997-06-18,Ronald,171.0,16170,dos Santos Lopes,Ronald,M
+1995-02-03,Yago,174.0,16147,Felipe,Yago Felipe,M
+1993-03-27,Luan,180.0,16710,de Jesus Vieira,Luan,M
+1997-09-21,Jhon,168.0,16148,Arias,Jhon Arias,M
+1996-07-11,Raul,180.0,18024,Lô Gonçalves,Raul,M
+2005-09-02,Felipe Chiqueti,176.0,24059,Bandeira,Chiqueti,M
+1995-04-13,Guilherme Augusto,178.0,17016,Vieira dos Santos,Guilherme Augusto,LW
+1990-03-02,Guilherme,181.0,17965,Camacho,Guilherme Camacho,M
+1997-12-31,Aldemir,175.0,18482,dos Santos Ferreira,Ferreira,F
+2000-03-22,Luca,178.0,18437,Orellano,Luca Orellano,F
+2003-02-11,Ian,188.0,18525,Luccas,Ian Luccas,M
+1986-12-18,Marcelo,188.0,16567,Lomba,Marcelo Lomba,GK
+1992-01-12,Lucas,184.0,18458,Mugni,Lucas Mugni,M
+2004-05-24,Carlos,188.0,17005,Eduardo,Carlos Eduardo,F
+1999-08-14,Isidro,183.0,18557,Pitta,Isidro Pitta,F
+2001-10-25,Gabriel,182.0,18742,De Sousa Barros,Gabriel De Sousa Barros,RW
+1996-10-11,Alan,183.0,2346,Franco,Alan Franco,D
+1995-01-09,Rafael,170.0,16013,Ramos,Rafael Ramos,D
+2005-01-03,Rayan,,24478,Lucas,Rayan Lucas,DM
+1999-05-06,Janderson,189.0,18603,Carvalho Costa,Janderson,CF
+1997-01-30,Luís,171.0,19571,Oyama,Luís Oyama,DM
+2003-03-01,Vinicius,181.0,18834,Kaue,Vinicius Kaue,LB
+1988-10-08,Uendel,179.0,18538,Pereira Gonçalves,Uendel,D
+1995-09-07,Jailson,187.0,16561,Marques Siqueira,Jailson,M
+1997-11-12,Robson,186.0,4034,Bambu,Robson Bambu,D
+1989-10-12,Paulo Henrique,184.0,16139,Chagas de Lima,Ganso,M
+1993-04-06,Luan,188.0,16178,Polli,Luan Polli,GK
+1989-07-16,Vladimir,192.0,17948,Cardoso de Araújo Filho,Vladimir,GK
+1990-03-01,Lucas,177.0,16190,Sasha,Lucas Sasha,M
+1992-07-29,Patrick,176.0,16740,Bezerra do Nascimento,Patrick,M
+1992-03-09,Joao,184.0,11957,Pedro,Joao Pedro,F
+2005-08-18,Matheus,175.0,18360,Gonçalves,Matheus Gonçalves,RW
+1998-11-19,Nahuel,190.0,17876,Ferraresi,Nahuel Ferraresi,D
+2003-09-25,Breno,183.0,17907,Cascardo,Breno Cascardo,M
+2002-01-31,Giovanni,176.0,16156,Manson Ribeiro,Giovanni,F
+2005-04-13,Robert Vinicius,,19334,Rodrigues Silva,Robert,F
+1988-10-07,Diego,186.0,1395,Costa,Diego Costa,F
+1992-07-10,Gabriel,172.0,16728,Girotto Franco,Gabriel,M
+1999-04-15,Roni,174.0,16021,de Moura,Roni,M
+2003-05-08,Lucas,186.0,24125,Belezi,Lucas Belezi,RCB
+1989-07-20,Thiago,183.0,16192,Galhardo,Thiago Galhardo,F
+1999-06-24,Paulo,170.0,11867,Vitor,Paulo Vitor,F
+2000-09-17,Victor Matheus,194.0,18569,dos Santos Gonçalves,Vitão,D
+1997-07-02,Ivan,196.0,18416,Quaresma da Silva,Ivan,GK
+2001-02-23,Marcos Vinicios,175.0,18029,Lopes Moura,Sorriso,F
+2001-02-22,Lucas,193.0,17975,Barbosa,Lucas Barbosa,F
+2001-12-17,André Henrique,189.0,18573,da Silva Martins,André,F
+1994-02-27,Léo,179.0,15782,Cittadini,Léo Cittadini,M
+2002-09-07,Vanderlan,183.0,16568,Barbosa da Silva,Vanderlan,D
+1992-06-27,Stiven,172.0,17973,Mendoza,Stiven Mendoza,F
+1998-04-13,Pedro,172.0,9176,Delmino,Pedrinho,F
+2002-04-14,Carlos,181.0,17945,Alberto,Carlos Alberto,F
+1990-03-01,Bruno,178.0,12008,Peres,Bruno Peres,D
+2002-08-19,Nathan,182.0,18112,de Souza Mendes,Nathan Mendes,D
+1996-02-01,Tomás,180.0,2364,Pochettino,Tomás Pochettino,M
+2000-06-29,Pedro,192.0,16149,Rangel,Pedro Rangel,GK
+1996-10-29,Keiller,193.0,16242,da Silva Nunes,Keiller,GK
+2003-11-24,Giovane,184.0,16011,Santana do Nascimento,Giovane,F
+1993-03-23,Daniel,174.0,17934,Borges,Daniel Borges,D
+2001-02-19,Welington,175.0,17879,Damascena Santos,Welington,D
+2003-02-02,João,178.0,24307,Pedro,João Pedro,LW
+2003-04-02,Lucca,180.0,16258,Sampaio Tavares,Lucca,F
+1988-12-26,Neuciano,168.0,18451,de Jesus Gusmão,Cicinho,D
+2003-05-14,Jorge,,24665,Vinícius,Jorge Vinícius,DM
+1996-07-25,Paulo,175.0,16741,Henrique,Paulo Henrique,D
+2004-05-11,Victor,182.0,16128,Hugo,Victor Hugo,M
+1996-04-17,Douglas,170.0,17969,Moreira,Dodi,M
+1997-10-01,Leanderson,189.0,18346,Genésio,Lele,F
+1991-06-03,Bruno,187.0,18467,Uvini,Bruno Uvini,D
+2002-04-09,Fabinho,178.0,16707,Silva de Freitas,Fabinho,M
+1989-11-20,Eduardo,174.0,15800,Vargas,Eduardo Vargas,F
+2006-06-23,Marcos,,24354,André,Marcos André,D
+1999-02-24,Caio,174.0,2530,Alexandre,Caio Alexandre,M
+2003-09-06,Wesley,173.0,18333,Lima,Wesley,RB
+1999-02-01,Ignacio,173.0,15187,Laquintana,Ignacio Laquintana,F
+2000-10-31,Thiago,179.0,3270,Andrade,Thiago Andrade,F
+1996-02-24,Lucas,188.0,11481,Mineiro,Lucas Mineiro,M
+2002-05-02,Mateus,199.0,14223,Oliveira,Mateus Oliveira,GK
+1991-05-30,Rodrigo,185.0,8012,Pinho,Rodrigo Pinho,F
+1994-07-11,Yony,184.0,16778,González,Yony González,RW
+1997-09-23,Wallisson Luiz,184.0,18520,Alves Máximo,Wallisson,M
+2003-06-11,Kayky,172.0,5959,Chagas,Kayky,F
+1989-06-13,Andreas,189.0,13601,Samaris,Andreas Samaris,DM
+1999-01-31,Hugo,199.0,16133,Souza,Hugo Souza,GK
+1995-04-24,Allano Brendon,182.0,11608,de Souza Lima,Allano,F
+2000-06-13,Joao,189.0,8545,Marcelo,Joao Marcelo,D
+1998-07-16,Anderson,169.0,11652,Oliveira,Anderson Oliveira,M
+1995-07-02,Lucas,188.0,7994,Verissimo,Lucas Verissimo,D
+1997-01-23,Lucas,186.0,11542,Cunha,Lucas Cunha,D
+1998-10-21,Vitor,194.0,13603,Eudes,Vitor Eudes,GK
+1999-06-24,Paulo,170.0,11867,Vitor,Paulo Vitor,F
+1999-04-13,Erison Danilo,180.0,13500,de Souza,Erison,F
+2002-07-03,Arthur,184.0,11757,Sales,Arthur Sales,F
+1997-07-18,Matheus,191.0,13417,Babi,Matheus Babi,CF
+1995-01-06,Raphael,178.0,11678,Guzzo,Raphael Guzzo,M
+1999-01-08,Igor,175.0,18518,Formiga,Igor Formiga,D
+2002-01-14,Thomas,180.0,18475,Luciano,Thomas Luciano,D
+1994-03-28,Vinicius,195.0,16548,Silvestre,Vinicius Silvestre,GK
+2002-10-12,Diego,182.0,11677,Rosa,Diego Rosa,M
+1997-01-13,Joao,187.0,11717,Basso,Joao Basso,D
+1998-07-03,Arthur,174.0,11624,Gomes,Arthur Gomes,F
+1993-03-07,Gilberto,181.0,7997,Moraes Júnior,Gilberto,D
+2001-09-05,Nathan,183.0,18114,Santos de Araújo,Nathan,D
+2002-02-23,André,185.0,18620,Luiz,André Luiz,CF
+2003-05-09,Luis Henrique,178.0,18483,Hoffmann,Zinho,F
+1996-02-13,Eduardo,187.0,17951,Bauermann,Eduardo Bauermann,D
+1994-02-18,Richard,191.0,18519,Candido Coelho,Richard,M
+1995-12-28,Mauricio,187.0,11939,Lemos,Mauricio Lemos,D
+1991-05-20,Vitor,187.0,11999,Hugo,Vitor Hugo,D
+1990-03-01,Bruno,178.0,12008,Peres,Bruno Peres,D
+1993-04-30,Gustavo,181.0,17944,Sauer,Gustavo Sauer,F
+1989-11-04,Enner,177.0,11960,Valencia,Enner Valencia,F
+1989-04-27,Junior,173.0,12107,Caicara,Junior Caicara,D
+1992-03-09,Joao,184.0,11957,Pedro,Joao Pedro,F
+1995-04-06,Sergio,180.0,12427,Da Luiz Junior,Sergio,F
+1992-04-04,Gustavo,178.0,12223,Campanharo,Gustavo Campanharo,D
+1990-10-23,Allyson,184.0,12474,Aires dos Santos,Allyson,D
+1997-05-20,Marlon,178.0,12963,Rodrigues Xavier,Marlon,D
+1993-02-26,Jese,178.0,12367,Rodríguez Ruiz,Jese,F
+1987-04-12,Luiz,184.0,12185,Adriano,Luiz Adriano,F
+1993-03-07,Gilberto,181.0,7997,Moraes Júnior,Gilberto,D
+1991-05-30,Rodrigo,185.0,8012,Pinho,Rodrigo Pinho,F
+1998-04-01,Alexandre,182.0,16254,Zurawski,Alexandre Alemão,F
+1996-02-13,John,196.0,16252,Victor,John Victor,GK
+1999-04-01,Brenno,190.0,18461,Oliveira Fraga Costa,Brenno,GK
+1997-10-26,Luis,182.0,17929,Segovia,Luis Segovia,D
+1998-02-07,Igor Matheus,177.0,18497,Liziero Pereira,Liziero,M
+2003-05-24,Mateo,183.0,15455,Ponte,Mateo Ponte,D
+1994-12-05,Javier,184.0,18192,Méndez,Javier Méndez,DM
+1999-02-01,Ignacio,173.0,15187,Laquintana,Ignacio Laquintana,F
+1993-03-23,Sergio,190.0,13924,Rochet,Sergio Rochet,GK
+1995-06-02,Camilo,174.0,15152,Cándido,Camilo Cándido,D
+2000-06-22,Diego,175.0,15411,Hernández,Diego Hernández,F
+2003-04-16,Kaique,192.0,18349,Pereira,Kaique,GK
+2000-06-24,Lucas,171.0,5203,Esteves,Lucas Esteves,D
+2002-02-03,Estêvão,176.0,16249,Barreto de Oliveira,Estêvão,M
+2000-03-23,Ruan,176.0,19306,Oliveira,Ruan Oliveira,AM
+1998-10-21,Vitor,194.0,13603,Eudes,Vitor Eudes,GK
+2002-01-23,Anthoni,193.0,16247,Spier Souza,Anthoni,GK
+2003-05-20,Michel,188.0,18350,Rafael dos Santos,Michel,D
+2005-09-21,Alisson,,19461,Santana,Alisson,F
+2003-04-25,Cleiton,194.0,16121,Santana dos Santos,Cleiton,D
+2005-09-28,Gabriel,185.0,19468,Moscardo,Gabriel Moscardo,M
+2003-08-03,Felipe,187.0,18294,Motta,Felipe Motta,RCB
+2001-01-03,Lucas,173.0,16244,Ramos,Lucas Ramos,M
+1995-11-03,Matías,180.0,14399,Rojas,Matías Rojas,M
+2004-03-12,Mycael,191.0,19459,Pontes Moreira,Mycael,GK
+2003-11-24,Giovane,184.0,16011,Santana do Nascimento,Giovane,F
+1988-02-08,Renato,186.0,16027,Augusto,Renato Augusto,M
+1999-02-13,Vitor,186.0,16157,Mendes,Vitor Mendes,D
+2000-09-08,Matheus,171.0,16131,França Silva,Matheuzinho,D
+2004-04-06,Léo,179.0,19469,Mana,Léo Mana,D
+2002-05-29,Felipe,182.0,19453,Andrade,Felipe Andrade,RCB
+1988-03-12,Christian,188.0,16186,Chagas Tarouco,Titi,D
+1996-01-07,Marcelo,181.0,16187,Benevenuto,Marcelo Benevenuto,D
+1995-01-09,Rafael,170.0,16013,Ramos,Rafael Ramos,D
+1985-09-16,Fábio,179.0,16026,Santos,Fábio Santos,D
+1988-07-25,José Paulo,183.0,16755,Bezerra Maciel Júnior,Paulinho,M
+2003-03-01,Vinicius,181.0,18834,Kaue,Vinicius Kaue,LB
+1997-04-14,Guilherme,176.0,15801,Arana,Guilherme Arana,D
+2003-07-15,Ryan,172.0,19470,Gustavo,Ryan Gustavo,M
+2000-04-14,Rafael,183.0,16713,Navarro,Rafael Navarro,F
+2002-07-11,Pedro Henrique,177.0,16754,Azevedo Pereira,Pedrinho,D
+1989-04-10,Everton,174.0,13831,Ribeiro,Everton Ribeiro,M
+1993-10-15,Víctor,180.0,16018,Cantillo,Víctor Cantillo,M
+1987-04-04,Júnior,176.0,9115,Moraes,Júnior Moraes,F
+1999-04-15,Roni,174.0,16021,de Moura,Roni,M
+1992-01-13,Madson,182.0,15785,Ferreira dos Santos,Madson,D
+1999-09-10,Bruno,180.0,16019,Méndez,Bruno Méndez,D
+2006-02-05,Pedro,170.0,18363,Silva dos Santos,Pedro,F
+1995-04-13,Guilherme Augusto,178.0,17016,Vieira dos Santos,Guilherme Augusto,LW
+2000-10-20,Hércules,178.0,16184,Pereira do Nascimento,Hércules,M
+2002-05-17,Matheus,187.0,16022,Donelli,Matheus Donelli,GK
+1997-05-30,Luis Eduardo,175.0,16715,Marques dos Santos,Dudu,D
+1996-10-02,Róger,182.0,16008,Guedes,Róger Guedes,F
+2002-05-16,Bruno,181.0,14845,Zapelli,Bruno Zapelli,F
+1998-11-08,Leonardo,166.0,3335,Fernández,Leonardo Fernández,M
+1996-03-13,Nathan,177.0,16738,Allan de Souza,Nathan,M
+1991-12-08,Bruno,174.0,16189,Pacheco,Bruno Pacheco,D
+2004-03-26,Isaac,185.0,18364,Tomich,Isaac,F
+2002-04-12,Gabriel,170.0,18345,Pirani,Gabriel Pirani,M
+1992-08-17,Diogo,179.0,18471,Barbosa,Diogo Barbosa,D
+1989-07-20,Thiago,183.0,16192,Galhardo,Thiago Galhardo,F
+1987-05-22,Arturo,180.0,1527,Vidal,Arturo Vidal,M
+1998-10-09,Carlos,204.0,16016,Miguel,Carlos Miguel,GK
+1993-03-23,Sergio,190.0,13924,Rochet,Sergio Rochet,GK
+1999-03-17,Igor,183.0,16730,Gomes,Igor Gomes,M
+1989-11-04,Enner,177.0,11960,Valencia,Enner Valencia,F
+1995-09-07,Marlon,182.0,8644,da Silva,Marlon,D
+1993-06-16,Renzo,178.0,17055,Saravia,Renzo Saravia,RB
+2002-07-10,Gabriel,189.0,15799,Delfim,Gabriel Delfim,GK
+1994-03-01,José Romário,168.0,16168,Silva de Souza,Romarinho,F
+1998-11-09,Matheus,186.0,15793,Felipe,Matheus Felipe,D
+1998-04-01,Alexandre,182.0,16254,Zurawski,Alexandre Alemão,F
+1993-05-25,Hyoran,174.0,15807,Kaue Dalmoro,Hyoran,M
+1998-02-15,Artur,168.0,18088,Guimarães,Artur,F
+2000-03-01,Rômulo,182.0,18598,Zanre Zwarg,Rômulo,DM
+1990-03-01,Lucas,177.0,16190,Sasha,Lucas Sasha,M
+1990-03-17,Aderbar Melo,188.0,16123,dos Santos,Santos,GK
+1987-06-06,Cássio,195.0,16009,Ramos,Cássio,GK
+1999-01-31,Hugo,199.0,16133,Souza,Hugo Souza,GK
+1999-06-24,João Victor,182.0,16010,Caetano,Caetano,D
+2001-02-25,Khellven,176.0,15780,Silva Oliveira,Khellven,D
+1989-01-12,Alan,190.0,15802,Kardec,Alan Kardec,F
+1988-12-11,Marcos,176.0,16556,Rocha,Marcos Rocha,D
+1994-10-11,Júnior,188.0,16185,Santos,Júnior Santos,F
+2000-07-15,Paulo,177.0,4596,Henrique Sampaio Filho,Paulinho,F
+1989-12-18,Edenilson,175.0,15817,Andrade dos Santos,Edenilson,M
+1990-05-29,Mario,169.0,16130,Santos,Marinho,F
+2002-05-22,Matheus,176.0,18619,Araújo,Matheus Araújo,AM
+1989-07-10,Alan,178.0,16144,Borges de Carvalho,Alan,F
+1998-10-10,Gabriel,178.0,16253,Baralhas,Gabriel Baralhas,M
+1988-09-17,Thiago,187.0,15794,Heleno,Thiago Heleno,D
+1997-03-30,Bruno,175.0,8084,Ramos,Bruno Tabata,F
+1995-08-21,Agustin,193.0,14338,Rossi,Agustin Rossi,GK
+1997-06-20,Pedro,185.0,13830,Guilherme,Pedro,F
+1991-05-13,Alan,177.0,9187,Patrick,Alan Patrick,M
+1985-02-02,Fernando,191.0,16171,Miguel,Fernando Miguel,GK
+2000-12-19,Christian,178.0,15798,Alves Cardoso,Christian,M
+2003-04-16,Ian,180.0,18351,Custódio,Ian Custódio,D
+1985-05-04,Fernando,179.0,19,Luiz Roza,Fernandinho,M
+1993-08-17,Rodrigo,183.0,16129,Caio,Rodrigo Caio,D
+1999-05-04,Matheus,172.0,16015,Bidu,Matheus Bidu,D
+1992-04-04,Gustavo,178.0,12223,Campanharo,Gustavo Campanharo,D
+2004-09-10,Arthur,178.0,18880,Zanella,Arthur Zanella,LB
+2006-03-28,Kaua,180.0,18905,Elias,Kaua Elias,CF
+1994-01-15,Erick,187.0,16135,Pulgar,Erick Pulgar,M
+2003-12-31,João Pedro,192.0,19472,de Sousa Rodrigues,Tchoca,D
+1983-06-26,Felipe,183.0,16161,Melo,Felipe Melo,M
+2001-02-28,Kaique,195.0,15776,Rocha,Kaique Rocha,D
+1992-03-11,Carlos,177.0,8380,De Peña,Carlos De Peña,F
+1997-10-01,Leanderson,189.0,18346,Genésio,Lele,F
+1996-04-28,Fabricio,167.0,16245,Bustos,Fabricio Bustos,D
+1996-01-11,Daniel,173.0,18453,Sampaio Simões,Danielzinho,M
+2000-04-30,Calebe,173.0,15810,Ferreira da Silva,Calebe,M
+1999-09-14,Fernando,181.0,16751,Pereira Bueno Júnior,Fernando,D
+1986-11-19,Willian,171.0,16143,Bigode,Willian,F
+2000-02-07,Emerson,196.0,18293,Júnior,Emerson Júnior,GK
+2002-07-04,Murillo,182.0,18361,Costa dos Santos,Murillo,D
+1994-06-01,Giorgian,174.0,13930,De Arrascaeta,Giorgian De Arrascaeta,M
+2004-04-24,Isaac,,18604,Rodrigues de Lima,Isaac,LW
+2001-10-14,Lucas,183.0,14806,Esquivel,Lucas Esquivel,D
+1987-12-13,Weverton,189.0,13829,Pereira da Silva,Weverton,GK
+2000-10-31,Thiago,179.0,3270,Andrade,Thiago Andrade,F
+1992-06-05,Yago,169.0,16177,Pikachu,Yago Pikachu,D
+1998-04-13,Pedro,172.0,9176,Delmino,Pedrinho,F
+2004-01-01,Giovani,184.0,16553,Amorim da Silva,Giovani,F
+1980-09-30,Fábio,188.0,16750,Lopes Maciel,Fábio,GK
+1992-08-24,Jemerson,184.0,6644,de Jesus Nascimento,Jemerson,D
+2006-07-21,Endrick,173.0,16552,Moreira de Sousa,Endrick,F
+1997-06-19,Ayrton,180.0,16136,Lucas,Ayrton Lucas,D
+2005-05-01,Kayky,185.0,18906,Almeida,Kayky Almeida,RCB
+1992-07-29,Patrick,176.0,16740,Bezerra do Nascimento,Patrick,M
+2004-04-20,Guilherme Sucigan,171.0,18796,Mafra Cunha,Biro,RW
+1995-04-28,Igor,190.0,15804,Rabello,Igor Rabello,D
+2001-03-06,Igor,185.0,16706,Gomes,Igor Gomes,D
+1989-10-12,Paulo Henrique,184.0,16139,Chagas de Lima,Ganso,M
+1999-04-25,Carlos,187.0,20672,de Menezes Júnior,Cacá,RCB
+1995-05-11,Rony,167.0,16549,da Silva Barbosa,Rony,F
+1991-06-22,Hugo,174.0,1458,Mallo,Hugo Mallo,D
+1995-06-19,Raphael,176.0,16558,Veiga,Raphael Veiga,M
+1989-04-17,Charles,171.0,4591,Aránguiz,Charles Aránguiz,M
+1992-02-06,José Rodolfo,177.0,16726,Pires Ribeiro,Dodô,D
+1986-06-23,Mariano,177.0,15809,Ferreira Filho,Mariano,D
+1996-02-01,Tomás,180.0,2364,Pochettino,Tomás Pochettino,M
+1988-02-02,Germán,176.0,16141,Cano,Germán Cano,F
+2001-09-20,João Lucas,186.0,16251,de Souza Cardoso,Johnny Cardoso,M
+1999-04-01,Bruno,190.0,15811,Fuchs,Bruno Fuchs,D
+1989-06-11,Fagner,168.0,16017,Conserva Lemos,Fagner,D
+2000-03-26,Fausto,180.0,16025,Vera,Fausto Vera,M
+2004-05-24,Carlos,188.0,17005,Eduardo,Carlos Eduardo,F
+2002-02-23,André,185.0,18620,Luiz,André Luiz,CF
+1989-11-20,Eduardo,174.0,15800,Vargas,Eduardo Vargas,F
+1996-10-29,Keiller,193.0,16242,da Silva Nunes,Keiller,GK
+2006-02-28,João Henrique,,18860,Mendes da Silva,Esquerdinha,LB
+2005-03-05,Wesley,180.0,18816,Gassova Ribeiro,Wesley,LW
+2001-07-16,André,176.0,16163,da Costa Neto,André,M
+2001-05-24,Matheus,193.0,16737,Cunha,Matheus Cunha,GK
+1998-08-21,Alan,175.0,7571,Franco,Alan Franco,M
+1997-03-03,Allan,172.0,16704,Rodrigues de Souza,Allan,M
+2002-05-08,Kaiky,182.0,16564,Naves,Kaiky Naves,D
+1994-10-07,Wanderson,175.0,16243,Sousa Campos,Wanderson,F
+1987-04-12,Luiz,184.0,12185,Adriano,Luiz Adriano,F
+2002-09-07,Vanderlan,183.0,16568,Barbosa da Silva,Vanderlan,D
+2000-02-02,Vitor,185.0,9114,da Silva Matos,Vitão,D
+2003-10-08,Alexsander,177.0,16155,Gomes da Costa,Alexsander,M
+1990-07-22,Everson,192.0,15808,Marques Pires,Everson,GK
+1997-05-06,Nathan,182.0,15814,Silva,Nathan Silva,D
+1988-07-22,Silvio,175.0,16173,Romero,Silvio Romero,F
+1992-03-26,Emanuel,178.0,16174,Brítez,Emanuel Brítez,D
+1992-06-23,Pablo,185.0,16717,Teixeira,Pablo,F
+1996-01-31,Léo,189.0,16735,Pereira,Léo Pereira,D
+1996-06-03,Sebastián,172.0,15840,Gómez,Sebastián Gómez,M
+1993-05-10,Luan,188.0,16709,Garcia Teixeira,Luan,D
+2005-02-24,Arthur,,18667,Wenderroscky,Arthur,AM
+2002-02-08,Rômulo,193.0,15791,Cardoso da Cruz,Rômulo,F
+1997-05-20,Gerson,184.0,3981,Santos Da Silva,Gerson,M
+2000-01-07,Du,172.0,16023,Queiroz,Du Queiroz,M
+1992-07-04,Ángel,176.0,7663,Romero,Ángel Romero,F
+1995-10-02,Pedro,188.0,16742,Henrique,Pedro Henrique,D
+1990-06-06,Samuel,166.0,16146,Xavier,Samuel Xavier,D
+1990-10-22,Jean,170.0,18597,Dias,Jean Dias,LW
+1997-03-23,Thiago,179.0,16137,Maia,Thiago Maia,M
+2004-10-11,Renato,188.0,19126,Santos,Renato Santos,RCB
+2005-08-18,Matheus,175.0,18360,Gonçalves,Matheus Gonçalves,RW
+1998-03-10,Matías,171.0,15803,Zaracho,Matías Zaracho,M
+1996-08-30,Gabriel,178.0,16124,Barbosa,Gabriel Barbosa,F
+1994-09-05,Vitor,185.0,15796,Bueno,Vitor Bueno,M
+1992-01-07,Eduardo,166.0,16714,Pereira Rodrigues,Dudu,F
+2002-01-04,Gustavo,175.0,16563,Garcia,Gustavo Garcia,D
+1990-06-16,Pedro,181.0,16712,Henrique,Pedrao,F
+1992-11-10,Mayke,178.0,16550,Rocha de Oliveira,Mayke,D
+1997-09-21,Jhon,168.0,16148,Arias,Jhon Arias,M
+1989-10-21,Bruno,180.0,20670,Henrique,Bruno Henrique,CM
+1998-08-24,Joaquín,185.0,16557,Piquerez,Joaquín Piquerez,D
+1988-05-12,Marcelo,174.0,1680,da Silva,Marcelo,D
+1993-09-01,Guilherme,179.0,16175,de Jesus da Silva,Tinga,D
+1994-05-04,Otavio,173.0,4270,Henrique Passos Santos,Otavio,M
+1995-03-11,José,177.0,16172,Welison,Zé Welison,M
+1999-02-24,Caio,174.0,2530,Alexandre,Caio Alexandre,M
+1997-11-14,Erick,176.0,15786,Conrado Carvalho,Erick,M
+2003-09-06,Wesley,173.0,18333,Lima,Wesley,RB
+1994-03-28,Vinicius,195.0,16548,Silvestre,Vinicius Silvestre,GK
+1997-07-15,Maycon,173.0,9113,Barberan,Maycon,M
+1994-02-27,Léo,179.0,15782,Cittadini,Léo Cittadini,M
+1991-06-21,Pablo,188.0,16716,Castro,Pablo,D
+2001-07-05,Chrystian,178.0,18362,Barletta,Chrystian Barletta,F
+1986-12-18,Marcelo,188.0,16567,Lomba,Marcelo Lomba,GK
+2004-01-22,Thauan,176.0,16255,Lara,Thauan Lara,D
+1993-05-06,Gustavo,185.0,16551,Gómez,Gustavo Gómez,D
+1996-02-12,Fabrício,190.0,16125,Bruno,Fabrício Bruno,D
+1999-06-10,Bento,190.0,15778,Matheus Krepski,Bento,GK
+1995-05-13,Alex,182.0,15797,Santana,Alex Santana,M
+1990-05-31,Giuliano,172.0,16014,Victor de Paula,Giuliano,M
+2001-10-25,Gabriel,182.0,18742,De Sousa Barros,Gabriel De Sousa Barros,RW
+2001-03-03,Léo,194.0,18286,Linck,Léo Linck,GK
+1987-06-12,Carlos Gilberto,192.0,16024,do Nascimento Silva,Gil,D
+1996-03-22,Everton,174.0,8006,Sousa Soares,Everton,M
+1994-07-11,Yony,184.0,16778,González,Yony González,RW
+1998-01-03,Hugo,177.0,15781,Moura,Hugo Moura,M
+1996-02-13,John,196.0,16252,Victor,John Victor,GK
+2003-03-07,Igor Jesus,179.0,18359,Lima,Igor,DM
+2000-03-05,Tomás,176.0,15787,Cuello,Tomás Cuello,F
+2006-02-09,Luis,175.0,18353,Guilherme,Luis Guilherme,M
+2002-05-09,Matheus,187.0,16257,Dias,Matheus Dias,M
+1995-09-07,Jailson,187.0,16561,Marques Siqueira,Jailson,M
+1997-04-10,Marcilio Florencio,188.0,16154,Mota Filho,Nino,D
+1987-05-21,David,188.0,16159,Braz,David Braz,D
+1992-07-10,Gabriel,172.0,16728,Girotto Franco,Gabriel,M
+2002-05-18,John,181.0,18347,Kennedy,John Kennedy,F
+1995-02-16,Ademir,172.0,15806,da Silva Santos Junior,Ademir,F
+2001-05-24,Brayan,189.0,16181,Ceballos,Brayan Ceballos,D
+1992-02-24,Eduardo,173.0,15805,Sasha,Eduardo Sasha,F
+1994-06-19,Lucas,178.0,16167,Crispim,Lucas Crispim,M
+2002-09-09,Jhonatan,178.0,16566,dos Santos Rosa,Jhon Jhon,AM
+2001-03-18,Yuri,183.0,16028,Alberto,Yuri Alberto,F
+1995-06-02,Camilo,174.0,15152,Cándido,Camilo Cándido,D
+2000-06-02,Richard,187.0,3658,Rios,Richard Rios,M
+1990-12-30,Bruno,184.0,16127,Henrique,Bruno Henrique,F
+2005-02-28,Vitor,172.0,15792,Roque,Vitor Roque,F
+1994-08-11,David,176.0,15779,Terans,David Terans,M
+1987-04-22,David,189.0,148,Luiz,David Luiz,D
+2001-09-16,Alexandre,184.0,16145,Jesus,Alexandre Jesus,F
+1993-06-16,Zé,175.0,16569,Rafael,Zé Rafael,M
+1992-09-14,Renê,174.0,16259,Rodrigues Martins,Renê,D
+2000-10-06,Adson,171.0,16020,Ferreira Soares,Adson,F
+1996-01-21,Cristian,174.0,854,Pavon,Cristian Pavon,F
+2000-06-29,Pedro,192.0,16149,Rangel,Pedro Rangel,GK
+2002-04-30,Luciano,184.0,15790,Arriagada,Luciano Arriagada,F
+1998-01-18,Nicolás,185.0,15784,Hernández,Nicolás Hernández,D
+2000-09-29,Gabriel,176.0,16559,Menino,Gabriel Menino,M
+1991-07-12,Rodrigo,187.0,13211,Battaglia,Rodrigo Battaglia,M
+1985-08-09,Filipe,182.0,16126,Luís,Filipe Luís,D
+1996-06-11,Vinícius,181.0,16160,Moreira de Lima,Lima,F
+1987-03-18,Gabriel,181.0,16248,Mercado,Gabriel Mercado,D
+1997-03-27,Murilo,188.0,16560,Cerqueira,Murilo,D
+2001-12-21,Sammuel,177.0,16179,Queiroz De Freitas,Sammuel,M
+1986-07-25,Givanildo,180.0,15816,Vieira de Souza,Hulk,F
+1988-09-06,João,186.0,16166,Ricardo,João Ricardo,GK
+1991-11-30,Juan Martín,179.0,16191,Lucero,Juan Martín Lucero,F
+1997-02-21,Zé,185.0,15788,Ivaldo,Zé Ivaldo,D
+1993-03-24,Guillermo,173.0,13927,Varela,Guillermo Varela,D
+1989-09-10,Marcos,174.0,16150,da Silva França,Keno,F
+2003-01-04,Kevin,176.0,18354,Macedo,Kevin Macedo,F
+1991-08-23,Fabián,188.0,258,Balbuena,Fabián Balbuena,D
+1985-01-04,Réver,192.0,15813,Alves de Araújo,Réver,D
+2004-04-01,Matheus,184.0,16132,França,Matheus França,M
+1998-10-01,Agustin,175.0,13928,Canobbio,Agustin Canobbio,F
+2004-05-11,Victor,182.0,16128,Hugo,Victor Hugo,M
+2002-01-31,Giovanni,176.0,16156,Manson Ribeiro,Giovanni,F
+1995-12-28,Mauricio,187.0,11939,Lemos,Mauricio Lemos,D
+1987-10-27,Rodrigo,188.0,16256,Moledo,Rodrigo Moledo,D
+1990-02-26,Manoel,181.0,16151,Silva Carvalho,Manoel,D
+2004-02-18,Felipe,187.0,18718,Augusto,Felipe Augusto,CF
+2001-06-21,Rubens,178.0,15815,Dias,Rubens,M
+1992-01-22,Marcelo,182.0,15795,Cirino,Marcelo Cirino,F
+2001-06-22,Maurício,174.0,16250,Magalhães Prado,Maurício,M
+2000-12-06,José Manuel,188.0,16554,López,José Manuel López,F
+1999-03-10,Matheus,191.0,15812,Mendes,Matheus Mendes,GK
+1996-06-02,Luiz,175.0,3963,Araújo,Luiz Araújo,F
+2003-04-02,Lucca,180.0,16258,Sampaio Tavares,Lucca,F
+1996-01-24,Breno,178.0,16555,Lopes,Breno Lopes,F
+2001-10-05,Matheus,176.0,16164,Martinelli Lima,Martinelli,M
+1993-09-08,Dalbert Henrique,181.0,12951,Chagas Estevão,Dalbert,D
+2002-04-09,Fabinho,178.0,16707,Silva de Freitas,Fabinho,M
+1989-09-05,Thiago,181.0,790,Santos,Thiago Santos,M
+1998-08-29,Claudio,174.0,16729,Rodrigues Gomes,Guga,D
+1999-05-10,Alex,189.0,17954,de Oliveira Nascimento,Alex,D
+2001-07-05,Chrystian,178.0,18362,Barletta,Chrystian Barletta,F
+2001-03-20,Nathan,186.0,17994,Melo,Nathan Melo,M
+1994-01-20,Lucas,182.0,17941,Piazon,Lucas Piazon,M
+2004-06-29,Paulo Ricardo,,23375,Alves Ibelli,Paulinho,DM
+2003-05-01,Eduardo,,18836,Simioni,Eduardo Simioni,M
+1995-08-20,Luis,180.0,17883,Orejuela,Luis Orejuela,D
+2000-09-01,Breno,177.0,17936,Rodrigues da Silva,Breno,M
+1992-01-09,Esteban,191.0,1769,Burgos,Esteban Burgos,D
+2001-10-13,Igo,190.0,17927,Gabriel,Igo Gabriel,GK
+1986-01-10,Nino,168.0,17905,Paraíba,Nino Paraíba,D
+2001-11-15,Henry,175.0,18600,Mosquera,Henry Mosquera,LW
+2004-10-11,Renato,188.0,19126,Santos,Renato Santos,RCB
+1989-06-11,Fagner,168.0,16017,Conserva Lemos,Fagner,D
+2001-06-07,Lucas,185.0,18009,Emmanuel,Lucas Emmanuel,F
+2000-03-26,Fausto,180.0,16025,Vera,Fausto Vera,M
+2002-10-02,Mateus,178.0,17911,Henrique,Mateus Henrique,M
+2002-02-08,Bruno,186.0,18025,Praxedes,Bruno Praxedes,M
+2002-04-14,Carlos,181.0,17945,Alberto,Carlos Alberto,F
+2001-07-04,David,190.0,23368,Sousa,David Sousa,LCB
+1998-06-26,Paulinho,171.0,19901,Bóia,Paulinho Bóia,LW
+2003-07-15,Ryan,172.0,19470,Gustavo,Ryan Gustavo,M
+1996-03-15,Joriwinnyson,190.0,17897,Santos dos Anjos Rodrigues,Jori,GK
+1988-06-19,Aloísio,170.0,17923,dos Santos Gonçalves,Aloísio,F
+2001-02-02,Luan,187.0,18019,Cândido,Luan Cândido,D
+1998-07-16,Anderson,169.0,11652,Oliveira,Anderson Oliveira,M
+2001-05-28,Luiz,174.0,18003,Filipe,Luiz Filipe,F
+2002-11-09,João Luiz,196.0,19607,da Silva Cipriano,Cipriano,LCB
+2002-03-07,Young,202.0,17875,Navarro Moraes,Young,GK
+1999-02-03,Zé,180.0,17993,Ricardo,Zé Ricardo,M
+1995-01-09,Rafael,170.0,16013,Ramos,Rafael Ramos,D
+2002-05-17,Matheus,187.0,16022,Donelli,Matheus Donelli,GK
+1995-04-24,Allano Brendon,182.0,11608,de Souza Lima,Allano,F
+2002-07-04,Murillo,182.0,18361,Costa dos Santos,Murillo,D
+1994-04-10,Luiz Antonio,184.0,18083,Ferreira Rodrigues,Felipe,M
+2003-11-24,Giovane,184.0,16011,Santana do Nascimento,Giovane,F
+1999-04-13,Erison Danilo,180.0,13500,de Souza,Erison,F
+2005-09-22,Adyson,168.0,17916,do Nascimento Soares,Adyson,F
+2001-07-30,Daniel,171.0,16378,Ruiz Rivera,Daniel Ruiz Rivera,F
+1986-07-27,Matheus,192.0,17899,Cavichioli,Matheus Cavichioli,GK
+1993-03-23,Daniel,174.0,17934,Borges,Daniel Borges,D
+2003-12-09,Renato,180.0,18810,Marques,Renato Marques,CF
+2001-02-19,Welington,175.0,17879,Damascena Santos,Welington,D
+2000-01-15,Imanol,170.0,14817,Machuca,Imanol Machuca,F
+1995-07-02,Lucas,188.0,7994,Verissimo,Lucas Verissimo,D
+2002-04-07,Thiago,186.0,18031,Borbas,Thiago Borbas,F
+1996-02-28,Danilo,183.0,7365,Barbosa,Danilo Barbosa,M
+1993-08-03,Vinícius,179.0,18000,Santos Silva,Vinícius,F
+2004-03-29,Kevyson,178.0,17959,Costa e Silva,Kevyson,D
+2001-10-17,Werik,190.0,18394,Popó,Werik Popó,F
+2001-02-26,Lucas Alexandre,190.0,18012,Galdino de Azevedo,Lucão,GK
+2002-02-18,Pedro,,18679,Vilhena,Pedro Vilhena,AM
+1995-10-31,Jackson Diego,175.0,18084,Ibraim Fagundes,Dieguinho,M
+2000-04-30,Calebe,173.0,15810,Ferreira da Silva,Calebe,M
+1998-07-29,Matheus,176.0,18006,Santos,Matheusinho,F
+2001-02-22,Lucas,193.0,17975,Barbosa,Lucas Barbosa,F
+1986-10-19,Joel,193.0,17933,Carli,Joel Carli,D
+1997-01-30,Luís,171.0,19571,Oyama,Luís Oyama,DM
+1992-03-26,Emanuel,178.0,16174,Brítez,Emanuel Brítez,D
+2000-03-23,Ruan,176.0,19306,Oliveira,Ruan Oliveira,AM
+1999-02-01,Ignacio,173.0,15187,Laquintana,Ignacio Laquintana,F
+1998-07-04,Ariel,178.0,18299,Gomes,Ariel,LW
+2003-09-25,Breno,183.0,17907,Cascardo,Breno Cascardo,M
+1996-11-10,Lucas,184.0,17972,Braga,Lucas Braga,F
+2003-12-31,João Pedro,192.0,19472,de Sousa Rodrigues,Tchoca,D
+2001-12-21,Sammuel,177.0,16179,Queiroz De Freitas,Sammuel,M
+2003-03-17,Arthur,173.0,18077,Augusto de Matos Soares,Arthur,D
+1995-11-16,Matheus,190.0,18007,Peixoto,Matheus Peixoto,F
+2004-01-25,Rafael,,19125,Barcelos,Rafael Barcelos,DM
+1995-06-29,João,189.0,18107,Paulo,João Paulo,GK
+2001-02-26,Leonardo,186.0,18017,Realpe,Leonardo Realpe,D
+1992-08-13,Lucas,172.0,85,Moura,Lucas Moura,F
+1998-02-15,Felipe,172.0,17957,Jonatan,Felipe Jonatan,D
+2000-04-25,Helinho,175.0,18028,Nunes de Castro,Helinho,F
+2002-04-16,Jhonny,179.0,18390,Cardinoti Pedro,Jhonny,D
+2005-08-18,Matheus,175.0,18360,Gonçalves,Matheus Gonçalves,RW
+2003-11-24,Lucas,186.0,17877,Beraldo,Lucas Beraldo,D
+1988-05-21,Felipe,187.0,17874,Alves,Felipe Alves,GK
+1999-04-01,Vitor,181.0,8378,dos Santos,Vitinho,F
+2002-02-21,Carlos Eduardo,170.0,17961,Bertolassi da Silva,Cadu,D
+1994-06-23,Higor,186.0,3533,Meritão,Higor Meritão,M
+2005-10-18,Gustavo,198.0,18861,Henrique,Gustavo Henrique,LCB
+1993-09-23,Jonathan,181.0,17894,Calleri,Jonathan Calleri,F
+1994-10-01,Pedro,175.0,16183,Rocha,Pedro Rocha,F
+1990-03-02,Guilherme,181.0,17965,Camacho,Guilherme Camacho,M
+2002-02-14,Guilherme,178.0,18602,Lopes,Guilherme Lopes,LB
+2002-04-21,Raí,175.0,18380,Pessanha,Raí,M
+2000-10-06,Adson,171.0,16020,Ferreira Soares,Adson,F
+1997-02-15,Joao,195.0,19572,Magno,Joao Magno,CF
+2005-03-05,Wesley,180.0,18816,Gassova Ribeiro,Wesley,LW
+1988-10-07,Diego,186.0,1395,Costa,Diego Costa,F
+1996-02-13,Eduardo,187.0,17951,Bauermann,Eduardo Bauermann,D
+1999-05-28,Mikael,184.0,17919,Viana de Sousa,Mikael,F
+1992-01-06,Magno José,175.0,17991,da Silva,Maguinho,D
+2002-04-16,Ivonei,175.0,17968,da Silva Rabelo,Ivonei,M
+1999-03-22,Bernardo,191.0,18797,Schappo,Bernardo Schappo,LCB
+2000-08-10,Eric,174.0,18026,Ramires,Eric Ramires,M
+2000-06-16,Edu,185.0,17986,Ribeiro de Souza,Edu,D
+1995-10-17,David,180.0,17891,Corrêa da Fonseca,David,F
+2004-01-08,Samuel,178.0,23374,Alves Barroso,Samuel,RB
+2005-09-28,Gabriel,185.0,19468,Moscardo,Gabriel Moscardo,M
+1997-09-07,Gustavo,169.0,16012,Mosquito,Gustavo Mosquito,F
+2001-09-05,Nathan,183.0,18114,Santos de Araújo,Nathan,D
+2001-02-06,Natan,188.0,18015,Bernardo de Souza,Natan,D
+2000-06-24,Lucas,171.0,5203,Esteves,Lucas Esteves,D
+2000-03-01,Philippe,188.0,18011,Costa,Philippe Costa,F
+1991-06-18,Mauricio,191.0,18373,Kozlinski,Mauricio Kozlinski,GK
+2005-07-25,Nathan,177.0,18392,Camargo,Nathan Camargo,M
+1996-09-28,Michel,178.0,16140,Araújo,Michel Araújo,M
+1995-03-11,José,177.0,16172,Welison,Zé Welison,M
+1991-12-08,Bruno,174.0,16189,Pacheco,Bruno Pacheco,D
+2001-02-23,Marcos Vinicios,175.0,18029,Lopes Moura,Sorriso,F
+2000-02-21,Jhonny,170.0,17995,Lucas,Jhonny Lucas,M
+2002-01-10,Pablo,178.0,17884,Maia,Pablo Maia,M
+2002-01-20,Luan,190.0,18018,Patrick,Luan Patrick,D
+1989-02-19,Fernando,178.0,1906,Marcal Oliverira,Marcal,D
+2003-10-01,Weslley,164.0,18902,Patati,Weslley Patati,LW
+2000-07-12,Kayque,176.0,17940,Pereira,Kayque,M
+2004-03-16,Rodrigo,185.0,18072,Huendra,Rodriguinho,M
+1988-03-29,Gatito,191.0,17925,Fernández,Gatito Fernández,GK
+1999-05-06,Janderson,189.0,18603,Carvalho Costa,Janderson,CF
+1998-02-11,Matheus Leonardo,164.0,17909,Sales Cardoso,Matheusinho,M
+2000-05-02,Lucas,188.0,17982,Halter,Lucas Halter,D
+1994-05-06,Raí,179.0,18395,Ramos,Raí Ramos,D
+2001-03-24,Lucas,182.0,17958,Pires,Lucas Pires,D
+1990-03-01,Lucas,177.0,16190,Sasha,Lucas Sasha,M
+1998-03-09,João,181.0,17960,Lucas,João Lucas,D
+1992-02-24,Eduardo,173.0,15805,Sasha,Eduardo Sasha,F
+1993-09-09,Luiz,189.0,18108,Felipe,Luiz Felipe,D
+1983-04-22,Wellington,180.0,17922,Paulista,Wellington Paulista,F
+2001-05-07,JP,184.0,18835,Galvão,JP Galvão,RCB
+1999-02-16,Alesson,173.0,18004,dos Santos Batista,Alesson,F
+2002-07-17,Yani,186.0,19606,Quintero,Yani Quintero,DM
+1991-07-12,James,181.0,1690,Rodríguez,James Rodríguez,M
+1994-01-28,Leonel,176.0,14526,Di Placido,Leonel Di Placido,D
+1997-07-15,Maycon,173.0,9113,Barberan,Maycon,M
+1987-06-06,Cássio,195.0,16009,Ramos,Cássio,GK
+2005-06-05,Deivid,187.0,18305,Washington,Deivid Washington,LW
+1991-01-17,Tiquinho,187.0,17947,Soares,Tiquinho Soares,F
+1996-10-11,Alan,183.0,2346,Franco,Alan Franco,D
+1988-03-12,Christian,188.0,16186,Chagas Tarouco,Titi,D
+1994-05-28,Everaldo,172.0,16007,Silva do Nascimento,Everaldo,F
+1994-11-03,Messias,191.0,17953,Rodrigues da Silva Júnior,Messias,D
+2001-03-19,Ed,186.0,17971,Carlos,Ed Carlos,M
+1985-09-07,Marcio Rafael,172.0,18103,Ferreira de Souza,Rafinha,D
+1988-09-14,Maicon,191.0,17952,Pereira Roque,Maicon,D
+1999-02-04,Julián,169.0,17998,Palacios,Julián Palacios,M
+1990-07-09,Lucas,176.0,18081,Lima,Lucas Lima,M
+2004-02-18,Felipe,187.0,18718,Augusto,Felipe Augusto,CF
+1991-05-27,Henrique,177.0,17921,Almeida,Henrique Almeida,F
+1992-06-05,Yago,169.0,16177,Pikachu,Yago Pikachu,D
+1998-06-30,Matheus,183.0,1520,Fernandes,Matheus Fernandes,M
+1985-09-16,Fábio,179.0,16026,Santos,Fábio Santos,D
+2003-05-24,Mateo,183.0,15455,Ponte,Mateo Ponte,D
+2003-01-11,Rodrigo,180.0,17918,Varanda,Rodrigo Varanda,F
+1995-11-03,Matías,180.0,14399,Rojas,Matías Rojas,M
+2003-01-04,Matías,165.0,17377,Segovia,Matías Segovia,M
+1989-07-16,Vladimir,192.0,17948,Cardoso de Araújo Filho,Vladimir,GK
+1996-09-02,Moisés,175.0,16176,Vieira da Veiga,Moisés,F
+1992-06-28,Mateus,192.0,17898,Pasinato,Mateus Pasinato,GK
+2000-10-20,Hércules,178.0,16184,Pereira do Nascimento,Hércules,M
+1992-06-27,Stiven,172.0,17973,Mendoza,Stiven Mendoza,F
+1997-11-04,Everton,185.0,18298,Morelli,Everton Morelli,CM
+1989-06-09,Danilo,185.0,17904,Avelar,Danilo Avelar,D
+1997-12-10,Lucas,197.0,17924,Perri,Lucas Perri,GK
+2004-04-25,Miguel,177.0,18304,Terceros,Miguel Terceros,AM
+1988-11-19,Victor,187.0,17930,Cuesta,Victor Cuesta,D
+1995-05-06,Lucas,181.0,18027,Evangelista,Lucas Evangelista,M
+1986-12-13,Luiz Diallisson,172.0,18005,de Souza Alves,Apodi,F
+2003-05-02,Marcos,176.0,17976,Leonardo,Marcos Leonardo,F
+1994-06-17,Martín,175.0,17908,Benítez,Martín Benítez,M
+1995-04-05,Éder,184.0,17902,Ferreira Graminho,Éder Ferreira,D
+1998-11-08,Maycon,191.0,18013,Cleiton,Maycon Cleiton,GK
+2002-05-22,Matheus,176.0,18619,Araújo,Matheus Araújo,AM
+1990-05-29,Mario,169.0,16130,Santos,Marinho,F
+2000-06-22,Diego,175.0,15411,Hernández,Diego Hernández,F
+1999-11-10,Pedro,176.0,18113,Pereira Lopes,Pedrinho,F
+1999-05-04,Matheus,172.0,16015,Bidu,Matheus Bidu,D
+1990-10-03,Sander,177.0,17989,Henrique Bortolotto,Sander,D
+2001-09-20,Hugo,175.0,18080,Ferreira Neto,Hugo,D
+1993-03-01,Jandrei,186.0,17873,Chitolina Carniel,Jandrei,GK
+1997-11-28,Eduardo,196.0,18601,Santos,Eduarod Santos,RCB
+2002-08-30,Sandry,174.0,17966,Santos Goes,Sandry,M
+1988-05-17,Marcelo,186.0,17980,Rangel,Marcelo Rangel,GK
+1997-08-11,Gabriel,171.0,17885,Neves,Gabriel Neves,M
+2001-12-14,Luis,181.0,3988,Henrique,Luis Henrique,F
+2001-05-24,Brayan,189.0,16181,Ceballos,Brayan Ceballos,D
+1995-03-27,Marlon,185.0,17935,Freitas,Marlon Freitas,M
+1993-03-01,Alison,182.0,17964,Lopes Ferreira,Alison,M
+1991-10-22,Robert,189.0,13936,Arboleda,Robert Arboleda,D
+2004-04-06,Léo,179.0,19469,Mana,Léo Mana,D
+1994-03-27,Joao,178.0,5005,Victor,Joao Victor,F
+1990-08-18,Aderlan,182.0,18022,de Lima Silva,Aderlan,D
+2004-05-21,João,176.0,17882,Moreira,João Moreira,D
+1999-02-24,Caio,174.0,2530,Alexandre,Caio Alexandre,M
+1996-04-17,Douglas,170.0,17969,Moreira,Dodi,M
+1997-10-26,Luis,182.0,17929,Segovia,Luis Segovia,D
+2002-02-24,Everton,170.0,18393,Souza Messias,Everton,F
+1999-05-14,Luan,175.0,18104,Vinicius da Silva Santos,Luan,M
+2000-01-12,Alerrandro,176.0,18032,Ferreira Godoy Viana,Alerrandro,F
+1989-06-23,Rafael,192.0,18102,Pires Monteiro,Rafael,GK
+1997-08-19,Cleiton,190.0,18087,Schwengber,Cleiton,GK
+1994-10-11,Júnior,188.0,16185,Santos,Júnior Santos,F
+2003-06-05,Rodrigo Henrique,170.0,18079,Santos de Souza,Rodriguinho,M
+2004-12-21,Ângelo,182.0,17974,Gabriel,Ângelo Gabriel,F
+1992-07-09,Sidimar,185.0,17985,Fernando Cigolini,Sidimar,D
+1992-06-28,Wellington,172.0,17890,Rato,Wellington Rato,M
+2003-09-28,Júlio,186.0,18889,César,Júlio César,RCB
+1996-01-07,Marcelo,181.0,16187,Benevenuto,Marcelo Benevenuto,D
+1993-05-16,Willian,179.0,17992,Oliveira,Willian Oliveira,M
+1993-04-28,Gonzalo,180.0,17920,Mastriani,Gonzalo Mastriani,F
+2001-05-20,Jadsom,176.0,18023,Meemyas de Oliveira da Silva,Jadsom,M
+2001-02-01,Marcos,186.0,13223,Paulo,Marcos Paulo,F
+1996-02-01,Tomás,180.0,2364,Pochettino,Tomás Pochettino,M
+1989-07-20,Thiago,183.0,16192,Galhardo,Thiago Galhardo,F
+1990-05-31,Giuliano,172.0,16014,Victor de Paula,Giuliano,M
+1993-05-18,Luciano,180.0,17895,da Rocha Neves,Luciano,F
+1997-03-03,Pedro,181.0,19902,Augusto,Pedro Augusto,DM
+1992-08-13,Ricardo,190.0,18075,Silva,Ricardo Silva,D
+1990-07-09,Rafael,172.0,18105,Pereira da Silva,Rafael,D
+2003-01-18,Patryck,181.0,17880,Lanza dos Reis,Patryck,D
+2002-08-19,Nathan,182.0,18112,de Souza Mendes,Nathan Mendes,D
+2001-12-23,Andrés,178.0,18021,Hurtado,Andrés Hurtado,D
+1996-03-16,Lucas,186.0,17906,Kal,Lucas Kal,M
+1998-12-28,Joaquim,190.0,17955,Pereira Silva,Joaquim,D
+1999-04-05,Gabriel,183.0,18008,Novaes,Gabriel Novaes,F
+1988-09-06,João,186.0,16166,Ricardo,João Ricardo,GK
+1993-06-25,Alisson,174.0,18073,de Freitas Castro,Alisson,F
+1992-02-04,Tadeu,184.0,17979,Ferreira,Tadeu,GK
+1989-10-17,Carlos,184.0,18106,Eduardo,Carlos Eduardo,M
+1998-10-09,Carlos,204.0,16016,Miguel,Carlos Miguel,GK
+1994-06-04,Emmanuel,169.0,17912,Martínez,Emmanuel Martínez,F
+1994-02-02,Tobias,188.0,7010,Figueiredo,Tobias Figueiredo,D
+2003-06-13,Ezequiel,185.0,21094,Oliveira,Ezequiel Oliveira,GK
+1996-01-03,Léo,185.0,18014,Ortiz,Léo Ortiz,D
+1987-06-12,Carlos Gilberto,192.0,16024,do Nascimento Silva,Gil,D
+1997-04-26,Jhegson,170.0,1034,Méndez,Jhegson Méndez,M
+1994-03-01,José Romário,168.0,16168,Silva de Souza,Romarinho,F
+1993-10-15,Víctor,180.0,16018,Cantillo,Víctor Cantillo,M
+1997-03-16,Gonzalo,171.0,19612,Escobar,Gonzalo Escobar,LB
+1999-09-10,Bruno,180.0,16019,Méndez,Bruno Méndez,D
+1999-07-21,Diego,184.0,18071,Costa,Diego Costa,D
+1994-09-28,Mateus,172.0,17913,Gonçalves,Mateus Gonçalves,F
+1994-11-11,Philipe,191.0,17931,Sampaio,Philipe Sampaio,D
+1991-11-30,Juan Martín,179.0,16191,Lucero,Juan Martín Lucero,F
+1992-10-26,Bruno,183.0,17988,Melo,Bruno Melo,D
+1996-01-03,Rodrigo,174.0,17963,Fernández,Rodrigo Fernández,M
+1991-05-21,Guilherme,174.0,18594,Costa Marques,Guilherme,AM
+2004-05-14,Felipe,,18862,Negrucci,Felipe Negrucci,DM
+1997-06-30,Yeferson,160.0,3084,Soteldo,Yeferson Soteldo,F
+2005-05-18,Alexsandro Amorim,177.0,19124,de Freitas Filho,Amorim,AM
+1997-07-06,Juninho,176.0,18020,Capixaba,Juninho Capixaba,D
+1988-07-22,Silvio,175.0,16173,Romero,Silvio Romero,F
+1994-07-22,Diego,182.0,18001,Gonçalves,Diego Gonçalves,F
+1990-06-06,Alexandre,184.0,17910,Egea,Alê,M
+1998-03-23,Adryelson,184.0,17928,Silva,Adryelson,D
+1996-10-02,Róger,182.0,16008,Guedes,Róger Guedes,F
+1997-02-24,Nicolas,181.0,18076,Vichiatto da Silva,Nicolas,D
+1994-06-19,Lucas,178.0,16167,Crispim,Lucas Crispim,M
+2000-08-09,Rodrigo,175.0,17886,Nestor,Rodrigo Nestor,M
+2003-03-14,Bruno,174.0,18033,Gonçalves de Jesus,Bruninho,F
+1992-07-04,Ángel,176.0,7663,Romero,Ángel Romero,F
+1992-08-30,Tchê,175.0,17939,Tchê,Tchê Tchê,M
+1987-10-23,Adilson,173.0,18078,dos Anjos Oliveira,Juninho,M
+1989-09-02,Alexandre,180.0,2493,Pato,Alexandre Pato,F
+1995-04-13,Guilherme Augusto,178.0,17016,Vieira dos Santos,Guilherme Augusto,LW
+1993-09-18,Gabriel,187.0,17938,Pires,Gabriel Pires,M
+1994-12-05,Javier,184.0,18192,Méndez,Javier Méndez,DM
+1993-09-01,Guilherme,179.0,16175,de Jesus da Silva,Tinga,D
+1988-02-08,Renato,186.0,16027,Augusto,Renato Augusto,M
+2001-03-18,Yuri,183.0,16028,Alberto,Yuri Alberto,F
+1997-08-29,Hugo,179.0,18082,Ferreira de Farias,Hugo,D
+1997-09-20,Lucas,175.0,17942,Fernandes,Lucas Fernandes,M
+1998-05-11,Caio,184.0,17893,Paulista,Caio Paulista,F
+1991-02-07,Wanderson,186.0,18074,Santos Pereira,Wanderson,D
+1993-02-07,Bruno,182.0,17990,Santos,Bruno Santos,D
+2001-01-06,Diogenes,186.0,17950,Vinicius da Silva,Diogenes,GK
+1999-05-28,Vinicius,178.0,17962,Balieiro,Vinicius Balieiro,M
+1990-03-30,Douglas,188.0,17926,Borges,Douglas Borges,GK
+2004-04-23,Gustavo,176.0,18391,Neves,Gustavinho,M
+1990-02-01,Fellipe,178.0,17996,Bastos,Fellipe Bastos,M
+1987-01-10,Felipe,174.0,17914,Azevedo,Felipe Azevedo,F
+1999-04-15,Roni,174.0,16021,de Moura,Roni,M
+1994-02-13,Marlon,177.0,17903,Lopes,Marlon Lopes,D
+2001-01-30,Vinicius,185.0,17967,Zanocelo,Vinicius Zanocelo,M
+2002-08-02,Talles,176.0,17887,Costa,Talles Costa,M
+2002-05-21,Talisson,188.0,18388,de Almeida,Talisson,F
+2006-02-05,Pedro,170.0,18363,Silva dos Santos,Pedro,F
+1993-04-30,Gustavo,181.0,17944,Sauer,Gustavo Sauer,F
+1996-05-16,Marcio,178.0,18605,Almeida de Oliveira,Marcinho,RB
+2002-03-07,Juan,177.0,17896,Santos da Silva,Juan,F
+1997-05-30,Luis Eduardo,175.0,16715,Marques dos Santos,Dudu,D
+2004-03-03,Matheus,182.0,17946,Nascimento,Matheus Nascimento,F
+1996-02-06,Iago,195.0,17901,Maidana,Iago Maidana,D
+1985-02-02,Fernando,191.0,16171,Miguel,Fernando Miguel,GK
+1999-06-24,João Victor,182.0,16010,Caetano,Caetano,D
+2004-04-20,Guilherme Sucigan,171.0,18796,Mafra Cunha,Biro,RW
+1995-09-15,Cauly,175.0,18456,Oliveira Souza,Cauly Oliveira Souza,M
+1988-12-26,Neuciano,168.0,18451,de Jesus Gusmão,Cicinho,D
+1998-03-03,Gustavo Nonato,175.0,22100,Santana,Nonato,CM
+1993-03-23,Sergio,190.0,13924,Rochet,Sergio Rochet,GK
+1994-12-05,Javier,184.0,18192,Méndez,Javier Méndez,DM
+1995-06-02,Camilo,174.0,15152,Cándido,Camilo Cándido,D
+2003-05-24,Mateo,183.0,15455,Ponte,Mateo Ponte,D
+2002-02-11,Matías,175.0,18431,Galarza,Matías Galarza,M

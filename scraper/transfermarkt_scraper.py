@@ -20,11 +20,11 @@ BASE_HEADERS = {
 BASE_URL = "https://www.transfermarkt.us"
 
 LEAGUE_MAP = {
-    "Spain":    ("laliga",        "ES1"),
-    "England":  ("premier-league","GB1"),
-    "Italy":    ("serie-a",       "IT1"),
-    "Germany":  ("bundesliga",    "L1"),
-    "France":   ("ligue-1",       "FR1"),
+    "Spain": ("laliga", "ES1"),
+    "England": ("premier-league", "GB1"),
+    "Italy": ("serie-a", "IT1"),
+    "Germany": ("bundesliga", "L1"),
+    "France": ("ligue-1", "FR1"),
 }
 
 
@@ -34,10 +34,7 @@ LEAGUE_MAP = {
 def _flatten_columns(cols):
     if isinstance(cols, pd.MultiIndex):
         # se nível 1 não vazio, use-o; senão, use nível 0
-        return [
-            lvl1 if lvl1 not in ("", None) else lvl0
-            for lvl0, lvl1 in cols
-        ]
+        return [lvl1 if lvl1 not in ("", None) else lvl0 for lvl0, lvl1 in cols]
     else:
         return list(cols)
 
@@ -119,10 +116,7 @@ def get_team_player_urls(
     anchors = soup.select("a[href*='/profil/spieler/']")
     root = f"{urlparse(team_url).scheme}://{urlparse(team_url).netloc}"
 
-    urls = {
-        urljoin(root, a["href"].split("?")[0])
-        for a in anchors
-    }
+    urls = {urljoin(root, a["href"].split("?")[0]) for a in anchors}
     time.sleep(pause)
     return sorted(urls)
 
@@ -182,9 +176,7 @@ def get_multiple_players_injury_history(
     frames = []
     for url in player_urls:
         try:
-            frames.append(
-                get_player_injury_history(url, session=sess, timeout=timeout)
-            )
+            frames.append(get_player_injury_history(url, session=sess, timeout=timeout))
             time.sleep(pause)
         except Exception as ex:
             print(f"[WARN] falhou em {url}: {ex}")
