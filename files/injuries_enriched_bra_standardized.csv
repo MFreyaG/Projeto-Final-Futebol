@@ -1,0 +1,2329 @@
+player_name,Injury,Start,Days Missed,Club,total_days_3y,n_events_3y,most_common_injury,severity_idx,high_risk_flag
+#1AgustínRossi,Shoulder injury,2024-12-02,6.0,Flamengo,,,,,
+#1AgustínRossi,Torn muscle bundle,2022-04-13,20.0,Flamengo,,,,,
+#1AgustínRossi,Quarantine,2021-07-22,8.0,Flamengo,,,,,
+#26Alex Sandro,Hamstring injury,2025-04-17,17.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#26Alex Sandro,Hamstring injury,2025-02-09,27.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#26Alex Sandro,Calf problems,2024-12-02,6.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#26Alex Sandro,muscular problems,2024-10-21,13.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#26Alex Sandro,Hamstring injury,2024-10-03,14.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#26Alex Sandro,Fitness,2024-08-24,22.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#26Alex Sandro,Leg injury,2024-05-03,11.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#26Alex Sandro,Muscle fatigue,2024-03-30,4.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#26Alex Sandro,unknown injury,2023-12-28,12.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#26Alex Sandro,Hamstring muscle injury,2023-09-18,66.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#26Alex Sandro,Muscle fatigue,2023-04-12,6.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#26Alex Sandro,Hamstring muscle injury,2023-03-09,21.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#26Alex Sandro,muscular problems,2022-11-29,9.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#26Alex Sandro,Thigh problems,2022-09-14,19.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#26Alex Sandro,Calf problems,2022-03-15,7.0,Flamengo,105.0,4.0,Hamstring muscle injury,26.25,True
+#29Allan,Hamstring injury,2025-05-11,17.0,Flamengo,,,,,
+#29Allan,Hamstring injury,2024-06-03,18.0,Flamengo,,,,,
+#29Allan,Corona virus,2020-11-18,11.0,Flamengo,,,,,
+#29Allan,Fitness,2019-01-01,20.0,Flamengo,,,,,
+#29Allan,Outer ligament tear,2018-11-22,40.0,Flamengo,,,,,
+#29Allan,Arm injury,2018-04-01,96.0,Flamengo,,,,,
+#29Allan,muscular problems,2017-05-01,4.0,Flamengo,,,,,
+#29Allan,Facial injury,2015-09-21,1.0,Flamengo,,,,,
+#6Ayrton Lucas,Hamstring injury,2024-05-29,23.0,Flamengo,,,,,
+#6Ayrton Lucas,Metatarsal bruise,2022-03-19,13.0,Flamengo,,,,,
+#6Ayrton Lucas,cold,2020-11-09,7.0,Flamengo,,,,,
+#6Ayrton Lucas,Leg injury,2018-05-16,24.0,Flamengo,,,,,
+#27Bruno Henrique,Hamstring injury,2025-03-09,20.0,Flamengo,,,,,
+#27Bruno Henrique,Injury to the ankle,2024-07-06,28.0,Flamengo,,,,,
+#27Bruno Henrique,sprain,2024-05-10,23.0,Flamengo,,,,,
+#27Bruno Henrique,Knee injury,2022-06-17,294.0,Flamengo,,,,,
+#27Bruno Henrique,infection,2016-12-14,5.0,Flamengo,,,,,
+#27Bruno Henrique,Foot bruise,2016-11-22,3.0,Flamengo,,,,,
+#27Bruno Henrique,Cruciate ligament strain,2016-10-27,25.0,Flamengo,,,,,
+#27Bruno Henrique,Bone edema,2016-04-21,110.0,Flamengo,,,,,
+#27Bruno Henrique,concussion,2016-04-14,1.0,Flamengo,,,,,
+#27Bruno Henrique,bronchitis,2016-02-22,8.0,Flamengo,,,,,
+#24CarlosAlcaraz,Hamstring muscle injury,2024-03-06,27.0,Flamengo,,,,,
+#24CarlosAlcaraz,Torn muscle bundle,2022-06-09,28.0,Flamengo,,,,,
+#13Danilo,Hamstring injury,2025-02-23,49.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#13Danilo,Ankle sprain,2024-12-20,9.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#13Danilo,Hamstring muscle injury,2024-05-05,9.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#13Danilo,Ankle injury,2024-02-18,14.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#13Danilo,unknown injury,2023-10-31,32.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#13Danilo,Torn muscle bundle,2023-10-13,18.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#13Danilo,Ankle injury,2022-11-24,11.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#13Danilo,muscular problems,2022-05-11,13.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#13Danilo,Rest,2022-05-05,5.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#13Danilo,Adductor pain,2022-01-15,3.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#13Danilo,Adductor injury,2021-11-20,52.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#13Danilo,Hamstring strain,2020-01-23,18.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#13Danilo,Hamstring muscle injury,2019-09-25,21.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#13Danilo,unknown injury,2018-12-10,13.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#13Danilo,Ankle injury,2018-10-16,14.0,Flamengo,50.0,2.0,unknown injury,25.0,False
+#5ErickPulgar,Hamstring injury,2025-05-11,21.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#5ErickPulgar,Muscle injury,2024-11-11,9.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#5ErickPulgar,stomach problems,2024-07-21,7.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#5ErickPulgar,Injury to the ankle,2024-04-29,34.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#5ErickPulgar,Hamstring muscle injury,2023-07-12,36.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#5ErickPulgar,Metatarsal fracture,2023-02-25,69.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#5ErickPulgar,Bruise on ankle,2022-09-19,4.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#5ErickPulgar,Corona virus,2022-03-23,6.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#5ErickPulgar,bruise,2021-12-15,7.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#5ErickPulgar,Ankle sprain,2021-10-22,45.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#5ErickPulgar,Muscle fatigue,2021-09-18,9.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#5ErickPulgar,Thigh problems,2021-06-22,9.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#5ErickPulgar,Fitness,2020-09-08,37.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#5ErickPulgar,Contracture,2018-05-15,18.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#5ErickPulgar,Contracture,2018-04-30,12.0,Flamengo,105.0,2.0,Hamstring muscle injury,52.5,True
+#11Everton,Calf injury,2025-05-05,5.0,Flamengo,,,,,
+#11Everton,Achilles tendon rupture,2024-08-12,171.0,Flamengo,,,,,
+#11Everton,Thigh problems,2024-08-01,6.0,Flamengo,,,,,
+#11Everton,Hip flexor problems,2024-06-21,29.0,Flamengo,,,,,
+#11Everton,Hamstring injury,2024-06-13,8.0,Flamengo,,,,,
+#11Everton,Calf injury,2024-04-20,21.0,Flamengo,,,,,
+#11Everton,Muscle injury,2022-05-06,12.0,Flamengo,,,,,
+#11Everton,Corona virus,2022-01-14,7.0,Flamengo,,,,,
+#11Everton,Corona virus,2021-01-24,11.0,Flamengo,,,,,
+#15Fabrício Bruno,Broken nose bone,2024-03-02,4.0,Flamengo,,,,,
+#15Fabrício Bruno,Broken toe,2022-03-30,109.0,Flamengo,,,,,
+#9Gabriel Barbosa,Thigh problems,2025-05-05,6.0,Flamengo,,,,,
+#9Gabriel Barbosa,Thigh problems,2024-09-16,10.0,Flamengo,,,,,
+#9Gabriel Barbosa,Hamstring injury,2024-08-16,28.0,Flamengo,,,,,
+#8Gerson,Hamstring injury,2025-03-22,15.0,Flamengo,16.0,1.0,Thigh problems,16.0,False
+#8Gerson,Kidney problems,2024-02-18,54.0,Flamengo,16.0,1.0,Thigh problems,16.0,False
+#8Gerson,Thigh problems,2023-05-01,16.0,Flamengo,16.0,1.0,Thigh problems,16.0,False
+#8Gerson,Ankle problems,2022-08-21,10.0,Flamengo,16.0,1.0,Thigh problems,16.0,False
+#8Gerson,Corona virus,2022-01-06,8.0,Flamengo,16.0,1.0,Thigh problems,16.0,False
+#10Giorgiande Arrascaeta,Hamstring injury,2025-03-23,14.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#10Giorgiande Arrascaeta,Arthroscopy,2024-11-11,75.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#10Giorgiande Arrascaeta,Adductor injury,2024-08-19,25.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#10Giorgiande Arrascaeta,Hamstring injury,2024-04-29,12.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#10Giorgiande Arrascaeta,Hamstring injury,2023-08-27,27.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#10Giorgiande Arrascaeta,Muscle injury,2023-05-20,9.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#10Giorgiande Arrascaeta,muscular problems,2023-03-20,45.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#10Giorgiande Arrascaeta,Knock,2022-09-02,4.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#10Giorgiande Arrascaeta,Back problems,2022-07-08,5.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#10Giorgiande Arrascaeta,Knock,2022-05-31,8.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#10Giorgiande Arrascaeta,Rest,2022-05-23,4.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#10Giorgiande Arrascaeta,Ankle injury,2022-03-31,8.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#10Giorgiande Arrascaeta,Rest,2021-12-02,10.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#10Giorgiande Arrascaeta,Muscle injury,2021-10-09,42.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#10Giorgiande Arrascaeta,Fitness,2021-09-25,4.0,Flamengo,81.0,3.0,Hamstring injury,27.0,True
+#50GonzaloPlata,Knee problems,2025-05-02,45.0,Flamengo,13.0,1.0,Torn muscle fiber in the adductor area,13.0,False
+#50GonzaloPlata,Bone edema,2025-04-20,7.0,Flamengo,13.0,1.0,Torn muscle fiber in the adductor area,13.0,False
+#50GonzaloPlata,Muscle fatigue,2025-03-30,7.0,Flamengo,13.0,1.0,Torn muscle fiber in the adductor area,13.0,False
+#50GonzaloPlata,Torn muscle fiber in the adductor area,2023-03-18,13.0,Flamengo,13.0,1.0,Torn muscle fiber in the adductor area,13.0,False
+#50GonzaloPlata,Hip problems,2022-10-06,13.0,Flamengo,13.0,1.0,Torn muscle fiber in the adductor area,13.0,False
+#50GonzaloPlata,Ankle problems,2022-08-15,18.0,Flamengo,13.0,1.0,Torn muscle fiber in the adductor area,13.0,False
+#50GonzaloPlata,ankle sprain,2022-06-13,43.0,Flamengo,13.0,1.0,Torn muscle fiber in the adductor area,13.0,False
+#50GonzaloPlata,Corona virus,2022-02-17,8.0,Flamengo,13.0,1.0,Torn muscle fiber in the adductor area,13.0,False
+#50GonzaloPlata,flu,2021-11-01,5.0,Flamengo,13.0,1.0,Torn muscle fiber in the adductor area,13.0,False
+#50GonzaloPlata,Corona virus,2020-11-22,11.0,Flamengo,13.0,1.0,Torn muscle fiber in the adductor area,13.0,False
+#2GuillermoVarela,Hip flexor problems,2024-08-08,7.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#2GuillermoVarela,Knee injury,2023-08-18,62.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#2GuillermoVarela,unknown injury,2023-04-25,22.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#2GuillermoVarela,unknown injury,2022-10-20,20.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#2GuillermoVarela,Fitness,2019-10-30,4.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#2GuillermoVarela,Ankle injury,2018-09-05,118.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#2GuillermoVarela,Muscle injury,2018-06-08,6.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#2GuillermoVarela,Rest,2018-04-28,3.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#2GuillermoVarela,Knock,2017-11-23,16.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#2GuillermoVarela,inflamed wound,2017-05-23,6.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#2GuillermoVarela,Ankle problems,2017-03-27,18.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#2GuillermoVarela,Remove screws/nails,2017-03-09,15.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#2GuillermoVarela,Ankle problems,2017-03-02,8.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#2GuillermoVarela,Fitness,2017-01-16,39.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#2GuillermoVarela,Torn ankle ligaments,2016-09-12,127.0,Flamengo,84.0,2.0,Knee injury,42.0,True
+#1Hugo Souza,Hamstring injury,2025-03-28,27.0,Flamengo,,,,,
+#21Jorginho,Chest injury,2025-04-13,24.0,Flamengo,,,,,
+#21Jorginho,unknown injury,2022-05-01,8.0,Flamengo,,,,,
+#21Jorginho,Muscle fatigue,2014-09-29,8.0,Flamengo,,,,,
+#21Jorginho,Fever,2013-12-13,4.0,Flamengo,,,,,
+#23Juninho,unknown injury,2022-08-03,15.0,Flamengo,,,,,
+#23Juninho,unknown injury,2021-10-16,89.0,Flamengo,,,,,
+#23Juninho,unknown injury,2021-01-20,49.0,Flamengo,,,,,
+#3Léo Ortiz,Cruciate ligament injury,2022-10-03,285.0,Flamengo,,,,,
+#4Léo Pereira,Thigh problems,2024-12-02,6.0,Flamengo,6.0,1.0,Bruised ribs,6.0,False
+#4Léo Pereira,Knee problems,2024-08-29,14.0,Flamengo,6.0,1.0,Bruised ribs,6.0,False
+#4Léo Pereira,Hamstring injury,2024-05-19,11.0,Flamengo,6.0,1.0,Bruised ribs,6.0,False
+#4Léo Pereira,Bruised ribs,2023-10-26,6.0,Flamengo,6.0,1.0,Bruised ribs,6.0,False
+#4Léo Pereira,Hamstring injury,2020-02-12,11.0,Flamengo,6.0,1.0,Bruised ribs,6.0,False
+#7Luiz Araújo,Knee injury,2024-09-15,80.0,Flamengo,,,,,
+#7Luiz Araújo,Muscle injury,2022-02-28,45.0,Flamengo,,,,,
+#7Luiz Araújo,Corona virus,2020-12-31,16.0,Flamengo,,,,,
+#17MatíasViña,Knee injury,2024-08-12,293.0,Flamengo,71.0,1.0,Knee problems,71.0,True
+#17MatíasViña,Knee problems,2023-12-11,71.0,Flamengo,71.0,1.0,Knee problems,71.0,True
+#17MatíasViña,Adductor injury,2021-11-03,24.0,Flamengo,71.0,1.0,Knee problems,71.0,True
+#17MatíasViña,Knee injury,2021-09-15,11.0,Flamengo,71.0,1.0,Knee problems,71.0,True
+#17MatíasViña,muscular problems,2021-09-04,7.0,Flamengo,71.0,1.0,Knee problems,71.0,True
+#17MatíasViña,Bruise on ankle,2021-03-01,15.0,Flamengo,71.0,1.0,Knee problems,71.0,True
+#17MatíasViña,Rest,2021-01-08,3.0,Flamengo,71.0,1.0,Knee problems,71.0,True
+#17MatíasViña,Corona virus,2020-11-15,14.0,Flamengo,71.0,1.0,Knee problems,71.0,True
+#17MatíasViña,Head injury,2020-07-23,13.0,Flamengo,71.0,1.0,Knee problems,71.0,True
+#17MatíasViña,muscular problems,2020-02-29,7.0,Flamengo,71.0,1.0,Knee problems,71.0,True
+#17MatíasViña,Foot injury,2020-01-21,21.0,Flamengo,71.0,1.0,Knee problems,71.0,True
+#30Michael,Hamstring injury,2024-08-29,34.0,Flamengo,,,,,
+#18Nicolásde la Cruz,Knee injury,2025-05-19,42.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#18Nicolásde la Cruz,Hamstring injury,2024-10-21,36.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#18Nicolásde la Cruz,Hamstring injury,2024-08-30,19.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#18Nicolásde la Cruz,Knee problems,2024-08-01,10.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#18Nicolásde la Cruz,Tendonitis,2023-10-23,11.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#18Nicolásde la Cruz,Rest,2023-09-23,5.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#18Nicolásde la Cruz,Fever,2023-08-19,4.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#18Nicolásde la Cruz,strain,2023-05-19,6.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#18Nicolásde la Cruz,Knee problems,2023-04-01,15.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#18Nicolásde la Cruz,Edema in the knee,2023-03-17,13.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#18Nicolásde la Cruz,Knee surgery,2023-01-01,55.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#18Nicolásde la Cruz,Knee problems,2022-10-22,12.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#18Nicolásde la Cruz,Knee problems,2022-09-28,7.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#18Nicolásde la Cruz,Knock,2022-06-26,10.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#18Nicolásde la Cruz,Knee problems,2022-04-24,3.0,Flamengo,109.0,7.0,Tendonitis,15.571428571428571,True
+#21Pablo,Hamstring injury,2024-04-22,265.0,Flamengo,,,,,
+#21Pablo,Hamstring injury,2024-02-01,77.0,Flamengo,,,,,
+#21Pablo,Cruciate ligament tear,2020-03-01,186.0,Flamengo,,,,,
+#21Pablo,Hamstring injury,2016-01-04,51.0,Flamengo,,,,,
+#21Pablo,Adductor injury,2015-12-07,23.0,Flamengo,,,,,
+#21Pablo,unknown injury,2015-11-23,12.0,Flamengo,,,,,
+#9Pedro,Cruciate ligament tear,2024-09-04,217.0,Flamengo,8.0,1.0,Hamstring injury,8.0,False
+#9Pedro,Hamstring injury,2024-08-16,16.0,Flamengo,8.0,1.0,Hamstring injury,8.0,False
+#9Pedro,Hamstring injury,2023-05-12,8.0,Flamengo,8.0,1.0,Hamstring injury,8.0,False
+#9Pedro,Thigh problems,2019-08-12,40.0,Flamengo,8.0,1.0,Hamstring injury,8.0,False
+#9Pedro,Cruciate ligament tear,2018-08-25,208.0,Flamengo,8.0,1.0,Hamstring injury,8.0,False
+#29Thiago Maia,muscular problems,2024-11-09,22.0,Flamengo,,,,,
+#29Thiago Maia,Hamstring injury,2024-07-01,41.0,Flamengo,,,,,
+#29Thiago Maia,Ankle injury,2024-06-18,5.0,Flamengo,,,,,
+#29Thiago Maia,Cruciate ligament tear,2020-12-01,212.0,Flamengo,,,,,
+#29Thiago Maia,Corona virus,2020-11-21,10.0,Flamengo,,,,,
+#29Thiago Maia,Knee injury,2020-01-05,11.0,Flamengo,,,,,
+#29Thiago Maia,Foot injury,2019-11-27,17.0,Flamengo,,,,,
+#29Thiago Maia,Fitness,2019-10-23,14.0,Flamengo,,,,,
+#29Thiago Maia,unknown injury,2019-08-25,42.0,Flamengo,,,,,
+#29Thiago Maia,Ankle injury,2019-04-27,5.0,Flamengo,,,,,
+#29Thiago Maia,Leg injury,2019-01-18,16.0,Flamengo,,,,,
+#43Wesley,Muscle fatigue,2025-03-30,7.0,Flamengo,,,,,
+#43Wesley,Hamstring injury,2024-08-19,6.0,Flamengo,,,,,
+#43Wesley,Hamstring injury,2024-07-21,7.0,Flamengo,,,,,
+#43Wesley,Adductor injury,2024-03-28,20.0,Flamengo,,,,,
+#21AlanFranco,Knee injury,2025-04-27,14.0,Atlético_Mineiro,24.0,1.0,Inflammation of ligaments in the knee,24.0,False
+#21AlanFranco,Inner ligament stretch of the knee,2025-04-11,15.0,Atlético_Mineiro,24.0,1.0,Inflammation of ligaments in the knee,24.0,False
+#21AlanFranco,flu,2025-03-30,7.0,Atlético_Mineiro,24.0,1.0,Inflammation of ligaments in the knee,24.0,False
+#21AlanFranco,Inflammation of ligaments in the knee,2023-08-28,24.0,Atlético_Mineiro,24.0,1.0,Inflammation of ligaments in the knee,24.0,False
+#21AlanFranco,Corona virus,2020-11-14,14.0,Atlético_Mineiro,24.0,1.0,Inflammation of ligaments in the knee,24.0,False
+#30Alisson,Hamstring injury,2024-08-25,52.0,Atlético_Mineiro,,,,,
+#30Alisson,ankle sprain,2024-06-23,51.0,Atlético_Mineiro,,,,,
+#11Bernard,Knee problems,2024-12-01,59.0,Atlético_Mineiro,,,,,
+#11Bernard,Inner ligament stretch of the knee,2024-09-26,41.0,Atlético_Mineiro,,,,,
+#11Bernard,unknown injury,2024-04-21,16.0,Atlético_Mineiro,,,,,
+#11Bernard,Knee injury,2020-01-01,4.0,Atlético_Mineiro,,,,,
+#11Bernard,Knee injury,2019-10-27,35.0,Atlético_Mineiro,,,,,
+#11Bernard,Ill,2019-09-26,9.0,Atlético_Mineiro,,,,,
+#11Bernard,Knock,2018-08-26,21.0,Atlético_Mineiro,,,,,
+#11Bernard,Knock,2018-08-09,16.0,Atlético_Mineiro,,,,,
+#11Bernard,Shoulder injury,2018-03-14,109.0,Atlético_Mineiro,,,,,
+#11Bernard,Arm injury,2017-10-23,8.0,Atlético_Mineiro,,,,,
+#11Bernard,Ligament injury,2015-02-16,46.0,Atlético_Mineiro,,,,,
+#30BrahianPalacios,Stomach flu,2025-05-30,8.0,Atlético_Mineiro,,,,,
+#30BrahianPalacios,Hamstring injury,2025-02-13,75.0,Atlético_Mineiro,,,,,
+#30BrahianPalacios,Thigh problems,2024-03-18,36.0,Atlético_Mineiro,,,,,
+#42Cadu,Torn knee ligaments,2024-09-29,274.0,Atlético_Mineiro,,,,,
+#38Caio Paulista,strain,2023-08-10,19.0,Atlético_Mineiro,19.0,1.0,strain,19.0,False
+#92Dudu,Calf injury,2024-08-08,24.0,Atlético_Mineiro,582.0,2.0,Cruciate ligament tear,291.0,True
+#92Dudu,Cruciate ligament tear,2023-08-28,291.0,Atlético_Mineiro,582.0,2.0,Cruciate ligament tear,291.0,True
+#22Everson,Broken finger,2024-06-24,44.0,Atlético_Mineiro,,,,,
+#8FaustoVera,Hamstring injury,2024-05-07,7.0,Atlético_Mineiro,,,,,
+#25Gabriel Menino,Inflammation of ligaments in the knee,2025-04-24,24.0,Atlético_Mineiro,,,,,
+#25Gabriel Menino,Hamstring injury,2024-08-22,37.0,Atlético_Mineiro,,,,,
+#25Gabriel Menino,Corona virus,2020-11-12,10.0,Atlético_Mineiro,,,,,
+#13GuilhermeArana,Hamstring injury,2025-05-19,42.0,Atlético_Mineiro,,,,,
+#13GuilhermeArana,Thigh problems,2025-04-14,34.0,Atlético_Mineiro,,,,,
+#13GuilhermeArana,ankle sprain,2024-11-14,12.0,Atlético_Mineiro,,,,,
+#13GuilhermeArana,Thigh problems,2024-10-03,16.0,Atlético_Mineiro,,,,,
+#13GuilhermeArana,Cruciate ligament injury,2022-09-12,246.0,Atlético_Mineiro,,,,,
+#10GustavoScarpa,Knee problems,2024-11-17,9.0,Atlético_Mineiro,72.0,2.0,unknown injury,36.0,True
+#10GustavoScarpa,unknown injury,2023-11-24,39.0,Atlético_Mineiro,72.0,2.0,unknown injury,36.0,True
+#10GustavoScarpa,Knee injury,2023-04-06,33.0,Atlético_Mineiro,72.0,2.0,unknown injury,36.0,True
+#10GustavoScarpa,Corona virus,2020-11-20,9.0,Atlético_Mineiro,72.0,2.0,unknown injury,36.0,True
+#7Hulk,Knock,2025-04-21,5.0,Atlético_Mineiro,,,,,
+#7Hulk,Hamstring injury,2025-02-23,20.0,Atlético_Mineiro,,,,,
+#7Hulk,Calf injury,2024-08-01,28.0,Atlético_Mineiro,,,,,
+#7Hulk,unknown injury,2022-10-17,77.0,Atlético_Mineiro,,,,,
+#7Hulk,muscular problems,2022-10-07,8.0,Atlético_Mineiro,,,,,
+#7Hulk,muscular problems,2022-09-12,7.0,Atlético_Mineiro,,,,,
+#7Hulk,Muscle injury,2016-07-10,50.0,Atlético_Mineiro,,,,,
+#7Hulk,Rest,2015-12-07,4.0,Atlético_Mineiro,,,,,
+#7Hulk,Adductor tear,2015-10-29,5.0,Atlético_Mineiro,,,,,
+#7Hulk,Thigh problems,2013-04-16,11.0,Atlético_Mineiro,,,,,
+#7Hulk,Thigh problems,2012-11-02,15.0,Atlético_Mineiro,,,,,
+#7Hulk,Muscle strain,2012-01-15,25.0,Atlético_Mineiro,,,,,
+#7Hulk,Ankle sprain,2011-09-14,7.0,Atlético_Mineiro,,,,,
+#7Hulk,Ankle sprain,2009-04-23,18.0,Atlético_Mineiro,,,,,
+#17Igor Gomes,ankle sprain,2023-09-03,18.0,Atlético_Mineiro,18.0,1.0,ankle sprain,18.0,False
+#16Igor Rabello,Hamstring injury,2025-04-02,18.0,Atlético_Mineiro,25.0,1.0,Hamstring injury,25.0,False
+#16Igor Rabello,Hamstring injury,2023-08-11,25.0,Atlético_Mineiro,25.0,1.0,Hamstring injury,25.0,False
+#16Igor Rabello,Torn lateral knee ligament,2022-08-21,268.0,Atlético_Mineiro,25.0,1.0,Hamstring injury,25.0,False
+#6JúniorAlonso,Knee problems,2022-11-09,55.0,Atlético_Mineiro,,,,,
+#37Júnior Santos,Thigh problems,2025-04-07,31.0,Atlético_Mineiro,,,,,
+#37Júnior Santos,Calf injury,2025-02-13,44.0,Atlético_Mineiro,,,,,
+#37Júnior Santos,Fitness,2024-09-29,37.0,Atlético_Mineiro,,,,,
+#37Júnior Santos,Broken tibia,2024-07-23,67.0,Atlético_Mineiro,,,,,
+#4Lyanco,Hamstring injury,2025-04-24,17.0,Atlético_Mineiro,125.0,1.0,unknown injury,125.0,True
+#4Lyanco,unknown injury,2023-09-29,125.0,Atlético_Mineiro,125.0,1.0,unknown injury,125.0,True
+#4Lyanco,Hamstring injury,2022-02-05,57.0,Atlético_Mineiro,125.0,1.0,unknown injury,125.0,True
+#4Lyanco,Corona virus,2021-12-18,17.0,Atlético_Mineiro,125.0,1.0,unknown injury,125.0,True
+#4Lyanco,Lumbago,2021-03-29,21.0,Atlético_Mineiro,125.0,1.0,unknown injury,125.0,True
+#4Lyanco,Inner ligament injury,2019-11-18,59.0,Atlético_Mineiro,125.0,1.0,unknown injury,125.0,True
+#4Lyanco,muscular problems,2019-08-01,35.0,Atlético_Mineiro,125.0,1.0,unknown injury,125.0,True
+#4Lyanco,unknown injury,2019-02-03,18.0,Atlético_Mineiro,125.0,1.0,unknown injury,125.0,True
+#4Lyanco,Foot surgery,2018-05-10,143.0,Atlético_Mineiro,125.0,1.0,unknown injury,125.0,True
+#4Lyanco,Foot injury,2017-12-23,138.0,Atlético_Mineiro,125.0,1.0,unknown injury,125.0,True
+#4Lyanco,Ankle sprain,2017-10-14,21.0,Atlético_Mineiro,125.0,1.0,unknown injury,125.0,True
+#4Lyanco,Tonsillitis,2017-08-06,17.0,Atlético_Mineiro,125.0,1.0,unknown injury,125.0,True
+#11MatíasZaracho,Hamstring injury,2025-04-30,13.0,Atlético_Mineiro,59.0,1.0,Torn ankle ligaments,59.0,False
+#11MatíasZaracho,strain,2025-03-25,15.0,Atlético_Mineiro,59.0,1.0,Torn ankle ligaments,59.0,False
+#11MatíasZaracho,muscular problems,2024-11-24,38.0,Atlético_Mineiro,59.0,1.0,Torn ankle ligaments,59.0,False
+#11MatíasZaracho,Pubic bone irritation,2024-08-21,74.0,Atlético_Mineiro,59.0,1.0,Torn ankle ligaments,59.0,False
+#11MatíasZaracho,Pubic bone bruise,2024-06-26,35.0,Atlético_Mineiro,59.0,1.0,Torn ankle ligaments,59.0,False
+#11MatíasZaracho,Hamstring injury,2024-02-07,52.0,Atlético_Mineiro,59.0,1.0,Torn ankle ligaments,59.0,False
+#11MatíasZaracho,Torn ankle ligaments,2023-01-07,59.0,Atlético_Mineiro,59.0,1.0,Torn ankle ligaments,59.0,False
+#11MatíasZaracho,Adductor pain,2021-08-01,10.0,Atlético_Mineiro,59.0,1.0,Torn ankle ligaments,59.0,False
+#11MatíasZaracho,Bruise on ankle,2021-04-29,20.0,Atlético_Mineiro,59.0,1.0,Torn ankle ligaments,59.0,False
+#11MatíasZaracho,Knee problems,2018-11-05,18.0,Atlético_Mineiro,59.0,1.0,Torn ankle ligaments,59.0,False
+#4MauricioLemos,Bone splintering,2025-04-09,38.0,Atlético_Mineiro,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Hamstring injury,2024-06-23,70.0,Atlético_Mineiro,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Back injury,2024-05-05,12.0,Atlético_Mineiro,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Calf injury,2024-02-06,32.0,Atlético_Mineiro,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Muscle injury,2023-06-22,6.0,Atlético_Mineiro,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Torn ankle ligaments,2020-11-30,29.0,Atlético_Mineiro,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,unknown injury,2019-09-30,17.0,Atlético_Mineiro,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Muscle injury,2019-08-07,22.0,Atlético_Mineiro,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,ankle sprain,2019-05-22,10.0,Atlético_Mineiro,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,unknown injury,2018-12-27,15.0,Atlético_Mineiro,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,unknown injury,2018-08-09,16.0,Atlético_Mineiro,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Abdominal problems,2017-11-27,7.0,Atlético_Mineiro,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,ankle sprain,2016-10-11,5.0,Atlético_Mineiro,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Appendicitis,2015-02-01,37.0,Atlético_Mineiro,12.0,2.0,Muscle injury,6.0,False
+#94Otávio,Achilles tendon rupture,2025-03-17,105.0,Atlético_Mineiro,,,,,
+#94Otávio,Shoulder injury,2024-09-13,19.0,Atlético_Mineiro,,,,,
+#94Otávio,Hamstring injury,2024-05-16,48.0,Atlético_Mineiro,,,,,
+#94Otávio,Achilles tendon rupture,2021-01-20,182.0,Atlético_Mineiro,,,,,
+#20Patrick,ankle sprain,2025-04-14,9.0,Atlético_Mineiro,,,,,
+#10Paulinho,Cracked bone,2024-12-01,132.0,Atlético_Mineiro,,,,,
+#10Paulinho,Muscle injury,2024-10-13,6.0,Atlético_Mineiro,,,,,
+#10Paulinho,cold,2022-11-03,11.0,Atlético_Mineiro,,,,,
+#10Paulinho,Corona virus,2022-01-10,18.0,Atlético_Mineiro,,,,,
+#10Paulinho,Cruciate ligament tear,2020-07-02,316.0,Atlético_Mineiro,,,,,
+#10Paulinho,Broken arm,2018-04-05,117.0,Atlético_Mineiro,,,,,
+#26RenzoSaravia,Hamstring injury,2024-09-16,19.0,Atlético_Mineiro,14.0,1.0,Hamstring injury,14.0,False
+#26RenzoSaravia,Muscle injury,2024-06-23,18.0,Atlético_Mineiro,14.0,1.0,Hamstring injury,14.0,False
+#26RenzoSaravia,Hamstring injury,2023-05-03,14.0,Atlético_Mineiro,14.0,1.0,Hamstring injury,14.0,False
+#26RenzoSaravia,Cruciate ligament injury,2020-09-29,149.0,Atlético_Mineiro,14.0,1.0,Hamstring injury,14.0,False
+#26RenzoSaravia,Shoulder injury,2018-11-05,8.0,Atlético_Mineiro,14.0,1.0,Hamstring injury,14.0,False
+#33Rony,Broken arm,2023-04-10,16.0,Atlético_Mineiro,32.0,2.0,Broken arm,16.0,False
+#33Rony,Corona virus,2020-11-20,9.0,Atlético_Mineiro,32.0,2.0,Broken arm,16.0,False
+#44Rubens,Hamstring injury,2024-10-11,8.0,Atlético_Mineiro,,,,,
+#44Rubens,Inflammation of ligaments in the knee,2024-04-17,105.0,Atlético_Mineiro,,,,,
+#44Rubens,Broken hand,2024-03-18,27.0,Atlético_Mineiro,,,,,
+#28TomásCuello,Hamstring injury,2025-05-22,39.0,Atlético_Mineiro,,,,,
+#28TomásCuello,Knee injury,2024-06-23,18.0,Atlético_Mineiro,,,,,
+#28TomásCuello,Toothache,2019-09-18,31.0,Atlético_Mineiro,,,,,
+#14Vitor Hugo,Nose injury,2022-12-10,9.0,Atlético_Mineiro,,,,,
+#14Vitor Hugo,Fitness,2022-04-01,4.0,Atlético_Mineiro,,,,,
+#14Vitor Hugo,Broken tibia,2022-03-01,32.0,Atlético_Mineiro,,,,,
+#14Vitor Hugo,Fitness,2022-01-04,5.0,Atlético_Mineiro,,,,,
+#14Vitor Hugo,Muscle injury,2021-12-20,16.0,Atlético_Mineiro,,,,,
+#14Vitor Hugo,Groin injury,2021-04-28,12.0,Atlético_Mineiro,,,,,
+#14Vitor Hugo,Broken nose bone,2021-02-28,4.0,Atlético_Mineiro,,,,,
+#14Vitor Hugo,Compression of the spine,2020-12-26,13.0,Atlético_Mineiro,,,,,
+#14Vitor Hugo,Groin surgery,2019-12-04,68.0,Atlético_Mineiro,,,,,
+#14Vitor Hugo,muscular problems,2019-01-30,6.0,Atlético_Mineiro,,,,,
+#14Vitor Hugo,Hamstring muscle injury,2018-04-26,20.0,Atlético_Mineiro,,,,,
+#13Alex Telles,Inguinal hernia,2024-06-01,72.0,Botafogo,36.0,2.0,Inguinal hernia,18.0,False
+#13Alex Telles,Groin surgery,2024-06-01,2.0,Botafogo,36.0,2.0,Inguinal hernia,18.0,False
+#13Alex Telles,Inguinal hernia,2023-12-01,18.0,Botafogo,36.0,2.0,Inguinal hernia,18.0,False
+#13Alex Telles,Muscle tear,2023-12-01,18.0,Botafogo,36.0,2.0,Inguinal hernia,18.0,False
+#13Alex Telles,Knee injury,2022-12-03,73.0,Botafogo,36.0,2.0,Inguinal hernia,18.0,False
+#13Alex Telles,Corona virus,2022-02-03,8.0,Botafogo,36.0,2.0,Inguinal hernia,18.0,False
+#13Alex Telles,Ankle injury,2021-07-20,59.0,Botafogo,36.0,2.0,Inguinal hernia,18.0,False
+#13Alex Telles,Ill,2021-04-03,5.0,Botafogo,36.0,2.0,Inguinal hernia,18.0,False
+#13Alex Telles,Corona virus,2020-10-27,22.0,Botafogo,36.0,2.0,Inguinal hernia,18.0,False
+#13Alex Telles,Bursitis,2019-04-01,8.0,Botafogo,36.0,2.0,Inguinal hernia,18.0,False
+#13Alex Telles,Knee injury,2018-02-22,35.0,Botafogo,36.0,2.0,Inguinal hernia,18.0,False
+#13Alex Telles,unknown injury,2013-10-06,6.0,Botafogo,36.0,2.0,Inguinal hernia,18.0,False
+#13Alex Telles,unknown injury,2013-09-09,5.0,Botafogo,36.0,2.0,Inguinal hernia,18.0,False
+#13Alex Telles,unknown injury,2013-02-22,50.0,Botafogo,36.0,2.0,Inguinal hernia,18.0,False
+#20AlexanderBarboza,Foot injury,2025-05-04,23.0,Botafogo,,,,,
+#25Allan,Muscle injury,2020-12-17,59.0,Botafogo,,,,,
+#25Allan,Groin injury,2020-10-02,15.0,Botafogo,,,,,
+#25Allan,Muscle fatigue,2020-06-27,10.0,Botafogo,,,,,
+#25Allan,Muscle fatigue,2020-01-20,14.0,Botafogo,,,,,
+#25Allan,Bruised ribs,2019-11-28,12.0,Botafogo,,,,,
+#25Allan,Knee problems,2019-11-08,13.0,Botafogo,,,,,
+#25Allan,Knee injury,2019-10-31,5.0,Botafogo,,,,,
+#25Allan,flu,2019-09-21,3.0,Botafogo,,,,,
+#25Allan,Stress reaction of the bone,2019-04-27,6.0,Botafogo,,,,,
+#25Allan,Shoulder injury,2018-12-21,4.0,Botafogo,,,,,
+#25Allan,Muscle fatigue,2017-05-14,7.0,Botafogo,,,,,
+#25Allan,Knock,2017-02-20,12.0,Botafogo,,,,,
+#98ArthurCabral,unknown injury,2025-02-07,4.0,Botafogo,30.0,3.0,Rest,10.0,True
+#98ArthurCabral,Lumbar vertebra problems,2024-05-11,38.0,Botafogo,30.0,3.0,Rest,10.0,True
+#98ArthurCabral,Rest,2023-05-13,3.0,Botafogo,30.0,3.0,Rest,10.0,True
+#98ArthurCabral,Foot injury,2023-05-06,5.0,Botafogo,30.0,3.0,Rest,10.0,True
+#98ArthurCabral,unknown injury,2023-01-07,22.0,Botafogo,30.0,3.0,Rest,10.0,True
+#98ArthurCabral,Corona virus,2020-08-19,15.0,Botafogo,30.0,3.0,Rest,10.0,True
+#98ArthurCabral,Ligament injury,2020-01-04,33.0,Botafogo,30.0,3.0,Rest,10.0,True
+#98ArthurCabral,Ankle injury,2018-06-09,17.0,Botafogo,30.0,3.0,Rest,10.0,True
+#98ArthurCabral,Leg injury,2018-05-16,17.0,Botafogo,30.0,3.0,Rest,10.0,True
+#7Artur,Hamstring injury,2025-05-15,12.0,Botafogo,,,,,
+#7Artur,Muscle injury,2025-02-07,20.0,Botafogo,,,,,
+#7Artur,Muscle injury,2024-05-15,9.0,Botafogo,,,,,
+#15Bastos,Knee injury,2025-02-07,136.0,Botafogo,,,,,
+#15Bastos,Muscle injury,2024-11-27,14.0,Botafogo,,,,,
+#15Bastos,Hamstring injury,2020-10-04,43.0,Botafogo,,,,,
+#15Bastos,Foot bruise,2020-02-08,4.0,Botafogo,,,,,
+#15Bastos,Adductor injury,2019-02-14,12.0,Botafogo,,,,,
+#15Bastos,Hamstring injury,2017-09-20,24.0,Botafogo,,,,,
+#15Bastos,Knee problems,2017-05-06,4.0,Botafogo,,,,,
+#15Bastos,Thigh problems,2017-03-18,7.0,Botafogo,,,,,
+#15Bastos,muscular problems,2016-09-20,46.0,Botafogo,,,,,
+#66Cuiabano,Muscle fatigue,2025-05-19,27.0,Botafogo,,,,,
+#66Cuiabano,Hamstring injury,2024-09-04,31.0,Botafogo,,,,,
+#66Cuiabano,Shoulder injury,2024-08-22,9.0,Botafogo,,,,,
+#66Cuiabano,Muscle injury,2024-02-05,69.0,Botafogo,,,,,
+#66Cuiabano,Muscle injury,2024-01-13,21.0,Botafogo,,,,,
+#5Danilo Barbosa,Inflammation of pubic bone,2025-02-28,47.0,Botafogo,48.0,1.0,Hamstring injury,48.0,False
+#5Danilo Barbosa,Hamstring injury,2023-05-01,48.0,Botafogo,48.0,1.0,Hamstring injury,48.0,False
+#5Danilo Barbosa,Muscle tear,2020-12-14,43.0,Botafogo,48.0,1.0,Hamstring injury,48.0,False
+#5Danilo Barbosa,flu,2018-02-17,7.0,Botafogo,48.0,1.0,Hamstring injury,48.0,False
+#5Danilo Barbosa,Leg injury,2016-08-01,65.0,Botafogo,48.0,1.0,Hamstring injury,48.0,False
+#5Danilo Barbosa,unknown injury,2015-03-25,18.0,Botafogo,48.0,1.0,Hamstring injury,48.0,False
+#57David Ricardo,Thigh problems,2025-05-19,13.0,Botafogo,,,,,
+#33Elias Manoel,Thigh problems,2024-03-18,10.0,Botafogo,,,,,
+#39GonzaloMastriani,muscular problems,2025-05-04,23.0,Botafogo,,,,,
+#39GonzaloMastriani,Arthroscopy,2024-10-30,99.0,Botafogo,,,,,
+#39GonzaloMastriani,Calf injury,2024-06-27,21.0,Botafogo,,,,,
+#39GonzaloMastriani,Knock,2018-08-22,7.0,Botafogo,,,,,
+#39GonzaloMastriani,Meniscus injury,2012-12-11,32.0,Botafogo,,,,,
+#26Gregore,Broken foot,2023-03-13,215.0,Botafogo,215.0,1.0,Broken foot,215.0,True
+Hugo,Calf injury,2025-05-07,54.0,Botafogo,,,,,
+#32Jair Cunha,Injury to the ankle,2025-04-21,5.0,Botafogo,538.0,2.0,Cruciate ligament injury,269.0,True
+#32Jair Cunha,Cruciate ligament injury,2023-01-12,269.0,Botafogo,538.0,2.0,Cruciate ligament injury,269.0,True
+#10JeffersonSavarino,Hamstring injury,2025-05-01,26.0,Botafogo,10.0,2.0,Hip problems,5.0,False
+#10JeffersonSavarino,Hamstring injury,2025-03-31,5.0,Botafogo,10.0,2.0,Hip problems,5.0,False
+#10JeffersonSavarino,Hip problems,2023-07-10,5.0,Botafogo,10.0,2.0,Hip problems,5.0,False
+#10JeffersonSavarino,Foot injury,2023-06-19,5.0,Botafogo,10.0,2.0,Hip problems,5.0,False
+#10JeffersonSavarino,Knee injury,2017-10-02,17.0,Botafogo,10.0,2.0,Hip problems,5.0,False
+#47Jeffinho,Knee injury,2025-06-02,28.0,Botafogo,,,,,
+#47Jeffinho,Hamstring injury,2024-05-21,172.0,Botafogo,,,,,
+#47Jeffinho,Muscle injury,2024-02-06,54.0,Botafogo,,,,,
+#30JoaquínCorrea,Calf strain,2025-01-08,31.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#30JoaquínCorrea,Injury to the ankle,2023-12-01,50.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#30JoaquínCorrea,Calf injury,2023-05-26,14.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#30JoaquínCorrea,Hamstring injury,2023-02-04,37.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#30JoaquínCorrea,Knee problems,2022-11-17,41.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#30JoaquínCorrea,Patellar tendon problems,2022-10-04,11.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#30JoaquínCorrea,Hamstring muscle injury,2022-01-19,41.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#30JoaquínCorrea,Hamstring injury,2021-12-05,27.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#30JoaquínCorrea,muscular problems,2021-10-22,5.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#30JoaquínCorrea,Hip bruise,2021-09-18,10.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#30JoaquínCorrea,muscular problems,2021-05-16,6.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#30JoaquínCorrea,Calf injury,2020-12-23,24.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#30JoaquínCorrea,muscular problems,2020-12-20,3.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#30JoaquínCorrea,Lumbago,2020-09-30,4.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#30JoaquínCorrea,Collateral ligament injury,2020-07-05,18.0,Botafogo,101.0,3.0,Injury to the ankle,33.666666666666664,True
+#12John Victor,Hamstring injury,2024-02-06,57.0,Botafogo,17.0,1.0,muscular problems,17.0,False
+#12John Victor,muscular problems,2023-10-30,17.0,Botafogo,17.0,1.0,muscular problems,17.0,False
+#12John Victor,Meniscus injury,2021-08-03,121.0,Botafogo,17.0,1.0,muscular problems,17.0,False
+#12John Victor,Corona virus,2021-01-10,8.0,Botafogo,17.0,1.0,muscular problems,17.0,False
+#37Júnior Santos,Thigh problems,2025-04-07,31.0,Botafogo,,,,,
+#37Júnior Santos,Calf injury,2025-02-13,44.0,Botafogo,,,,,
+#37Júnior Santos,Fitness,2024-09-29,37.0,Botafogo,,,,,
+#37Júnior Santos,Broken tibia,2024-07-23,67.0,Botafogo,,,,,
+#31Kaio,Knee injury,2024-08-10,35.0,Botafogo,140.0,3.0,Shoulder injury,46.66666666666666,True
+#31Kaio,Shoulder injury,2023-08-25,109.0,Botafogo,140.0,3.0,Shoulder injury,46.66666666666666,True
+#31Kaio,Muscle injury,2023-05-21,20.0,Botafogo,140.0,3.0,Shoulder injury,46.66666666666666,True
+#31Kaio,unknown injury,2023-04-30,11.0,Botafogo,140.0,3.0,Shoulder injury,46.66666666666666,True
+#31Kaio,Knee injury,2022-07-11,40.0,Botafogo,140.0,3.0,Shoulder injury,46.66666666666666,True
+#31Kaio,Meniscus damage,2020-12-09,34.0,Botafogo,140.0,3.0,Shoulder injury,46.66666666666666,True
+#24Léo Linck,Shoulder injury,2025-05-23,23.0,Botafogo,,,,,
+#24Léo Linck,Skull fracture,2024-08-30,12.0,Botafogo,,,,,
+#11Luiz Henrique,Calf injury,2024-02-16,44.0,Botafogo,21.0,1.0,unknown injury,21.0,False
+#11Luiz Henrique,unknown injury,2023-09-26,21.0,Botafogo,21.0,1.0,unknown injury,21.0,False
+#21Marçal,Fitness,2025-05-19,27.0,Botafogo,,,,,
+#21Marçal,Fitness,2025-03-27,37.0,Botafogo,,,,,
+#21Marçal,muscular problems,2024-08-19,6.0,Botafogo,,,,,
+#21Marçal,Calf injury,2024-04-02,79.0,Botafogo,,,,,
+#21Marçal,Calf injury,2024-01-30,25.0,Botafogo,,,,,
+#21Marçal,Groin injury,2020-12-28,48.0,Botafogo,,,,,
+#21Marçal,Knock,2020-10-26,13.0,Botafogo,,,,,
+#21Marçal,Calf injury,2020-09-23,26.0,Botafogo,,,,,
+#21Marçal,Calf strain,2019-12-11,24.0,Botafogo,,,,,
+#21Marçal,Muscle injury,2019-10-21,31.0,Botafogo,,,,,
+#21Marçal,Adductor pain,2019-07-31,42.0,Botafogo,,,,,
+#21Marçal,Groin injury,2019-04-13,26.0,Botafogo,,,,,
+#21Marçal,Muscle injury,2019-02-25,12.0,Botafogo,,,,,
+#21Marçal,Calf strain,2018-07-16,71.0,Botafogo,,,,,
+#21Marçal,Torn thigh muscle,2016-03-07,34.0,Botafogo,,,,,
+#4MateoPonte,Muscle injury,2023-06-06,5.0,Botafogo,5.0,1.0,Muscle injury,5.0,False
+#4MateoPonte,Corona virus,2021-05-16,16.0,Botafogo,5.0,1.0,Muscle injury,5.0,False
+#11Matheus Martins,Hamstring injury,2025-04-27,64.0,Botafogo,,,,,
+#9Matheus Nascimento,Hamstring injury,2025-02-20,23.0,Botafogo,,,,,
+#16Nathan Fernandes,Thigh problems,2025-02-08,84.0,Botafogo,,,,,
+#16Nathan Fernandes,Dead leg,2024-09-14,14.0,Botafogo,,,,,
+#16Nathan Fernandes,ankle sprain,2024-02-07,18.0,Botafogo,,,,,
+#6Patrick de Paula,Knee injury,2023-02-26,399.0,Botafogo,399.0,1.0,Knee injury,399.0,True
+PhilipeSampaio,Knock,2024-04-04,88.0,Botafogo,,,,,
+PhilipeSampaio,Knee injury,2020-08-23,43.0,Botafogo,,,,,
+PhilipeSampaio,Muscle injury,2019-01-29,44.0,Botafogo,,,,,
+PhilipeSampaio,Muscle injury,2018-10-22,55.0,Botafogo,,,,,
+PhilipeSampaio,unknown injury,2018-04-03,163.0,Botafogo,,,,,
+PhilipeSampaio,unknown injury,2018-03-03,26.0,Botafogo,,,,,
+#23SantiagoRodríguez,Leg injury,2025-04-13,28.0,Botafogo,9.0,1.0,Leg injury,9.0,False
+#23SantiagoRodríguez,Leg injury,2023-08-22,9.0,Botafogo,9.0,1.0,Leg injury,9.0,False
+#23SantiagoRodríguez,Hamstring injury,2021-09-13,8.0,Botafogo,9.0,1.0,Leg injury,9.0,False
+#23SantiagoRodríguez,Rest,2020-09-22,3.0,Botafogo,9.0,1.0,Leg injury,9.0,False
+#23SantiagoRodríguez,Knee injury,2019-07-10,63.0,Botafogo,9.0,1.0,Leg injury,9.0,False
+#23ThiagoAlmada,Calf injury,2024-05-17,8.0,Botafogo,11.0,1.0,Calf problems,11.0,False
+#23ThiagoAlmada,Calf problems,2023-04-10,11.0,Botafogo,11.0,1.0,Calf problems,11.0,False
+#2Vitinho,Knee injury,2024-12-05,42.0,Botafogo,27.0,1.0,Knee injury,27.0,False
+#2Vitinho,Knee injury,2023-08-30,27.0,Botafogo,27.0,1.0,Knee injury,27.0,False
+#4AgustínGiay,ankle sprain,2023-01-25,29.0,Palmeiras,29.0,1.0,ankle sprain,29.0,False
+#5AníbalMoreno,Hamstring injury,2025-06-20,10.0,Palmeiras,81.0,5.0,muscular problems,16.2,True
+#5AníbalMoreno,Shoulder injury,2025-03-28,9.0,Palmeiras,81.0,5.0,muscular problems,16.2,True
+#5AníbalMoreno,Torn muscle bundle,2023-08-31,28.0,Palmeiras,81.0,5.0,muscular problems,16.2,True
+#5AníbalMoreno,muscular problems,2023-07-08,24.0,Palmeiras,81.0,5.0,muscular problems,16.2,True
+#5AníbalMoreno,muscular problems,2023-05-05,7.0,Palmeiras,81.0,5.0,muscular problems,16.2,True
+#5AníbalMoreno,Hamstring strain,2023-04-11,17.0,Palmeiras,81.0,5.0,muscular problems,16.2,True
+#5AníbalMoreno,Knee problems,2023-02-11,5.0,Palmeiras,81.0,5.0,muscular problems,16.2,True
+#3BrunoFuchs,Hamstring injury,2023-06-26,33.0,Palmeiras,33.0,1.0,Hamstring injury,33.0,False
+#3BrunoFuchs,Tendon irritation,2022-10-01,24.0,Palmeiras,33.0,1.0,Hamstring injury,33.0,False
+#3BrunoFuchs,Fitness,2022-07-19,27.0,Palmeiras,33.0,1.0,Hamstring injury,33.0,False
+#3BrunoFuchs,Tendonitis,2022-06-20,29.0,Palmeiras,33.0,1.0,Hamstring injury,33.0,False
+#3BrunoFuchs,Tooth infection,2022-05-11,6.0,Palmeiras,33.0,1.0,Hamstring injury,33.0,False
+#3BrunoFuchs,Virus,2022-04-02,6.0,Palmeiras,33.0,1.0,Hamstring injury,33.0,False
+#3BrunoFuchs,Muscle injury,2022-03-17,16.0,Palmeiras,33.0,1.0,Hamstring injury,33.0,False
+#3BrunoFuchs,Fitness,2021-10-01,25.0,Palmeiras,33.0,1.0,Hamstring injury,33.0,False
+#3BrunoFuchs,muscular problems,2021-08-27,35.0,Palmeiras,33.0,1.0,Hamstring injury,33.0,False
+#3BrunoFuchs,Foot surgery,2020-12-12,134.0,Palmeiras,33.0,1.0,Hamstring injury,33.0,False
+#3BrunoFuchs,Hip injury,2020-10-14,56.0,Palmeiras,33.0,1.0,Hamstring injury,33.0,False
+#3BrunoFuchs,Hip injury,2020-08-30,43.0,Palmeiras,33.0,1.0,Hamstring injury,33.0,False
+#11Bruno Rodrigues,Knee injury,2024-01-26,521.0,Palmeiras,,,,,
+#32EmilianoMartínez,Muscle injury,2023-09-08,85.0,Palmeiras,85.0,1.0,Muscle injury,85.0,True
+#32EmilianoMartínez,Achilles tendon problems,2022-08-16,21.0,Palmeiras,85.0,1.0,Muscle injury,85.0,True
+#32EmilianoMartínez,Achilles tendon problems,2022-01-20,190.0,Palmeiras,85.0,1.0,Muscle injury,85.0,True
+#32EmilianoMartínez,Corona virus,2021-05-16,15.0,Palmeiras,85.0,1.0,Muscle injury,85.0,True
+#32EmilianoMartínez,Muscle injury,2020-03-07,10.0,Palmeiras,85.0,1.0,Muscle injury,85.0,True
+#16Endrick,Muscle injury,2025-05-21,62.0,Palmeiras,,,,,
+#41Estêvão,Hamstring injury,2024-09-16,19.0,Palmeiras,,,,,
+#41Estêvão,ankle sprain,2024-07-17,28.0,Palmeiras,,,,,
+#17FacundoTorres,Arm injury,2024-03-07,6.0,Palmeiras,,,,,
+#17FacundoTorres,Corona virus,2022-01-06,15.0,Palmeiras,,,,,
+#17FacundoTorres,Ankle injury,2021-11-01,5.0,Palmeiras,,,,,
+#17FacundoTorres,Cruciate ligament strain,2021-08-13,28.0,Palmeiras,,,,,
+#7Felipe Anderson,Hamstring injury,2025-05-23,9.0,Palmeiras,,,,,
+#7Felipe Anderson,Inflammation of pubic bone,2025-01-23,37.0,Palmeiras,,,,,
+#7Felipe Anderson,Toe injury,2024-04-23,4.0,Palmeiras,,,,,
+#7Felipe Anderson,Knock,2020-07-02,15.0,Palmeiras,,,,,
+#7Felipe Anderson,Back injury,2020-01-12,44.0,Palmeiras,,,,,
+#7Felipe Anderson,Chest injury,2019-08-11,13.0,Palmeiras,,,,,
+#7Felipe Anderson,Muscle strain,2019-08-11,13.0,Palmeiras,,,,,
+#7Felipe Anderson,Ill,2019-04-28,14.0,Palmeiras,,,,,
+#7Felipe Anderson,Ankle injury,2019-03-28,11.0,Palmeiras,,,,,
+#7Felipe Anderson,Adductor injury,2017-07-31,129.0,Palmeiras,,,,,
+#7Felipe Anderson,Knee injury,2015-01-15,22.0,Palmeiras,,,,,
+#7Felipe Anderson,Ankle injury,2013-06-06,106.0,Palmeiras,,,,,
+#38Figueiredo,Cruciate ligament injury,2023-10-16,290.0,Palmeiras,290.0,1.0,Cruciate ligament injury,290.0,True
+#38Figueiredo,Cruciate ligament injury,2022-09-16,260.0,Palmeiras,290.0,1.0,Cruciate ligament injury,290.0,True
+#15GustavoGómez,Inflammation of ligaments in the knee,2025-03-12,22.0,Palmeiras,,,,,
+#15GustavoGómez,Hamstring injury,2025-02-17,21.0,Palmeiras,,,,,
+#15GustavoGómez,Broken foot,2024-02-19,38.0,Palmeiras,,,,,
+#15GustavoGómez,Muscle fatigue,2017-03-25,9.0,Palmeiras,,,,,
+#22JoaquínPiquerez,Knee injury,2024-07-17,192.0,Palmeiras,,,,,
+#22JoaquínPiquerez,Muscle injury,2022-05-10,26.0,Palmeiras,,,,,
+#22JoaquínPiquerez,Shoulder injury,2022-04-04,13.0,Palmeiras,,,,,
+#22JoaquínPiquerez,Ankle injury,2021-07-24,11.0,Palmeiras,,,,,
+#22JoaquínPiquerez,Muscle strain,2021-05-31,11.0,Palmeiras,,,,,
+#22JoaquínPiquerez,Fitness,2021-01-26,6.0,Palmeiras,,,,,
+#22JoaquínPiquerez,Corona virus,2021-01-11,15.0,Palmeiras,,,,,
+#22JoaquínPiquerez,Quarantine,2020-12-04,4.0,Palmeiras,,,,,
+#22JoaquínPiquerez,Rest,2020-10-16,4.0,Palmeiras,,,,,
+#22JoaquínPiquerez,Muscle injury,2020-09-20,7.0,Palmeiras,,,,,
+#22JoaquínPiquerez,influenza,2017-06-02,7.0,Palmeiras,,,,,
+#30LucasEvangelista,Hamstring injury,2025-04-07,13.0,Palmeiras,,,,,
+#30LucasEvangelista,Hamstring injury,2024-02-24,67.0,Palmeiras,,,,,
+#30LucasEvangelista,Muscle fatigue,2019-12-05,20.0,Palmeiras,,,,,
+#30LucasEvangelista,Inflammation in the knee,2017-02-18,30.0,Palmeiras,,,,,
+#30LucasEvangelista,Shoulder injury,2016-08-28,14.0,Palmeiras,,,,,
+#30LucasEvangelista,Abdominal problems,2016-02-05,15.0,Palmeiras,,,,,
+#30LucasEvangelista,surgery,2015-02-28,94.0,Palmeiras,,,,,
+#14Marcelo Lomba,Inflammation of pubic bone,2024-08-25,41.0,Palmeiras,,,,,
+#2Marcos Rocha,Calf injury,2025-04-13,24.0,Palmeiras,26.0,1.0,Hamstring injury,26.0,False
+#2Marcos Rocha,Hamstring injury,2025-03-17,26.0,Palmeiras,26.0,1.0,Hamstring injury,26.0,False
+#2Marcos Rocha,Hamstring injury,2024-09-16,19.0,Palmeiras,26.0,1.0,Hamstring injury,26.0,False
+#2Marcos Rocha,Hamstring injury,2023-04-24,26.0,Palmeiras,26.0,1.0,Hamstring injury,26.0,False
+#2Marcos Rocha,Calf problems,2015-05-10,74.0,Palmeiras,26.0,1.0,Hamstring injury,26.0,False
+#2Marcos Rocha,Dead leg,2015-02-14,24.0,Palmeiras,26.0,1.0,Hamstring injury,26.0,False
+#18Mauricio,Shoulder injury,2025-02-17,51.0,Palmeiras,,,,,
+#18Mauricio,Inner ligament stretch of the knee,2024-10-12,14.0,Palmeiras,,,,,
+#18Mauricio,Bruised knee,2024-06-07,40.0,Palmeiras,,,,,
+#18Mauricio,Inner ligament stretch of the knee,2022-10-11,15.0,Palmeiras,,,,,
+#12Mayke,Hamstring injury,2025-04-04,30.0,Palmeiras,,,,,
+#12Mayke,Calf injury,2024-08-25,56.0,Palmeiras,,,,,
+#12Mayke,Calf injury,2024-08-08,13.0,Palmeiras,,,,,
+#12Mayke,muscular problems,2024-07-22,16.0,Palmeiras,,,,,
+#12Mayke,Hamstring injury,2024-02-04,28.0,Palmeiras,,,,,
+#12Mayke,Hamstring injury,2019-08-19,69.0,Palmeiras,,,,,
+#12Mayke,unknown injury,2013-08-13,3.0,Palmeiras,,,,,
+#13Micael,ankle sprain,2025-04-21,31.0,Palmeiras,,,,,
+#26Murilo,Hamstring injury,2025-06-24,6.0,Palmeiras,57.0,1.0,Shoulder injury,57.0,False
+#26Murilo,Hamstring injury,2025-04-13,21.0,Palmeiras,57.0,1.0,Shoulder injury,57.0,False
+#26Murilo,Leg injury,2024-11-21,5.0,Palmeiras,57.0,1.0,Shoulder injury,57.0,False
+#26Murilo,Hamstring injury,2024-10-19,16.0,Palmeiras,57.0,1.0,Shoulder injury,57.0,False
+#26Murilo,ankle sprain,2024-07-22,13.0,Palmeiras,57.0,1.0,Shoulder injury,57.0,False
+#26Murilo,Injury to the ankle,2024-06-29,18.0,Palmeiras,57.0,1.0,Shoulder injury,57.0,False
+#26Murilo,Shoulder injury,2023-05-05,57.0,Palmeiras,57.0,1.0,Shoulder injury,57.0,False
+#26Murilo,Muscle injury,2021-11-29,33.0,Palmeiras,57.0,1.0,Shoulder injury,57.0,False
+#26Murilo,Muscle injury,2021-09-17,46.0,Palmeiras,57.0,1.0,Shoulder injury,57.0,False
+#26Murilo,bruise,2021-07-31,31.0,Palmeiras,57.0,1.0,Shoulder injury,57.0,False
+#10Paulinho,Cracked bone,2024-12-01,132.0,Palmeiras,,,,,
+#10Paulinho,Muscle injury,2024-10-13,6.0,Palmeiras,,,,,
+#10Paulinho,cold,2022-11-03,11.0,Palmeiras,,,,,
+#10Paulinho,Corona virus,2022-01-10,18.0,Palmeiras,,,,,
+#10Paulinho,Cruciate ligament tear,2020-07-02,316.0,Palmeiras,,,,,
+#10Paulinho,Broken arm,2018-04-05,117.0,Palmeiras,,,,,
+#23RaphaelVeiga,Shoulder injury,2025-04-10,24.0,Palmeiras,15.0,1.0,Hamstring injury,15.0,False
+#23RaphaelVeiga,Lumbar vertebra problems,2025-03-31,6.0,Palmeiras,15.0,1.0,Hamstring injury,15.0,False
+#23RaphaelVeiga,Hamstring injury,2023-04-10,15.0,Palmeiras,15.0,1.0,Hamstring injury,15.0,False
+#23RaphaelVeiga,Arthroscopy,2022-08-30,125.0,Palmeiras,15.0,1.0,Hamstring injury,15.0,False
+#23RaphaelVeiga,Muscle injury,2022-06-05,22.0,Palmeiras,15.0,1.0,Hamstring injury,15.0,False
+#23RaphaelVeiga,Corona virus,2020-11-20,15.0,Palmeiras,15.0,1.0,Hamstring injury,15.0,False
+#8RichardRíos,Injury to the ankle,2025-04-21,6.0,Palmeiras,,,,,
+#33Rony,Broken arm,2023-04-10,16.0,Palmeiras,32.0,2.0,Broken arm,16.0,False
+#33Rony,Corona virus,2020-11-20,9.0,Palmeiras,32.0,2.0,Broken arm,16.0,False
+#22Vitor Reis,Muscle injury,2024-08-22,24.0,Palmeiras,,,,,
+#9Vitor Roque,Hamstring injury,2025-04-21,6.0,Palmeiras,63.0,1.0,Bruise on ankle,63.0,True
+#9Vitor Roque,Bruise on ankle,2024-09-25,3.0,Palmeiras,63.0,1.0,Bruise on ankle,63.0,True
+#9Vitor Roque,Bruise on ankle,2023-09-23,63.0,Palmeiras,63.0,1.0,Bruise on ankle,63.0,True
+#28AlanFranco,Leg injury,2023-07-05,16.0,São_Paulo_FC,16.0,1.0,Leg injury,16.0,False
+#28AlanFranco,Leg injury,2021-05-17,9.0,São_Paulo_FC,16.0,1.0,Leg injury,16.0,False
+#28AlanFranco,Metatarsal fracture,2018-10-07,80.0,São_Paulo_FC,16.0,1.0,Leg injury,16.0,False
+#25Alisson,Broken ankle,2024-07-18,115.0,São_Paulo_FC,,,,,
+#25Alisson,Hamstring injury,2022-10-15,62.0,São_Paulo_FC,,,,,
+#25Alisson,Inflammation of ligaments in the knee,2022-06-06,51.0,São_Paulo_FC,,,,,
+#25Alisson,Hamstring injury,2015-06-07,49.0,São_Paulo_FC,,,,,
+#25Alisson,Hamstring injury,2015-04-12,42.0,São_Paulo_FC,,,,,
+#25Alisson,Hamstring injury,2014-10-23,128.0,São_Paulo_FC,,,,,
+#17André Silva,unknown injury,2023-12-10,8.0,São_Paulo_FC,8.0,1.0,unknown injury,8.0,False
+#17André Silva,Muscle injury,2022-08-20,75.0,São_Paulo_FC,8.0,1.0,unknown injury,8.0,False
+#6CédricSoares,Calf problems,2025-05-27,4.0,São_Paulo_FC,,,,,
+#6CédricSoares,Calf strain,2020-08-30,32.0,São_Paulo_FC,,,,,
+#6CédricSoares,Broken nose bone,2020-06-17,10.0,São_Paulo_FC,,,,,
+#6CédricSoares,Knee injury,2020-01-21,42.0,São_Paulo_FC,,,,,
+#6CédricSoares,Calf injury,2019-09-26,44.0,São_Paulo_FC,,,,,
+#6CédricSoares,Calf strain,2018-12-08,24.0,São_Paulo_FC,,,,,
+#6CédricSoares,Ankle injury,2017-12-16,29.0,São_Paulo_FC,,,,,
+#6CédricSoares,Ill,2016-12-09,10.0,São_Paulo_FC,,,,,
+#6CédricSoares,Foot injury,2016-10-02,49.0,São_Paulo_FC,,,,,
+#6CédricSoares,Groin injury,2015-12-22,18.0,São_Paulo_FC,,,,,
+#6CédricSoares,Rib fracture,2014-08-17,29.0,São_Paulo_FC,,,,,
+#6CédricSoares,influenza,2013-07-03,5.0,São_Paulo_FC,,,,,
+#6CédricSoares,Hip bruise,2013-05-13,49.0,São_Paulo_FC,,,,,
+#6CédricSoares,Thigh problems,2013-04-13,19.0,São_Paulo_FC,,,,,
+#21DamiánBobadilla,Rib fracture,2023-11-28,42.0,São_Paulo_FC,42.0,1.0,Rib fracture,42.0,False
+#4Diego Costa,Tendonitis,2022-10-05,158.0,São_Paulo_FC,,,,,
+#13EnzoDíaz,Inguinal hernia,2024-11-08,54.0,São_Paulo_FC,25.0,1.0,Knee injury,25.0,False
+#13EnzoDíaz,Knee injury,2023-05-27,25.0,São_Paulo_FC,25.0,1.0,Knee injury,25.0,False
+#13EnzoDíaz,Appendicitis,2022-10-05,17.0,São_Paulo_FC,25.0,1.0,Knee injury,25.0,False
+#13EnzoDíaz,Ankle injury,2020-02-17,25.0,São_Paulo_FC,25.0,1.0,Knee injury,25.0,False
+#13EnzoDíaz,Ankle injury,2019-09-26,20.0,São_Paulo_FC,25.0,1.0,Knee injury,25.0,False
+#43Felipe Negrucci,Calf injury,2024-05-09,61.0,São_Paulo_FC,,,,,
+#11Ferreirinha,Foot injury,2025-05-15,46.0,São_Paulo_FC,97.0,1.0,Hamstring injury,97.0,True
+#11Ferreirinha,Thigh problems,2025-02-11,20.0,São_Paulo_FC,97.0,1.0,Hamstring injury,97.0,True
+#11Ferreirinha,Hamstring injury,2024-08-18,59.0,São_Paulo_FC,97.0,1.0,Hamstring injury,97.0,True
+#11Ferreirinha,Hamstring injury,2023-03-26,97.0,São_Paulo_FC,97.0,1.0,Hamstring injury,97.0,True
+#11Ferreirinha,Muscle injury,2022-08-23,133.0,São_Paulo_FC,97.0,1.0,Hamstring injury,97.0,True
+#11Ferreirinha,Knee injury,2021-07-11,44.0,São_Paulo_FC,97.0,1.0,Hamstring injury,97.0,True
+#34GiulianoGaloppo,Thigh problems,2025-03-30,18.0,São_Paulo_FC,250.0,1.0,Knee injury,250.0,True
+#34GiulianoGaloppo,Hamstring strain,2025-02-20,35.0,São_Paulo_FC,250.0,1.0,Knee injury,250.0,True
+#34GiulianoGaloppo,Arthroscopy,2024-11-27,47.0,São_Paulo_FC,250.0,1.0,Knee injury,250.0,True
+#34GiulianoGaloppo,Foot bruise,2024-07-22,31.0,São_Paulo_FC,250.0,1.0,Knee injury,250.0,True
+#34GiulianoGaloppo,Foot injury,2024-07-04,13.0,São_Paulo_FC,250.0,1.0,Knee injury,250.0,True
+#34GiulianoGaloppo,Knee injury,2023-03-13,250.0,São_Paulo_FC,250.0,1.0,Knee injury,250.0,True
+#34GiulianoGaloppo,Corona virus,2021-04-04,13.0,São_Paulo_FC,250.0,1.0,Knee injury,250.0,True
+#34GiulianoGaloppo,Cruciate ligament tear,2019-04-22,184.0,São_Paulo_FC,250.0,1.0,Knee injury,250.0,True
+#37Henrique Carmo,Injury to the ankle,2025-04-14,43.0,São_Paulo_FC,,,,,
+#2Igor Vinícius,Lumbar vertebra problems,2025-04-27,64.0,São_Paulo_FC,190.0,1.0,Pubalgia,190.0,True
+#2Igor Vinícius,Knock,2024-07-31,43.0,São_Paulo_FC,190.0,1.0,Pubalgia,190.0,True
+#2Igor Vinícius,Hamstring injury,2024-01-27,30.0,São_Paulo_FC,190.0,1.0,Pubalgia,190.0,True
+#2Igor Vinícius,Pubalgia,2023-01-20,190.0,São_Paulo_FC,190.0,1.0,Pubalgia,190.0,True
+#2Igor Vinícius,Pubalgia,2022-10-19,44.0,São_Paulo_FC,190.0,1.0,Pubalgia,190.0,True
+#2Igor Vinícius,Eye injury,2021-09-20,33.0,São_Paulo_FC,190.0,1.0,Pubalgia,190.0,True
+#2Igor Vinícius,Contracture,2020-10-16,16.0,São_Paulo_FC,190.0,1.0,Pubalgia,190.0,True
+#12JamalLewis,Ankle injury,2024-11-10,100.0,São_Paulo_FC,,,,,
+#12JamalLewis,Groin surgery,2022-03-01,62.0,São_Paulo_FC,,,,,
+#12JamalLewis,Hamstring injury,2021-12-17,29.0,São_Paulo_FC,,,,,
+#12JamalLewis,Hamstring strain,2021-02-04,2.0,São_Paulo_FC,,,,,
+#12JamalLewis,Knee problems,2020-12-31,16.0,São_Paulo_FC,,,,,
+#12JamalLewis,Facial fracture,2020-09-21,6.0,São_Paulo_FC,,,,,
+#12JamalLewis,Tonsillitis,2020-01-05,6.0,São_Paulo_FC,,,,,
+#12JamalLewis,Knee injury,2019-11-18,13.0,São_Paulo_FC,,,,,
+#12JamalLewis,Arm injury,2019-09-29,6.0,São_Paulo_FC,,,,,
+#12JamalLewis,Knee injury,2017-07-31,155.0,São_Paulo_FC,,,,,
+#10JamesRodríguez,Muscle injury,2024-04-15,52.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#10JamesRodríguez,unknown injury,2023-03-29,6.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#10JamesRodríguez,unknown injury,2023-02-16,24.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#10JamesRodríguez,unknown injury,2023-02-06,6.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#10JamesRodríguez,Quarantine,2021-08-12,41.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#10JamesRodríguez,Calf injury,2021-05-01,14.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#10JamesRodríguez,Calf injury,2021-02-22,39.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#10JamesRodríguez,Calf injury,2021-02-07,7.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#10JamesRodríguez,Calf strain,2020-12-06,26.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#10JamesRodríguez,Groin injury,2020-10-26,12.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#10JamesRodríguez,Knock,2020-10-18,7.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#10JamesRodríguez,Knock,2020-10-15,2.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#10JamesRodríguez,Hip injury,2020-02-07,11.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#10JamesRodríguez,Inner ligament injury,2019-11-15,39.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#10JamesRodríguez,unknown injury,2019-11-01,11.0,São_Paulo_FC,36.0,3.0,unknown injury,12.0,True
+#93Jandrei,Hand injury,2023-05-10,52.0,São_Paulo_FC,52.0,1.0,Hand injury,52.0,False
+#93Jandrei,fracture,2022-07-28,21.0,São_Paulo_FC,52.0,1.0,Hand injury,52.0,False
+#93Jandrei,Back problems,2022-07-17,10.0,São_Paulo_FC,52.0,1.0,Hand injury,52.0,False
+#93Jandrei,Corona virus,2020-11-24,17.0,São_Paulo_FC,52.0,1.0,Hand injury,52.0,False
+#9JonathanCalleri,Cruciate ligament injury,2025-04-17,74.0,São_Paulo_FC,143.0,3.0,Injury to the ankle,47.66666666666666,True
+#9JonathanCalleri,muscular problems,2024-11-10,53.0,São_Paulo_FC,143.0,3.0,Injury to the ankle,47.66666666666666,True
+#9JonathanCalleri,Hamstring injury,2024-07-18,6.0,São_Paulo_FC,143.0,3.0,Injury to the ankle,47.66666666666666,True
+#9JonathanCalleri,Calf injury,2024-05-09,20.0,São_Paulo_FC,143.0,3.0,Injury to the ankle,47.66666666666666,True
+#9JonathanCalleri,Injury to the ankle,2023-10-01,92.0,São_Paulo_FC,143.0,3.0,Injury to the ankle,47.66666666666666,True
+#9JonathanCalleri,Back problems,2023-06-28,9.0,São_Paulo_FC,143.0,3.0,Injury to the ankle,47.66666666666666,True
+#9JonathanCalleri,Ankle injury,2023-02-25,42.0,São_Paulo_FC,143.0,3.0,Injury to the ankle,47.66666666666666,True
+#9JonathanCalleri,Inner knee ligament tear,2020-10-19,48.0,São_Paulo_FC,143.0,3.0,Injury to the ankle,47.66666666666666,True
+#9JonathanCalleri,Hamstring injury,2019-10-21,38.0,São_Paulo_FC,143.0,3.0,Injury to the ankle,47.66666666666666,True
+#9JonathanCalleri,Muscle injury,2019-10-04,15.0,São_Paulo_FC,143.0,3.0,Injury to the ankle,47.66666666666666,True
+#9JonathanCalleri,Fitness,2018-08-22,14.0,São_Paulo_FC,143.0,3.0,Injury to the ankle,47.66666666666666,True
+#19JuanDinenno,Cruciate ligament injury,2024-08-28,232.0,São_Paulo_FC,,,,,
+#19JuanDinenno,Pubic bone bruise,2024-05-27,58.0,São_Paulo_FC,,,,,
+#19JuanDinenno,Broken nose bone,2024-04-13,44.0,São_Paulo_FC,,,,,
+Luan Santos,Hamstring injury,2024-07-22,12.0,São_Paulo_FC,,,,,
+Luan Santos,Hamstring injury,2022-06-12,58.0,São_Paulo_FC,,,,,
+#7Lucas Moura,Knee bruise,2025-05-07,54.0,São_Paulo_FC,,,,,
+#7Lucas Moura,Knee problems,2025-03-11,53.0,São_Paulo_FC,,,,,
+#7Lucas Moura,Injury to the ankle,2024-04-05,42.0,São_Paulo_FC,,,,,
+#7Lucas Moura,Hamstring injury,2024-01-31,26.0,São_Paulo_FC,,,,,
+#7Lucas Moura,Calf injury,2022-08-29,43.0,São_Paulo_FC,,,,,
+#7Lucas Moura,Dead leg,2022-02-24,8.0,São_Paulo_FC,,,,,
+#7Lucas Moura,Ankle injury,2021-09-16,8.0,São_Paulo_FC,,,,,
+#7Lucas Moura,Knock,2020-07-16,5.0,São_Paulo_FC,,,,,
+#7Lucas Moura,Knock,2019-12-23,11.0,São_Paulo_FC,,,,,
+#7Lucas Moura,Knee injury,2019-01-03,22.0,São_Paulo_FC,,,,,
+#7Lucas Moura,Knock,2018-08-09,12.0,São_Paulo_FC,,,,,
+#7Lucas Moura,Ankle injury,2017-08-21,18.0,São_Paulo_FC,,,,,
+#7Lucas Moura,Thigh problems,2015-02-16,57.0,São_Paulo_FC,,,,,
+#45Lucca,ankle sprain,2025-05-18,13.0,São_Paulo_FC,,,,,
+#10Luciano,Hamstring injury,2023-07-05,6.0,São_Paulo_FC,6.0,1.0,Hamstring injury,6.0,False
+#10Luciano,Ill,2021-11-20,16.0,São_Paulo_FC,6.0,1.0,Hamstring injury,6.0,False
+#10Luciano,Muscle injury,2021-06-21,57.0,São_Paulo_FC,6.0,1.0,Hamstring injury,6.0,False
+#10Luciano,Fitness,2020-12-28,25.0,São_Paulo_FC,6.0,1.0,Hamstring injury,6.0,False
+#10Luciano,Muscle injury,2020-12-13,12.0,São_Paulo_FC,6.0,1.0,Hamstring injury,6.0,False
+#10Luciano,Hamstring injury,2020-08-12,9.0,São_Paulo_FC,6.0,1.0,Hamstring injury,6.0,False
+#10Luciano,Hamstring injury,2018-08-18,16.0,São_Paulo_FC,6.0,1.0,Hamstring injury,6.0,False
+#10Luciano,Cruciate ligament tear,2017-09-20,309.0,São_Paulo_FC,6.0,1.0,Hamstring injury,6.0,False
+#10Luciano,Cruciate ligament tear,2015-08-19,196.0,São_Paulo_FC,6.0,1.0,Hamstring injury,6.0,False
+#10Luciano,Thigh problems,2015-05-08,43.0,São_Paulo_FC,6.0,1.0,Hamstring injury,6.0,False
+#16Luiz Gustavo,Lung contusion,2025-04-03,88.0,São_Paulo_FC,,,,,
+#16Luiz Gustavo,Toe injury,2025-01-17,71.0,São_Paulo_FC,,,,,
+#16Luiz Gustavo,Achilles tendon problems,2024-02-24,66.0,São_Paulo_FC,,,,,
+#16Luiz Gustavo,Fitness,2022-03-07,8.0,São_Paulo_FC,,,,,
+#16Luiz Gustavo,Tendon rupture,2022-01-28,39.0,São_Paulo_FC,,,,,
+#16Luiz Gustavo,Tendonitis,2021-12-25,18.0,São_Paulo_FC,,,,,
+#16Luiz Gustavo,Hamstring injury,2021-10-30,28.0,São_Paulo_FC,,,,,
+#16Luiz Gustavo,Edema in the knee,2021-02-02,32.0,São_Paulo_FC,,,,,
+#16Luiz Gustavo,Corona virus,2020-12-24,10.0,São_Paulo_FC,,,,,
+#16Luiz Gustavo,unknown injury,2020-07-18,9.0,São_Paulo_FC,,,,,
+#16Luiz Gustavo,Ill,2019-02-04,12.0,São_Paulo_FC,,,,,
+#16Luiz Gustavo,Bruised knee,2019-01-19,6.0,São_Paulo_FC,,,,,
+#16Luiz Gustavo,Muscle injury,2016-09-16,27.0,São_Paulo_FC,,,,,
+#16Luiz Gustavo,muscle stiffness,2015-11-23,59.0,São_Paulo_FC,,,,,
+#16Luiz Gustavo,Knee problems,2015-09-17,5.0,São_Paulo_FC,,,,,
+#20Marcos Antônio,Hamstring injury,2025-05-18,43.0,São_Paulo_FC,134.0,4.0,Fitness,33.5,True
+#20Marcos Antônio,Fitness,2023-11-02,29.0,São_Paulo_FC,134.0,4.0,Fitness,33.5,True
+#20Marcos Antônio,Muscle injury,2023-08-02,93.0,São_Paulo_FC,134.0,4.0,Fitness,33.5,True
+#20Marcos Antônio,Ankle injury,2023-05-17,9.0,São_Paulo_FC,134.0,4.0,Fitness,33.5,True
+#20Marcos Antônio,Stomach flu,2023-02-21,3.0,São_Paulo_FC,134.0,4.0,Fitness,33.5,True
+Matheus Belém,Muscle injury,2024-05-09,6.0,São_Paulo_FC,,,,,
+Matheus Belém,Muscle injury,2024-05-09,6.0,São_Paulo_FC,,,,,
+#32NahuelFerraresi,Torn knee ligaments,2023-01-22,247.0,São_Paulo_FC,247.0,1.0,Torn knee ligaments,247.0,True
+#8Oscar,Thigh problems,2025-05-25,36.0,São_Paulo_FC,,,,,
+#8Oscar,Hamstring injury,2025-03-11,67.0,São_Paulo_FC,,,,,
+#8Oscar,Broken toe,2021-09-16,43.0,São_Paulo_FC,,,,,
+#8Oscar,Hamstring strain,2020-11-02,20.0,São_Paulo_FC,,,,,
+#8Oscar,Ill,2016-12-08,10.0,São_Paulo_FC,,,,,
+#8Oscar,Knee bruise,2015-08-14,34.0,São_Paulo_FC,,,,,
+#8Oscar,Hamstring injury,2015-05-01,61.0,São_Paulo_FC,,,,,
+#29Pablo Maia,Inner ankle ligament tear,2025-02-24,71.0,São_Paulo_FC,,,,,
+#29Pablo Maia,Hamstring muscle injury,2024-04-22,255.0,São_Paulo_FC,,,,,
+#36Patryck,Broken collarbone,2024-08-18,94.0,São_Paulo_FC,43.0,1.0,Injury to the ankle,43.0,False
+#36Patryck,Muscle injury,2024-04-03,14.0,São_Paulo_FC,43.0,1.0,Injury to the ankle,43.0,False
+#36Patryck,Injury to the ankle,2023-07-24,43.0,São_Paulo_FC,43.0,1.0,Injury to the ankle,43.0,False
+#5RobertArboleda,muscular problems,2025-04-17,19.0,São_Paulo_FC,40.0,1.0,Tendonitis,40.0,False
+#5RobertArboleda,Leg injury,2024-11-06,17.0,São_Paulo_FC,40.0,1.0,Tendonitis,40.0,False
+#5RobertArboleda,Tendonitis,2023-01-29,40.0,São_Paulo_FC,40.0,1.0,Tendonitis,40.0,False
+#5RobertArboleda,Broken ankle,2022-06-25,123.0,São_Paulo_FC,40.0,1.0,Tendonitis,40.0,False
+#5RobertArboleda,Corona virus,2022-01-16,6.0,São_Paulo_FC,40.0,1.0,Tendonitis,40.0,False
+#5RobertArboleda,Contracture,2019-05-04,21.0,São_Paulo_FC,40.0,1.0,Tendonitis,40.0,False
+#11RodrigoNestor,ankle sprain,2024-09-02,20.0,São_Paulo_FC,310.0,2.0,Knee injury,155.0,True
+#11RodrigoNestor,Knee injury,2023-11-06,155.0,São_Paulo_FC,310.0,2.0,Knee injury,155.0,True
+#15Rodriguinho,ankle sprain,2025-05-15,5.0,São_Paulo_FC,,,,,
+#15Rodriguinho,Knee problems,2025-02-06,66.0,São_Paulo_FC,,,,,
+#15Rodriguinho,ankle sprain,2024-02-14,12.0,São_Paulo_FC,,,,,
+#15Rodriguinho,Back problems,2022-11-03,15.0,São_Paulo_FC,,,,,
+#22Ruan,Knee problems,2025-05-21,40.0,São_Paulo_FC,5.0,1.0,unknown injury,5.0,False
+#22Ruan,Hamstring injury,2025-02-17,40.0,São_Paulo_FC,5.0,1.0,unknown injury,5.0,False
+#22Ruan,unknown injury,2023-10-02,5.0,São_Paulo_FC,5.0,1.0,unknown injury,5.0,False
+#5SantiagoLongo,strain,2024-07-30,8.0,São_Paulo_FC,,,,,
+#18Wendell,unknown injury,2024-10-21,121.0,São_Paulo_FC,58.0,2.0,unknown injury,29.0,False
+#18Wendell,unknown injury,2023-10-26,47.0,São_Paulo_FC,58.0,2.0,unknown injury,29.0,False
+#18Wendell,unknown injury,2023-02-06,11.0,São_Paulo_FC,58.0,2.0,unknown injury,29.0,False
+#18Wendell,Knee injury,2021-10-20,28.0,São_Paulo_FC,58.0,2.0,unknown injury,29.0,False
+#18Wendell,Corona virus,2020-12-28,11.0,São_Paulo_FC,58.0,2.0,unknown injury,29.0,False
+#18Wendell,Hamstring strain,2019-10-19,13.0,São_Paulo_FC,58.0,2.0,unknown injury,29.0,False
+#18Wendell,Fitness,2018-05-02,6.0,São_Paulo_FC,58.0,2.0,unknown injury,29.0,False
+#18Wendell,double ligament tear,2018-04-10,25.0,São_Paulo_FC,58.0,2.0,unknown injury,29.0,False
+#18Wendell,Foot bruise,2018-02-19,4.0,São_Paulo_FC,58.0,2.0,unknown injury,29.0,False
+#18Wendell,minor knock,2017-04-10,4.0,São_Paulo_FC,58.0,2.0,unknown injury,29.0,False
+#18Wendell,Syndesmotic ligament tear,2016-04-25,67.0,São_Paulo_FC,58.0,2.0,unknown injury,29.0,False
+#50Young,Foot injury,2025-01-17,87.0,São_Paulo_FC,,,,,
+Alex Santana,Hamstring injury,2024-08-05,76.0,Grêmio,,,,,
+Alex Santana,Knee injury,2024-01-28,42.0,Grêmio,,,,,
+Alex Santana,Muscle injury,2022-04-28,27.0,Grêmio,,,,,
+Alex Santana,minor knock,2021-12-11,3.0,Grêmio,,,,,
+Alex Santana,unknown injury,2021-10-31,41.0,Grêmio,,,,,
+Alex Santana,Rest,2021-07-31,1.0,Grêmio,,,,,
+Alex Santana,minor knock,2021-07-30,3.0,Grêmio,,,,,
+Alex Santana,unknown injury,2021-06-06,25.0,Grêmio,,,,,
+Alex Santana,minor knock,2021-05-25,3.0,Grêmio,,,,,
+Alex Santana,Knock,2021-04-17,3.0,Grêmio,,,,,
+Alex Santana,minor knock,2021-02-14,8.0,Grêmio,,,,,
+Alex Santana,Knock,2020-11-27,4.0,Grêmio,,,,,
+Alex Santana,Knock,2020-05-19,217.0,Grêmio,,,,,
+Alex Santana,minor knock,2019-12-07,4.0,Grêmio,,,,,
+Alex Santana,Muscle injury,2019-09-20,35.0,Grêmio,,,,,
+#16AlexanderAravena,Knock,2025-06-02,28.0,Grêmio,15.0,1.0,muscular problems,15.0,False
+#16AlexanderAravena,muscular problems,2025-04-28,15.0,Grêmio,15.0,1.0,muscular problems,15.0,False
+#16AlexanderAravena,Thigh problems,2025-02-20,26.0,Grêmio,15.0,1.0,muscular problems,15.0,False
+#16AlexanderAravena,muscular problems,2024-12-05,5.0,Grêmio,15.0,1.0,muscular problems,15.0,False
+#16AlexanderAravena,muscular problems,2023-04-21,15.0,Grêmio,15.0,1.0,muscular problems,15.0,False
+#16AlexanderAravena,Muscle contusion,2021-01-07,13.0,Grêmio,15.0,1.0,muscular problems,15.0,False
+#16AlexanderAravena,Hamstring strain,2020-12-19,12.0,Grêmio,15.0,1.0,muscular problems,15.0,False
+#77André Henrique,Injury to the ankle,2024-03-29,299.0,Grêmio,,,,,
+#15Camilo,Injury to the ankle,2022-10-07,24.0,Grêmio,,,,,
+#99CristianOlivera,Stomach flu,2025-05-13,8.0,Grêmio,9.0,1.0,Hamstring strain,9.0,False
+#99CristianOlivera,Dental surgery,2025-04-09,10.0,Grêmio,9.0,1.0,Hamstring strain,9.0,False
+#99CristianOlivera,muscular problems,2025-04-03,5.0,Grêmio,9.0,1.0,Hamstring strain,9.0,False
+#99CristianOlivera,Hamstring strain,2023-03-28,9.0,Grêmio,9.0,1.0,Hamstring strain,9.0,False
+#99CristianOlivera,Quarantine,2022-02-26,10.0,Grêmio,9.0,1.0,Hamstring strain,9.0,False
+#99CristianOlivera,stomach problems,2021-07-07,21.0,Grêmio,9.0,1.0,Hamstring strain,9.0,False
+#99CristianOlivera,influenza,2021-05-16,4.0,Grêmio,9.0,1.0,Hamstring strain,9.0,False
+#99CristianOlivera,unknown injury,2020-10-14,6.0,Grêmio,9.0,1.0,Hamstring strain,9.0,False
+#7CristianPavón,muscular problems,2025-04-17,30.0,Grêmio,12.0,1.0,Hamstring injury,12.0,False
+#7CristianPavón,Thigh problems,2025-02-14,15.0,Grêmio,12.0,1.0,Hamstring injury,12.0,False
+#7CristianPavón,Hamstring injury,2024-08-24,46.0,Grêmio,12.0,1.0,Hamstring injury,12.0,False
+#7CristianPavón,Hamstring injury,2024-04-19,50.0,Grêmio,12.0,1.0,Hamstring injury,12.0,False
+#7CristianPavón,Hamstring injury,2023-01-19,12.0,Grêmio,12.0,1.0,Hamstring injury,12.0,False
+#7CristianPavón,Quarantine,2021-07-22,8.0,Grêmio,12.0,1.0,Hamstring injury,12.0,False
+#7CristianPavón,Fitness,2021-04-01,23.0,Grêmio,12.0,1.0,Hamstring injury,12.0,False
+#7CristianPavón,Ankle injury,2021-01-19,72.0,Grêmio,12.0,1.0,Hamstring injury,12.0,False
+#7CristianPavón,Torn muscle bundle,2019-02-22,34.0,Grêmio,12.0,1.0,Hamstring injury,12.0,False
+#7CristianPavón,Torn muscle bundle,2018-11-12,23.0,Grêmio,12.0,1.0,Hamstring injury,12.0,False
+#7CristianPavón,Thigh problems,2018-10-09,14.0,Grêmio,12.0,1.0,Hamstring injury,12.0,False
+#7CristianPavón,Knee injury,2016-02-07,39.0,Grêmio,12.0,1.0,Hamstring injury,12.0,False
+#17Dodi,Injury to the ankle,2025-05-05,5.0,Grêmio,,,,,
+#8Edenilson,Thigh problems,2025-05-06,55.0,Grêmio,,,,,
+#20FelipeCarballo,Abdominal problems,2025-05-20,24.0,Grêmio,141.0,2.0,surgery,70.5,True
+#20FelipeCarballo,Appendectomy,2024-12-03,18.0,Grêmio,141.0,2.0,surgery,70.5,True
+#20FelipeCarballo,Appendicitis,2024-12-01,2.0,Grêmio,141.0,2.0,surgery,70.5,True
+#20FelipeCarballo,Muscle injury,2024-07-05,12.0,Grêmio,141.0,2.0,surgery,70.5,True
+#20FelipeCarballo,surgery,2023-12-21,128.0,Grêmio,141.0,2.0,surgery,70.5,True
+#20FelipeCarballo,Knee injury,2023-09-16,13.0,Grêmio,141.0,2.0,surgery,70.5,True
+#20FelipeCarballo,Head injury,2021-05-14,55.0,Grêmio,141.0,2.0,surgery,70.5,True
+#20FelipeCarballo,strain,2021-02-11,4.0,Grêmio,141.0,2.0,surgery,70.5,True
+#20FelipeCarballo,Contracture,2020-10-16,5.0,Grêmio,141.0,2.0,surgery,70.5,True
+#20FelipeCarballo,Knock,2019-05-20,9.0,Grêmio,141.0,2.0,surgery,70.5,True
+#20FelipeCarballo,Ankle injury,2018-03-01,93.0,Grêmio,141.0,2.0,surgery,70.5,True
+#20FelipeCarballo,Ankle injury,2017-09-17,31.0,Grêmio,141.0,2.0,surgery,70.5,True
+#20FelipeCarballo,Ankle injury,2017-04-16,25.0,Grêmio,141.0,2.0,surgery,70.5,True
+#9FrancisAmuzu,muscular problems,2025-04-17,23.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#9FrancisAmuzu,Head injury,2025-04-06,7.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#9FrancisAmuzu,muscular problems,2025-02-23,13.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#9FrancisAmuzu,concussion,2025-01-12,10.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#9FrancisAmuzu,Hamstring injury,2024-09-26,20.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#9FrancisAmuzu,Hamstring injury,2024-08-17,11.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#9FrancisAmuzu,Ankle injury,2024-07-20,19.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#9FrancisAmuzu,Ill,2024-05-24,5.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#9FrancisAmuzu,Pubalgia,2023-12-12,98.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#9FrancisAmuzu,Pubalgia,2023-11-10,29.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#9FrancisAmuzu,Hip injury,2023-09-24,12.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#9FrancisAmuzu,Muscle injury,2023-02-12,7.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#9FrancisAmuzu,Hamstring injury,2022-09-20,10.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#9FrancisAmuzu,Ill,2022-09-02,5.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#9FrancisAmuzu,Ill,2022-02-26,4.0,Grêmio,146.0,4.0,Pubalgia,36.5,True
+#6GustavoCuéllar,muscular problems,2025-05-08,53.0,Grêmio,,,,,
+#6GustavoCuéllar,muscular problems,2025-03-17,27.0,Grêmio,,,,,
+#6GustavoCuéllar,Hamstring injury,2025-03-02,14.0,Grêmio,,,,,
+#53Gustavo Martins,Knee injury,2025-04-20,35.0,Grêmio,,,,,
+#53Gustavo Martins,Thigh problems,2024-10-05,46.0,Grêmio,,,,,
+#53Gustavo Martins,muscular problems,2024-07-11,20.0,Grêmio,,,,,
+#53Gustavo Martins,Groin injury,2024-06-27,10.0,Grêmio,,,,,
+#53Gustavo Martins,Hamstring injury,2024-05-01,31.0,Grêmio,,,,,
+#39GustavoNunes,Fitness,2025-03-19,22.0,Grêmio,,,,,
+#39GustavoNunes,Back injury,2024-08-28,204.0,Grêmio,,,,,
+#34Igor Serrote,Wrist fracture,2025-05-13,48.0,Grêmio,,,,,
+#21Jemerson,muscular problems,2024-09-23,16.0,Grêmio,,,,,
+#21Jemerson,Fitness,2024-07-09,19.0,Grêmio,,,,,
+#21Jemerson,Wrist injury,2024-04-16,4.0,Grêmio,,,,,
+#21Jemerson,Inner ligament stretch of the knee,2021-01-23,24.0,Grêmio,,,,,
+#21Jemerson,Corona virus,2020-11-20,17.0,Grêmio,,,,,
+#21Jemerson,Thigh problems,2018-01-13,15.0,Grêmio,,,,,
+#2João Lucas,muscular problems,2025-05-13,48.0,Grêmio,,,,,
+#2João Lucas,Hamstring injury,2024-07-28,27.0,Grêmio,,,,,
+#2João Lucas,Knock,2022-10-07,19.0,Grêmio,,,,,
+#18João Pedro,Ankle surgery,2025-05-26,35.0,Grêmio,24.0,1.0,muscular problems,24.0,False
+#18João Pedro,muscular problems,2023-04-29,24.0,Grêmio,24.0,1.0,muscular problems,24.0,False
+#18João Pedro,unknown injury,2018-12-23,36.0,Grêmio,24.0,1.0,muscular problems,24.0,False
+#30LuanCândido,ankle sprain,2024-08-26,54.0,Grêmio,240.0,2.0,Leg injury,120.0,True
+#30LuanCândido,Leg injury,2023-02-27,120.0,Grêmio,240.0,2.0,Leg injury,120.0,True
+#25Lucas Esteves,Thigh problems,2023-02-26,47.0,Grêmio,47.0,1.0,Thigh problems,47.0,False
+#23Marlon,Chest injury,2024-07-08,14.0,Grêmio,,,,,
+#23Marlon,Tear of the lateral meniscus,2022-10-23,41.0,Grêmio,,,,,
+#23Marlon,unknown injury,2022-09-30,15.0,Grêmio,,,,,
+#23Marlon,Corona virus,2021-02-17,11.0,Grêmio,,,,,
+#23Marlon,Hamstring injury,2020-09-08,15.0,Grêmio,,,,,
+#23Marlon,Knee injury,2019-12-07,24.0,Grêmio,,,,,
+#22MartinBraithwaite,ankle sprain,2025-04-03,5.0,Grêmio,15.0,2.0,Muscle injury,7.5,False
+#22MartinBraithwaite,Adductor injury,2025-03-17,16.0,Grêmio,15.0,2.0,Muscle injury,7.5,False
+#22MartinBraithwaite,Muscle injury,2023-08-26,9.0,Grêmio,15.0,2.0,Muscle injury,7.5,False
+#22MartinBraithwaite,Dead leg,2023-05-18,6.0,Grêmio,15.0,2.0,Muscle injury,7.5,False
+#22MartinBraithwaite,Corona virus,2022-04-29,8.0,Grêmio,15.0,2.0,Muscle injury,7.5,False
+#22MartinBraithwaite,Knee injury,2021-08-30,144.0,Grêmio,15.0,2.0,Muscle injury,7.5,False
+#22MartinBraithwaite,Ankle injury,2021-04-20,15.0,Grêmio,15.0,2.0,Muscle injury,7.5,False
+#22MartinBraithwaite,Hamstring injury,2021-02-09,8.0,Grêmio,15.0,2.0,Muscle injury,7.5,False
+#22MartinBraithwaite,Quarantine,2020-11-10,4.0,Grêmio,15.0,2.0,Muscle injury,7.5,False
+#22MartinBraithwaite,Muscle injury,2020-09-20,11.0,Grêmio,15.0,2.0,Muscle injury,7.5,False
+#22MartinBraithwaite,Adductor pain,2015-12-06,12.0,Grêmio,15.0,2.0,Muscle injury,7.5,False
+#22MartinBraithwaite,Broken fibula,2011-03-20,103.0,Grêmio,15.0,2.0,Muscle injury,7.5,False
+#20MathíasVillasanti,Hamstring injury,2025-04-28,19.0,Grêmio,,,,,
+#19MatíasArezo,muscular problems,2025-04-20,14.0,Grêmio,23.0,3.0,muscular problems,7.666666666666667,True
+#19MatíasArezo,muscular problems,2023-07-01,10.0,Grêmio,23.0,3.0,muscular problems,7.666666666666667,True
+#19MatíasArezo,Sore muscles,2023-06-30,4.0,Grêmio,23.0,3.0,muscular problems,7.666666666666667,True
+#19MatíasArezo,Muscle injury,2023-03-14,9.0,Grêmio,23.0,3.0,muscular problems,7.666666666666667,True
+#19MatíasArezo,unknown injury,2021-02-02,4.0,Grêmio,23.0,3.0,muscular problems,7.666666666666667,True
+#19MatíasArezo,Muscle injury,2020-11-13,11.0,Grêmio,23.0,3.0,muscular problems,7.666666666666667,True
+#11MiguelMonsalve,Muscle injury,2025-05-21,40.0,Grêmio,,,,,
+#16Nathan Fernandes,Thigh problems,2025-02-08,84.0,Grêmio,,,,,
+#16Nathan Fernandes,Dead leg,2024-09-14,14.0,Grêmio,,,,,
+#16Nathan Fernandes,ankle sprain,2024-02-07,18.0,Grêmio,,,,,
+#14Nathan,Knee injury,2017-01-01,19.0,Grêmio,,,,,
+#14Nathan,Back injury,2016-04-04,59.0,Grêmio,,,,,
+#14Nathan,Knee injury,2015-11-19,44.0,Grêmio,,,,,
+#6Pepê,sprain,2025-04-28,20.0,Grêmio,,,,,
+#6Pepê,Hamstring injury,2024-04-09,14.0,Grêmio,,,,,
+#6Pepê,muscular problems,2022-11-07,56.0,Grêmio,,,,,
+#5RodrigoEly,Cruciate ligament tear,2025-04-14,77.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#5RodrigoEly,Hamstring injury,2025-02-23,21.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#5RodrigoEly,Foot injury,2025-01-23,9.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#5RodrigoEly,Foot injury,2024-11-27,56.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#5RodrigoEly,Thigh problems,2024-08-26,44.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#5RodrigoEly,Muscle injury,2024-07-07,7.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#5RodrigoEly,Hamstring injury,2023-09-25,60.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#5RodrigoEly,muscular problems,2021-11-01,32.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#5RodrigoEly,Cruciate ligament tear,2020-12-21,192.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#5RodrigoEly,Hamstring injury,2019-10-06,47.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#5RodrigoEly,Muscle injury,2019-04-24,18.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#5RodrigoEly,Knee injury,2018-10-30,123.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#5RodrigoEly,Cruciate ligament tear,2018-08-10,57.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#5RodrigoEly,muscular problems,2017-12-05,29.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#5RodrigoEly,muscular problems,2017-05-08,18.0,Grêmio,60.0,1.0,Hamstring injury,60.0,False
+#3Wagner Leonardo,muscular problems,2025-04-20,7.0,Grêmio,,,,,
+#3Wagner Leonardo,Corona virus,2021-01-10,8.0,Grêmio,,,,,
+#4WalterKannemann,Hip flexor problems,2024-10-05,193.0,Grêmio,27.0,1.0,Broken hand,27.0,False
+#4WalterKannemann,muscular problems,2024-08-24,8.0,Grêmio,27.0,1.0,Broken hand,27.0,False
+#4WalterKannemann,Knock,2024-04-14,6.0,Grêmio,27.0,1.0,Broken hand,27.0,False
+#4WalterKannemann,Broken hand,2023-07-26,27.0,Grêmio,27.0,1.0,Broken hand,27.0,False
+#4WalterKannemann,unknown injury,2022-06-20,98.0,Grêmio,27.0,1.0,Broken hand,27.0,False
+#19AndréCarrillo,unknown injury,2024-05-10,16.0,Corinthians,22.0,1.0,Achilles tendon contusion,22.0,False
+#19AndréCarrillo,Achilles tendon contusion,2023-09-19,22.0,Corinthians,22.0,1.0,Achilles tendon contusion,22.0,False
+#19AndréCarrillo,Knee injury,2022-03-26,64.0,Corinthians,22.0,1.0,Achilles tendon contusion,22.0,False
+#19AndréCarrillo,Corona virus,2020-07-12,15.0,Corinthians,22.0,1.0,Achilles tendon contusion,22.0,False
+#19AndréCarrillo,Knee bruise,2017-08-01,13.0,Corinthians,22.0,1.0,Achilles tendon contusion,22.0,False
+#19AndréCarrillo,Thigh problems,2015-01-19,8.0,Corinthians,22.0,1.0,Achilles tendon contusion,22.0,False
+#19AndréCarrillo,flu,2013-03-24,27.0,Corinthians,22.0,1.0,Achilles tendon contusion,22.0,False
+#19AndréCarrillo,Knee injury,2011-11-30,4.0,Corinthians,22.0,1.0,Achilles tendon contusion,22.0,False
+#19AndréCarrillo,Tendonitis,2011-10-15,4.0,Corinthians,22.0,1.0,Achilles tendon contusion,22.0,False
+#5André Ramalho,Thigh problems,2024-11-05,15.0,Corinthians,,,,,
+#5André Ramalho,unknown injury,2022-04-28,88.0,Corinthians,,,,,
+#5André Ramalho,Ankle surgery,2021-12-23,96.0,Corinthians,,,,,
+#5André Ramalho,Corona virus,2020-10-01,19.0,Corinthians,,,,,
+#5André Ramalho,muscular problems,2018-05-28,29.0,Corinthians,,,,,
+#5André Ramalho,Hamstring injury,2018-02-08,8.0,Corinthians,,,,,
+#5André Ramalho,Fitness,2016-10-24,8.0,Corinthians,,,,,
+#5André Ramalho,Calf injury,2016-09-12,43.0,Corinthians,,,,,
+#5André Ramalho,Metatarsal fracture,2012-05-31,82.0,Corinthians,,,,,
+#11ÁngelRomero,Thigh problems,2024-08-11,14.0,Corinthians,,,,,
+#27Biro,muscular problems,2021-04-05,29.0,Corinthians,,,,,
+#25Cacá,bruise,2024-10-29,22.0,Corinthians,,,,,
+#33Carlos Miguel,Hamstring injury,2025-02-10,50.0,Corinthians,,,,,
+#35Charles,muscular problems,2019-08-04,11.0,Corinthians,,,,,
+#6DiegoPalacios,Knee surgery,2024-06-19,197.0,Corinthians,,,,,
+#6DiegoPalacios,Knee injury,2024-01-29,135.0,Corinthians,,,,,
+#6DiegoPalacios,Knee problems,2021-08-16,11.0,Corinthians,,,,,
+#6DiegoPalacios,Corona virus,2020-11-14,17.0,Corinthians,,,,,
+#26FabrizioAngileri,Hamstring injury,2025-03-31,16.0,Corinthians,,,,,
+#26FabrizioAngileri,Torn muscle bundle,2021-11-04,52.0,Corinthians,,,,,
+#26FabrizioAngileri,Thigh problems,2021-10-14,14.0,Corinthians,,,,,
+#26FabrizioAngileri,Torn muscle bundle,2021-08-20,20.0,Corinthians,,,,,
+#26FabrizioAngileri,Corona virus,2021-05-21,11.0,Corinthians,,,,,
+#26FabrizioAngileri,Torn muscle bundle,2020-12-28,12.0,Corinthians,,,,,
+#26FabrizioAngileri,Torn muscle bundle,2020-12-28,12.0,Corinthians,,,,,
+#26FabrizioAngileri,bruise,2020-02-02,30.0,Corinthians,,,,,
+#26FabrizioAngileri,Hip problems,2019-07-25,17.0,Corinthians,,,,,
+#8FaustoVera,Hamstring injury,2024-05-07,7.0,Corinthians,,,,,
+#3FélixTorres,Hamstring injury,2024-11-21,59.0,Corinthians,,,,,
+#3FélixTorres,Muscle injury,2022-08-29,19.0,Corinthians,,,,,
+#13Gustavo Henrique,Groin problems,2025-04-28,63.0,Corinthians,,,,,
+#13Gustavo Henrique,Hamstring injury,2025-04-03,13.0,Corinthians,,,,,
+#13Gustavo Henrique,Thigh problems,2025-01-15,39.0,Corinthians,,,,,
+#13Gustavo Henrique,Ill,2024-04-19,22.0,Corinthians,,,,,
+#13Gustavo Henrique,Ill,2024-04-19,22.0,Corinthians,,,,,
+#13Gustavo Henrique,muscular problems,2024-01-20,22.0,Corinthians,,,,,
+#13Gustavo Henrique,Hamstring injury,2022-10-27,30.0,Corinthians,,,,,
+#13Gustavo Henrique,Ill,2020-10-21,3.0,Corinthians,,,,,
+#13Gustavo Henrique,Ill,2020-09-27,8.0,Corinthians,,,,,
+#13Gustavo Henrique,Cruciate ligament tear,2016-09-26,317.0,Corinthians,,,,,
+#22HéctorHernández,Torn lateral knee ligament,2024-10-23,46.0,Corinthians,43.0,1.0,unknown injury,43.0,False
+#22HéctorHernández,unknown injury,2023-03-01,43.0,Corinthians,43.0,1.0,unknown injury,43.0,False
+#22HéctorHernández,unknown injury,2022-12-14,63.0,Corinthians,43.0,1.0,unknown injury,43.0,False
+#22HéctorHernández,Knee injury,2017-09-25,11.0,Corinthians,43.0,1.0,unknown injury,43.0,False
+#22HéctorHernández,Broken collarbone,2014-01-27,67.0,Corinthians,43.0,1.0,unknown injury,43.0,False
+#1Hugo Souza,Hamstring injury,2025-03-28,27.0,Corinthians,,,,,
+#46Hugo,Calf injury,2024-10-16,15.0,Corinthians,,,,,
+#46Hugo,Knee injury,2022-04-30,65.0,Corinthians,,,,,
+#46Hugo,Muscle injury,2021-07-09,22.0,Corinthians,,,,,
+#77IgorCoronado,Shoulder injury,2025-04-06,18.0,Corinthians,,,,,
+#77IgorCoronado,Adductor injury,2025-03-01,26.0,Corinthians,,,,,
+#77IgorCoronado,Adductor injury,2024-04-20,18.0,Corinthians,,,,,
+#77IgorCoronado,unknown injury,2019-12-20,63.0,Corinthians,,,,,
+#70JoséMartínez,Dental surgery,2025-05-07,8.0,Corinthians,,,,,
+#70JoséMartínez,Knee problems,2025-03-03,6.0,Corinthians,,,,,
+#21Matheus Bidu,Hamstring injury,2024-09-15,6.0,Corinthians,,,,,
+#2Matheuzinho,Hamstring injury,2025-05-16,8.0,Corinthians,108.0,1.0,Leg injury,108.0,True
+#2Matheuzinho,ankle sprain,2024-05-08,20.0,Corinthians,108.0,1.0,Leg injury,108.0,True
+#2Matheuzinho,Leg injury,2023-03-15,108.0,Corinthians,108.0,1.0,Leg injury,108.0,True
+#7Maycon,Cruciate ligament injury,2024-04-18,297.0,Corinthians,,,,,
+#7Maycon,Hamstring injury,2024-03-02,44.0,Corinthians,,,,,
+#7Maycon,Broken toe,2022-08-04,64.0,Corinthians,,,,,
+#7Maycon,Hamstring injury,2022-06-15,34.0,Corinthians,,,,,
+#7Maycon,Knee injury,2020-05-30,13.0,Corinthians,,,,,
+#7Maycon,Cruciate ligament surgery,2019-04-25,199.0,Corinthians,,,,,
+#10MemphisDepay,ankle sprain,2025-05-11,16.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#10MemphisDepay,Leg injury,2025-04-28,5.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#10MemphisDepay,Injury to the ankle,2025-04-06,6.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#10MemphisDepay,Fitness,2024-09-13,8.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#10MemphisDepay,Muscle injury,2024-07-10,23.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#10MemphisDepay,Muscle injury,2024-04-09,33.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#10MemphisDepay,Muscle injury,2024-04-08,29.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#10MemphisDepay,Muscle injury,2023-09-26,60.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#10MemphisDepay,Muscle injury,2023-09-15,6.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#10MemphisDepay,Calf injury,2023-05-02,90.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#10MemphisDepay,Muscle injury,2023-04-01,25.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#10MemphisDepay,Thigh problems,2022-09-22,60.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#10MemphisDepay,Hamstring strain,2022-04-04,11.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#10MemphisDepay,Achilles tendon problems,2022-01-17,43.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#10MemphisDepay,Hamstring injury,2021-12-09,33.0,Corinthians,181.0,4.0,Muscle injury,45.25,True
+#14Raniele,Hamstring injury,2025-06-02,28.0,Corinthians,,,,,
+#14Raniele,Hamstring injury,2025-05-11,7.0,Corinthians,,,,,
+#14Raniele,Hamstring injury,2025-02-13,24.0,Corinthians,,,,,
+#14Raniele,Adductor injury,2024-09-15,14.0,Corinthians,,,,,
+#14Raniele,Calf injury,2024-08-14,11.0,Corinthians,,,,,
+#14Raniele,muscular problems,2022-11-06,70.0,Corinthians,,,,,
+#34Raul Gustavo,Broken collarbone,2024-10-04,59.0,Corinthians,109.0,1.0,Knee injury,109.0,True
+#34Raul Gustavo,Knee injury,2023-03-15,109.0,Corinthians,109.0,1.0,Knee injury,109.0,True
+#8RodrigoGarro,Knee injury,2025-03-28,60.0,Corinthians,,,,,
+#8RodrigoGarro,Knee injury,2025-01-01,39.0,Corinthians,,,,,
+#8RodrigoGarro,unknown injury,2022-10-11,5.0,Corinthians,,,,,
+#8RodrigoGarro,unknown injury,2022-02-20,7.0,Corinthians,,,,,
+#37Ryan,Foot injury,2024-09-30,69.0,Corinthians,,,,,
+#43Talles Magno,pneumonia,2025-04-17,10.0,Corinthians,5.0,1.0,Leg injury,5.0,False
+#43Talles Magno,Hamstring injury,2024-09-22,25.0,Corinthians,5.0,1.0,Leg injury,5.0,False
+#43Talles Magno,unknown injury,2024-08-19,4.0,Corinthians,5.0,1.0,Leg injury,5.0,False
+#43Talles Magno,Knee injury,2024-02-29,63.0,Corinthians,5.0,1.0,Leg injury,5.0,False
+#43Talles Magno,Leg injury,2023-05-29,5.0,Corinthians,5.0,1.0,Leg injury,5.0,False
+#43Talles Magno,Knee problems,2021-03-28,58.0,Corinthians,5.0,1.0,Leg injury,5.0,False
+#43Talles Magno,Corona virus,2020-11-20,12.0,Corinthians,5.0,1.0,Leg injury,5.0,False
+#43Talles Magno,Corona virus,2020-03-31,16.0,Corinthians,5.0,1.0,Leg injury,5.0,False
+#43Talles Magno,Metatarsal fracture,2020-02-24,122.0,Corinthians,5.0,1.0,Leg injury,5.0,False
+#43Talles Magno,Hamstring injury,2019-11-08,66.0,Corinthians,5.0,1.0,Leg injury,5.0,False
+#9Yuri Alberto,Lumbar vertebra fracture,2025-05-25,36.0,Corinthians,,,,,
+#9Yuri Alberto,Hamstring injury,2024-11-21,9.0,Corinthians,,,,,
+#9Yuri Alberto,Kidney stone surgery,2024-08-01,24.0,Corinthians,,,,,
+#9Yuri Alberto,Tendonitis,2024-04-27,14.0,Corinthians,,,,,
+#13Aderlan,Hamstring injury,2025-05-13,30.0,Santos_FC,,,,,
+#13Aderlan,Cruciate ligament surgery,2024-07-15,286.0,Santos_FC,,,,,
+#13Aderlan,contortion,2024-04-23,41.0,Santos_FC,,,,,
+#13Aderlan,Hamstring injury,2024-03-08,23.0,Santos_FC,,,,,
+#9AlfredoMorelos,Muscle injury,2023-10-13,46.0,Santos_FC,46.0,1.0,Muscle injury,46.0,False
+#9AlfredoMorelos,Thigh problems,2022-03-28,85.0,Santos_FC,46.0,1.0,Muscle injury,46.0,False
+#9AlfredoMorelos,Corona virus,2021-05-27,15.0,Santos_FC,46.0,1.0,Muscle injury,46.0,False
+#9AlfredoMorelos,Knock,2020-09-14,1.0,Santos_FC,46.0,1.0,Muscle injury,46.0,False
+#9AlfredoMorelos,Calf injury,2020-01-20,8.0,Santos_FC,46.0,1.0,Muscle injury,46.0,False
+#9AlfredoMorelos,Hip injury,2017-11-27,4.0,Santos_FC,46.0,1.0,Muscle injury,46.0,False
+#22ÁlvaroBarreal,Hamstring injury,2025-04-21,21.0,Santos_FC,,,,,
+#22ÁlvaroBarreal,Groin problems,2024-12-05,80.0,Santos_FC,,,,,
+#22ÁlvaroBarreal,Bruise on ankle,2024-08-26,6.0,Santos_FC,,,,,
+#22ÁlvaroBarreal,Virus,2024-06-27,6.0,Santos_FC,,,,,
+#22ÁlvaroBarreal,Inflammation of ligaments in the knee,2024-06-13,10.0,Santos_FC,,,,,
+#32BenjamínRollheiser,Muscle injury,2024-08-01,20.0,Santos_FC,,,,,
+#32BenjamínRollheiser,Torn muscle bundle,2021-11-09,29.0,Santos_FC,,,,,
+#32BenjamínRollheiser,Corona virus,2021-05-15,9.0,Santos_FC,,,,,
+#32BenjamínRollheiser,Cruciate ligament tear,2020-02-18,214.0,Santos_FC,,,,,
+#32BenjamínRollheiser,Knee injury,2019-10-05,21.0,Santos_FC,,,,,
+#21Diego Pituca,Achilles tendon problems,2025-05-13,19.0,Santos_FC,,,,,
+#49Gabriel Bontempo,Adductor injury,2025-04-21,13.0,Santos_FC,,,,,
+#77GabrielBrazão,Cruciate ligament tear,2022-05-15,203.0,Santos_FC,,,,,
+#77GabrielBrazão,Cruciate ligament tear,2021-08-16,161.0,Santos_FC,,,,,
+#70Gabriel Veron,Hamstring injury,2024-07-23,45.0,Santos_FC,187.0,3.0,Torn thigh muscle,62.333333333333336,True
+#70Gabriel Veron,Foot surgery,2024-01-23,78.0,Santos_FC,187.0,3.0,Torn thigh muscle,62.333333333333336,True
+#70Gabriel Veron,Torn thigh muscle,2023-10-11,82.0,Santos_FC,187.0,3.0,Torn thigh muscle,62.333333333333336,True
+#70Gabriel Veron,Adductor injury,2023-07-26,71.0,Santos_FC,187.0,3.0,Torn thigh muscle,62.333333333333336,True
+#70Gabriel Veron,Ankle injury,2023-01-30,34.0,Santos_FC,187.0,3.0,Torn thigh muscle,62.333333333333336,True
+#70Gabriel Veron,unknown injury,2022-10-28,38.0,Santos_FC,187.0,3.0,Torn thigh muscle,62.333333333333336,True
+#70Gabriel Veron,Hamstring injury,2021-04-16,86.0,Santos_FC,187.0,3.0,Torn thigh muscle,62.333333333333336,True
+#70Gabriel Veron,Corona virus,2020-11-20,9.0,Santos_FC,187.0,3.0,Torn thigh muscle,62.333333333333336,True
+#4Gil,Hip flexor problems,2025-06-02,28.0,Santos_FC,,,,,
+#11Guilherme,Hip flexor problems,2025-05-02,20.0,Santos_FC,,,,,
+#11Guilherme,Thigh problems,2024-06-28,17.0,Santos_FC,,,,,
+#11Guilherme,Hamstring injury,2024-05-16,29.0,Santos_FC,,,,,
+#11Guilherme,Lumbar vertebra problems,2019-04-24,8.0,Santos_FC,,,,,
+#14Hyan,Inner ligament stretch of the knee,2025-02-06,73.0,Santos_FC,,,,,
+#32Jair Cunha,Injury to the ankle,2025-04-21,5.0,Santos_FC,538.0,2.0,Cruciate ligament injury,269.0,True
+#32Jair Cunha,Cruciate ligament injury,2023-01-12,269.0,Santos_FC,538.0,2.0,Cruciate ligament injury,269.0,True
+#1João Paulo,Achilles tendon rupture,2024-05-25,176.0,Santos_FC,,,,,
+#5João Schmidt,Hamstring injury,2025-05-05,27.0,Santos_FC,,,,,
+#5João Schmidt,ankle sprain,2024-05-21,17.0,Santos_FC,,,,,
+#5João Schmidt,Meniscus injury,2017-09-11,68.0,Santos_FC,,,,,
+#9JulioFurch,Hamstring injury,2024-05-07,38.0,Santos_FC,,,,,
+#9JulioFurch,Nose surgery,2022-06-28,15.0,Santos_FC,,,,,
+#9JulioFurch,Ankle surgery,2021-01-06,89.0,Santos_FC,,,,,
+#38Kevyson,Cruciate ligament surgery,2024-02-05,275.0,Santos_FC,,,,,
+#38Kevyson,Cruciate ligament injury,2024-02-05,271.0,Santos_FC,,,,,
+#14Luan Peres,Knee surgery,2023-10-04,223.0,Santos_FC,296.0,4.0,unknown injury,74.0,True
+#14Luan Peres,unknown injury,2023-08-20,16.0,Santos_FC,296.0,4.0,unknown injury,74.0,True
+#14Luan Peres,Fitness,2023-04-11,10.0,Santos_FC,296.0,4.0,unknown injury,74.0,True
+#14Luan Peres,unknown injury,2023-02-24,47.0,Santos_FC,296.0,4.0,unknown injury,74.0,True
+#14Luan Peres,Fitness,2022-12-16,20.0,Santos_FC,296.0,4.0,unknown injury,74.0,True
+#14Luan Peres,Knee injury,2022-09-15,93.0,Santos_FC,296.0,4.0,unknown injury,74.0,True
+#14Luan Peres,Knock,2022-02-12,5.0,Santos_FC,296.0,4.0,unknown injury,74.0,True
+#14Luan Peres,Corona virus,2020-11-05,15.0,Santos_FC,296.0,4.0,unknown injury,74.0,True
+#21Lucas Barbosa,Thigh problems,2025-01-17,44.0,Santos_FC,,,,,
+#21Lucas Barbosa,ankle sprain,2024-10-21,12.0,Santos_FC,,,,,
+#10Neymar,Hamstring injury,2025-04-17,35.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#10Neymar,Hamstring injury,2025-03-04,40.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#10Neymar,Fitness,2024-12-17,49.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#10Neymar,Hamstring injury,2024-11-04,43.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#10Neymar,Fitness,2024-09-23,42.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#10Neymar,Cruciate ligament tear,2023-10-19,340.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#10Neymar,muscular problems,2023-08-04,31.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#10Neymar,Ankle surgery,2023-02-20,131.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#10Neymar,Ankle injury,2022-11-25,10.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#10Neymar,Ankle injury,2021-11-29,77.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#10Neymar,Adductor pain,2021-11-15,4.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#10Neymar,Adductor pain,2021-10-16,8.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#10Neymar,Fitness,2021-08-01,26.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#10Neymar,Adductor pain,2021-02-11,37.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#10Neymar,Ankle problems,2020-12-14,28.0,Santos_FC,502.0,3.0,Cruciate ligament tear,167.33333333333334,True
+#33Souza,Injury to the ankle,2025-01-30,102.0,Santos_FC,,,,,
+#33Souza,Thigh problems,2024-02-11,141.0,Santos_FC,,,,,
+#16Thaciano,Achilles tendon problems,2025-04-21,13.0,Santos_FC,,,,,
+#16Thaciano,Broken nose bone,2025-01-23,13.0,Santos_FC,,,,,
+#16Thaciano,unknown injury,2022-01-19,15.0,Santos_FC,,,,,
+#9Tiquinho Soares,Knee problems,2024-07-31,14.0,Santos_FC,22.0,1.0,Knee problems,22.0,False
+#9Tiquinho Soares,Hamstring injury,2024-04-26,36.0,Santos_FC,22.0,1.0,Knee problems,22.0,False
+#9Tiquinho Soares,Knee problems,2023-08-07,22.0,Santos_FC,22.0,1.0,Knee problems,22.0,False
+#9Tiquinho Soares,Arm injury,2021-07-02,55.0,Santos_FC,22.0,1.0,Knee problems,22.0,False
+#9Tiquinho Soares,Ill,2019-01-26,2.0,Santos_FC,22.0,1.0,Knee problems,22.0,False
+#9Tiquinho Soares,Adductor injury,2018-08-05,53.0,Santos_FC,22.0,1.0,Knee problems,22.0,False
+#9Tiquinho Soares,Hamstring strain,2018-02-26,18.0,Santos_FC,22.0,1.0,Knee problems,22.0,False
+#9Tiquinho Soares,Knock,2017-10-12,42.0,Santos_FC,22.0,1.0,Knee problems,22.0,False
+#9Tiquinho Soares,Leg injury,2017-08-09,20.0,Santos_FC,22.0,1.0,Knee problems,22.0,False
+#8TomásRincón,Corona virus,2021-06-10,35.0,Santos_FC,,,,,
+#8TomásRincón,Fever,2020-01-11,4.0,Santos_FC,,,,,
+#8TomásRincón,muscular problems,2019-10-30,3.0,Santos_FC,,,,,
+#8TomásRincón,Knock,2016-06-20,63.0,Santos_FC,,,,,
+#8TomásRincón,Edema in the knee,2016-04-14,8.0,Santos_FC,,,,,
+#8TomásRincón,Hamstring injury,2014-10-20,43.0,Santos_FC,,,,,
+#8TomásRincón,Broken jaw,2013-09-23,29.0,Santos_FC,,,,,
+#8TomásRincón,Inflammation of the leg skin,2012-07-19,68.0,Santos_FC,,,,,
+YefersonSoteldo,Muscle injury,2025-06-15,15.0,Santos_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Hamstring muscle injury,2025-05-19,19.0,Santos_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Hamstring injury,2025-04-14,20.0,Santos_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Adductor injury,2025-03-27,10.0,Santos_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,muscular problems,2024-09-27,5.0,Santos_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Thigh problems,2024-02-01,61.0,Santos_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Muscle injury,2023-04-30,23.0,Santos_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Hamstring injury,2022-10-08,100.0,Santos_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Thigh problems,2018-09-19,4.0,Santos_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Torn muscle bundle,2018-04-30,13.0,Santos_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Knee injury,2017-03-27,11.0,Santos_FC,46.0,2.0,Muscle injury,23.0,False
+#2Zé Ivaldo,Corona virus,2020-11-24,17.0,Santos_FC,,,,,
+#2Zé Ivaldo,Bone edema,2019-07-12,50.0,Santos_FC,,,,,
+#6Zé Rafael,Vertebral injury,2025-01-01,131.0,Santos_FC,,,,,
+#6Zé Rafael,Hamstring injury,2024-07-03,14.0,Santos_FC,,,,,
+#6Zé Rafael,Lumbar vertebra problems,2024-04-08,27.0,Santos_FC,,,,,
+#17AgustínCanobbio,Skull fracture,2025-05-15,33.0,Fluminense_FC,,,,,
+#17AgustínCanobbio,Bone edema,2024-10-19,43.0,Fluminense_FC,,,,,
+#17AgustínCanobbio,Injury to the ankle,2024-05-05,10.0,Fluminense_FC,,,,,
+#17AgustínCanobbio,Knock,2022-06-10,18.0,Fluminense_FC,,,,,
+#17AgustínCanobbio,Facial fracture,2022-03-06,34.0,Fluminense_FC,,,,,
+#17AgustínCanobbio,Leg injury,2020-08-30,86.0,Fluminense_FC,,,,,
+#17AgustínCanobbio,Rest,2019-05-25,3.0,Fluminense_FC,,,,,
+#17AgustínCanobbio,Rest,2019-03-02,4.0,Fluminense_FC,,,,,
+#17AgustínCanobbio,Stomach flu,2018-04-12,6.0,Fluminense_FC,,,,,
+#11Alexsander,Broken finger,2025-01-23,45.0,Fluminense_FC,116.0,1.0,Knee injury,116.0,True
+#11Alexsander,Hamstring injury,2024-07-22,10.0,Fluminense_FC,116.0,1.0,Knee injury,116.0,True
+#11Alexsander,Knee injury,2023-05-12,116.0,Fluminense_FC,116.0,1.0,Knee injury,116.0,True
+#7André,Knee injury,2024-04-26,69.0,Fluminense_FC,,,,,
+#2Calegari,Ankle injury,2024-06-28,39.0,Fluminense_FC,237.0,2.0,Knee surgery,118.5,True
+#2Calegari,Knee surgery,2023-09-15,226.0,Fluminense_FC,237.0,2.0,Knee surgery,118.5,True
+#2Calegari,Knee injury,2023-09-04,11.0,Fluminense_FC,237.0,2.0,Knee surgery,118.5,True
+#2Calegari,Hamstring injury,2022-10-28,65.0,Fluminense_FC,237.0,2.0,Knee surgery,118.5,True
+#9Everaldo,Pubalgia,2023-05-08,8.0,Fluminense_FC,8.0,1.0,Pubalgia,8.0,False
+#9Everaldo,Groin injury,2022-03-08,84.0,Fluminense_FC,8.0,1.0,Pubalgia,8.0,False
+#1Fábio,Torn lateral knee ligament,2016-08-14,245.0,Fluminense_FC,,,,,
+#5FacundoBernal,Hamstring injury,2025-05-12,36.0,Fluminense_FC,,,,,
+#5FacundoBernal,Leg injury,2025-02-17,13.0,Fluminense_FC,,,,,
+#5FacundoBernal,Cruciate ligament tear,2022-10-05,294.0,Fluminense_FC,,,,,
+#5FacundoBernal,unknown injury,2022-09-24,4.0,Fluminense_FC,,,,,
+#5FacundoBernal,Hamstring strain,2022-02-20,10.0,Fluminense_FC,,,,,
+#12GabrielFuentes,Hamstring injury,2025-03-13,44.0,Fluminense_FC,,,,,
+#10Ganso,heart problems,2025-01-01,95.0,Fluminense_FC,,,,,
+#10Ganso,Knock,2017-05-06,15.0,Fluminense_FC,,,,,
+#10Ganso,Adductor pain,2017-03-13,18.0,Fluminense_FC,,,,,
+#10Ganso,Cruciate ligament tear,2010-08-27,185.0,Fluminense_FC,,,,,
+#14GermánCano,Knee injury,2025-04-30,48.0,Fluminense_FC,,,,,
+#14GermánCano,Foot bruise,2024-07-25,52.0,Fluminense_FC,,,,,
+#14GermánCano,Corona virus,2020-12-01,16.0,Fluminense_FC,,,,,
+#23Guga,Hamstring injury,2025-04-07,22.0,Fluminense_FC,,,,,
+#23Guga,Corona virus,2020-11-18,16.0,Fluminense_FC,,,,,
+Gustavo Apis,Cruciate ligament injury,2023-01-23,344.0,Fluminense_FC,344.0,1.0,Cruciate ligament injury,344.0,True
+#35Hércules,Cruciate ligament tear,2023-07-10,263.0,Fluminense_FC,526.0,2.0,Cruciate ligament tear,263.0,True
+#4Ignácio,Knee problems,2024-10-27,80.0,Fluminense_FC,,,,,
+#4Ignácio,Meniscus injury,2024-08-18,60.0,Fluminense_FC,,,,,
+#37Isaque,Ligament injury,2025-03-22,48.0,Fluminense_FC,,,,,
+#11Keno,Hamstring injury,2024-11-27,8.0,Fluminense_FC,50.0,1.0,Thigh problems,50.0,False
+#11Keno,unknown injury,2024-06-10,5.0,Fluminense_FC,50.0,1.0,Thigh problems,50.0,False
+#11Keno,ankle sprain,2024-03-20,54.0,Fluminense_FC,50.0,1.0,Thigh problems,50.0,False
+#11Keno,Thigh problems,2023-05-04,50.0,Fluminense_FC,50.0,1.0,Thigh problems,50.0,False
+#11Keno,Elbow injury,2021-01-26,24.0,Fluminense_FC,50.0,1.0,Thigh problems,50.0,False
+#90KevinSerna,Thigh problems,2024-10-09,30.0,Fluminense_FC,,,,,
+#90KevinSerna,Calf injury,2024-08-08,10.0,Fluminense_FC,,,,,
+#90KevinSerna,unknown injury,2022-07-25,6.0,Fluminense_FC,,,,,
+#45Lima,Hamstring injury,2025-05-04,20.0,Fluminense_FC,,,,,
+#45Lima,Calf injury,2025-02-27,17.0,Fluminense_FC,,,,,
+#45Lima,Hamstring injury,2024-06-28,26.0,Fluminense_FC,,,,,
+#26Manoel,Hamstring injury,2024-06-18,40.0,Fluminense_FC,,,,,
+#26Manoel,Injury to the ankle,2024-03-17,30.0,Fluminense_FC,,,,,
+#26Manoel,Fitness,2020-01-31,10.0,Fluminense_FC,,,,,
+#8Martinelli,Injury to the ankle,2024-08-14,6.0,Fluminense_FC,48.0,1.0,Hamstring injury,48.0,False
+#8Martinelli,Hamstring injury,2023-04-03,48.0,Fluminense_FC,48.0,1.0,Hamstring injury,48.0,False
+#8Martinelli,Hip bruise,2021-09-12,8.0,Fluminense_FC,48.0,1.0,Hamstring injury,48.0,False
+#16Nonato,Broken nose bone,2024-09-22,40.0,Fluminense_FC,,,,,
+#16Nonato,ankle sprain,2024-08-02,18.0,Fluminense_FC,,,,,
+#94Otávio,Achilles tendon rupture,2025-03-17,105.0,Fluminense_FC,,,,,
+#94Otávio,Shoulder injury,2024-09-13,19.0,Fluminense_FC,,,,,
+#94Otávio,Hamstring injury,2024-05-16,48.0,Fluminense_FC,,,,,
+#94Otávio,Achilles tendon rupture,2021-01-20,182.0,Fluminense_FC,,,,,
+#6Renê,Head injury,2024-07-08,8.0,Fluminense_FC,32.0,1.0,Thigh problems,32.0,False
+#6Renê,Knock,2024-06-18,5.0,Fluminense_FC,32.0,1.0,Thigh problems,32.0,False
+#6Renê,Thigh problems,2023-10-30,32.0,Fluminense_FC,32.0,1.0,Thigh problems,32.0,False
+#6Renê,Muscle injury,2022-06-14,46.0,Fluminense_FC,32.0,1.0,Thigh problems,32.0,False
+#6Renê,Knock,2021-07-28,52.0,Fluminense_FC,32.0,1.0,Thigh problems,32.0,False
+#28Riquelme,Knee injury,2025-03-17,65.0,Fluminense_FC,,,,,
+#2Samuel Xavier,Knee problems,2024-06-18,6.0,Fluminense_FC,8.0,1.0,Hamstring injury,8.0,False
+#2Samuel Xavier,Broken foot,2024-04-27,45.0,Fluminense_FC,8.0,1.0,Hamstring injury,8.0,False
+#2Samuel Xavier,Hamstring injury,2023-05-08,8.0,Fluminense_FC,8.0,1.0,Hamstring injury,8.0,False
+#29Thiago Santos,Knee problems,2025-02-09,17.0,Fluminense_FC,,,,,
+#29Thiago Santos,Hamstring injury,2024-04-12,40.0,Fluminense_FC,,,,,
+#3ThiagoSilva,Hamstring injury,2025-04-14,27.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+#3ThiagoSilva,Heel injury,2025-02-09,28.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+#3ThiagoSilva,Heel injury,2024-09-26,36.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+#3ThiagoSilva,Ankle injury,2024-09-19,6.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+#3ThiagoSilva,unknown injury,2024-05-01,5.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+#3ThiagoSilva,unknown injury,2024-02-13,18.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+#3ThiagoSilva,Ligament injury,2023-02-27,43.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+#3ThiagoSilva,Knee injury,2023-02-26,44.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+#3ThiagoSilva,Corona virus,2022-01-05,7.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+#3ThiagoSilva,Knee problems,2021-12-26,6.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+#3ThiagoSilva,Thigh problems,2021-02-05,31.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+#3ThiagoSilva,Knock,2020-09-10,13.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+#3ThiagoSilva,Hamstring strain,2020-02-24,21.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+#3ThiagoSilva,Groin injury,2020-01-27,15.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+#3ThiagoSilva,Ill,2019-10-30,5.0,Fluminense_FC,87.0,2.0,Ligament injury,43.5,True
+YefersonSoteldo,Muscle injury,2025-06-15,15.0,Fluminense_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Hamstring muscle injury,2025-05-19,19.0,Fluminense_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Hamstring injury,2025-04-14,20.0,Fluminense_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Adductor injury,2025-03-27,10.0,Fluminense_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,muscular problems,2024-09-27,5.0,Fluminense_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Thigh problems,2024-02-01,61.0,Fluminense_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Muscle injury,2023-04-30,23.0,Fluminense_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Hamstring injury,2022-10-08,100.0,Fluminense_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Thigh problems,2018-09-19,4.0,Fluminense_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Torn muscle bundle,2018-04-30,13.0,Fluminense_FC,46.0,2.0,Muscle injury,23.0,False
+YefersonSoteldo,Knee injury,2017-03-27,11.0,Fluminense_FC,46.0,2.0,Muscle injury,23.0,False
+#3AgustínRogel,Thigh problems,2024-09-26,23.0,Internacional,311.0,3.0,Knee surgery,103.66666666666669,True
+#3AgustínRogel,Knee surgery,2023-07-01,283.0,Internacional,311.0,3.0,Knee surgery,103.66666666666669,True
+#3AgustínRogel,Knee surgery,2023-06-26,5.0,Internacional,311.0,3.0,Knee surgery,103.66666666666669,True
+#3AgustínRogel,Knee injury,2023-01-25,23.0,Internacional,311.0,3.0,Knee surgery,103.66666666666669,True
+#3AgustínRogel,Broken collarbone,2019-08-11,93.0,Internacional,311.0,3.0,Knee surgery,103.66666666666669,True
+#2AlanBenítez,Muscle injury,2023-12-01,128.0,Internacional,128.0,1.0,Muscle injury,128.0,True
+#10Alan Patrick,ankle sprain,2025-02-13,23.0,Internacional,,,,,
+#10Alan Patrick,Muscle injury,2024-12-02,14.0,Internacional,,,,,
+#10Alan Patrick,Inner ligament stretch of the knee,2024-07-24,32.0,Internacional,,,,,
+#10Alan Patrick,Hamstring injury,2024-06-14,9.0,Internacional,,,,,
+#10Alan Patrick,Hamstring injury,2024-04-11,48.0,Internacional,,,,,
+#10Alan Patrick,unknown injury,2021-11-18,44.0,Internacional,,,,,
+#10Alan Patrick,unknown injury,2020-03-02,9.0,Internacional,,,,,
+#10Alan Patrick,unknown injury,2018-10-06,10.0,Internacional,,,,,
+#26AlexandroBernabei,Hamstring injury,2025-05-29,32.0,Internacional,,,,,
+#35BraianAguirre,Adductor injury,2024-08-15,38.0,Internacional,48.0,3.0,Ankle sprain,16.0,True
+#35BraianAguirre,Ankle sprain,2023-10-11,12.0,Internacional,48.0,3.0,Ankle sprain,16.0,True
+#35BraianAguirre,ankle sprain,2023-05-16,25.0,Internacional,48.0,3.0,Ankle sprain,16.0,True
+#35BraianAguirre,Knee injury,2023-03-09,11.0,Internacional,48.0,3.0,Ankle sprain,16.0,True
+#15Bruno Gomes,Cruciate ligament tear,2025-01-23,158.0,Internacional,31.0,1.0,Bruise on ankle,31.0,False
+#15Bruno Gomes,Bruise on ankle,2023-09-16,31.0,Internacional,31.0,1.0,Bruise on ankle,31.0,False
+#17BrunoTabata,Hamstring injury,2025-01-10,90.0,Internacional,51.0,1.0,Hamstring injury,51.0,False
+#17BrunoTabata,Virus,2024-09-30,19.0,Internacional,51.0,1.0,Hamstring injury,51.0,False
+#17BrunoTabata,Hamstring injury,2024-09-12,17.0,Internacional,51.0,1.0,Hamstring injury,51.0,False
+#17BrunoTabata,Hamstring injury,2023-03-20,51.0,Internacional,51.0,1.0,Hamstring injury,51.0,False
+#17BrunoTabata,Knee injury,2021-04-23,39.0,Internacional,51.0,1.0,Hamstring injury,51.0,False
+#17BrunoTabata,unknown injury,2021-04-10,5.0,Internacional,51.0,1.0,Hamstring injury,51.0,False
+#17BrunoTabata,Corona virus,2021-01-18,8.0,Internacional,51.0,1.0,Hamstring injury,51.0,False
+#17BrunoTabata,Muscle injury,2020-10-23,27.0,Internacional,51.0,1.0,Hamstring injury,51.0,False
+#17BrunoTabata,unknown injury,2018-12-25,16.0,Internacional,51.0,1.0,Hamstring injury,51.0,False
+#17BrunoTabata,unknown injury,2018-12-08,9.0,Internacional,51.0,1.0,Hamstring injury,51.0,False
+#17BrunoTabata,Hamstring injury,2018-03-17,27.0,Internacional,51.0,1.0,Hamstring injury,51.0,False
+#17BrunoTabata,Muscle injury,2018-03-06,7.0,Internacional,51.0,1.0,Hamstring injury,51.0,False
+#17BrunoTabata,unknown injury,2017-09-01,54.0,Internacional,51.0,1.0,Hamstring injury,51.0,False
+#20Clayton,Heel injury,2025-01-23,73.0,Internacional,,,,,
+#33Diego Rosa,Hamstring injury,2025-04-20,18.0,Internacional,,,,,
+#13EnnerValencia,Hamstring injury,2025-05-09,31.0,Internacional,19.0,2.0,Head injury,9.5,False
+#13EnnerValencia,Hip flexor problems,2024-07-14,9.0,Internacional,19.0,2.0,Head injury,9.5,False
+#13EnnerValencia,Foot injury,2024-04-01,58.0,Internacional,19.0,2.0,Head injury,9.5,False
+#13EnnerValencia,Foot bruise,2024-02-26,12.0,Internacional,19.0,2.0,Head injury,9.5,False
+#13EnnerValencia,Head injury,2023-04-29,8.0,Internacional,19.0,2.0,Head injury,9.5,False
+#13EnnerValencia,Meniscus injury,2023-03-19,11.0,Internacional,19.0,2.0,Head injury,9.5,False
+#13EnnerValencia,Knee problems,2022-12-26,10.0,Internacional,19.0,2.0,Head injury,9.5,False
+#13EnnerValencia,Knee injury,2022-11-29,18.0,Internacional,19.0,2.0,Head injury,9.5,False
+#13EnnerValencia,Foot injury,2022-02-28,15.0,Internacional,19.0,2.0,Head injury,9.5,False
+#13EnnerValencia,Ill,2022-01-14,3.0,Internacional,19.0,2.0,Head injury,9.5,False
+#13EnnerValencia,Fitness,2021-12-06,10.0,Internacional,19.0,2.0,Head injury,9.5,False
+#13EnnerValencia,Ankle injury,2021-10-30,38.0,Internacional,19.0,2.0,Head injury,9.5,False
+#13EnnerValencia,unknown injury,2021-08-12,10.0,Internacional,19.0,2.0,Head injury,9.5,False
+#13EnnerValencia,Partial muscle tear,2020-12-07,22.0,Internacional,19.0,2.0,Head injury,9.5,False
+#13EnnerValencia,Corona virus,2020-11-14,17.0,Internacional,19.0,2.0,Head injury,9.5,False
+#16FabricioBustos,Knee problems,2025-01-20,8.0,Internacional,20.0,1.0,Hamstring injury,20.0,False
+#16FabricioBustos,Torn muscle bundle,2024-10-07,13.0,Internacional,20.0,1.0,Hamstring injury,20.0,False
+#16FabricioBustos,Adductor injury,2024-07-17,6.0,Internacional,20.0,1.0,Hamstring injury,20.0,False
+#16FabricioBustos,Pelvic injury,2024-06-29,8.0,Internacional,20.0,1.0,Hamstring injury,20.0,False
+#16FabricioBustos,Hamstring injury,2023-04-06,20.0,Internacional,20.0,1.0,Hamstring injury,20.0,False
+#16FabricioBustos,Corona virus,2020-08-08,15.0,Internacional,20.0,1.0,Hamstring injury,20.0,False
+#5Fernando,Knee injury,2025-06-02,28.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#5Fernando,Calf injury,2024-10-20,32.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#5Fernando,Hamstring injury,2024-07-14,31.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#5Fernando,Shoulder injury,2024-04-17,12.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#5Fernando,Shoulder injury,2023-12-04,56.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#5Fernando,Groin problems,2023-11-02,5.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#5Fernando,Groin problems,2023-10-23,5.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#5Fernando,muscular problems,2023-08-25,18.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#5Fernando,Mononucleation,2022-09-18,47.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#5Fernando,Ankle injury,2022-02-28,124.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#5Fernando,Adductor injury,2020-03-02,60.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#5Fernando,Groin injury,2019-11-25,11.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#5Fernando,Knee problems,2019-02-14,33.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#5Fernando,Hamstring strain,2018-10-19,32.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#5Fernando,Knee medial ligament tear,2017-12-24,60.0,Internacional,84.0,4.0,Groin problems,21.0,True
+#34Gabriel Carvalho,Metatarsal fracture,2025-01-12,91.0,Internacional,,,,,
+#25GabrielMercado,Cruciate ligament tear,2024-09-23,280.0,Internacional,,,,,
+#25GabrielMercado,muscular problems,2024-07-28,17.0,Internacional,,,,,
+#25GabrielMercado,Knee problems,2024-02-24,18.0,Internacional,,,,,
+#25GabrielMercado,unknown injury,2022-10-07,25.0,Internacional,,,,,
+#25GabrielMercado,Outer ligament tear,2021-04-07,92.0,Internacional,,,,,
+#25GabrielMercado,Knee injury,2019-04-01,6.0,Internacional,,,,,
+#25GabrielMercado,Muscle injury,2018-10-29,13.0,Internacional,,,,,
+#25GabrielMercado,Broken arm,2018-09-03,47.0,Internacional,,,,,
+#25GabrielMercado,Back injury,2018-05-16,8.0,Internacional,,,,,
+#25GabrielMercado,Hamstring injury,2017-11-02,19.0,Internacional,,,,,
+#25GabrielMercado,Back injury,2017-10-26,5.0,Internacional,,,,,
+#25GabrielMercado,Knee injury,2017-03-27,8.0,Internacional,,,,,
+#25GabrielMercado,Muscle injury,2015-04-17,21.0,Internacional,,,,,
+#25GabrielMercado,Torn muscle bundle,2014-02-20,13.0,Internacional,,,,,
+#25GabrielMercado,Knee collateral ligament tear,2012-09-10,15.0,Internacional,,,,,
+Gustavo,Hamstring injury,2025-02-06,41.0,Internacional,,,,,
+#25IgorGomes,Thigh problems,2024-03-11,14.0,Internacional,,,,,
+#25IgorGomes,Hamstring injury,2024-01-26,23.0,Internacional,,,,,
+#25IgorGomes,Longitudinal tendon tear,2021-12-08,183.0,Internacional,,,,,
+#25IgorGomes,Ligament injury,2021-11-05,22.0,Internacional,,,,,
+#25IgorGomes,Leg injury,2021-08-13,50.0,Internacional,,,,,
+#25IgorGomes,Hamstring injury,2020-11-02,146.0,Internacional,,,,,
+#25IgorGomes,Muscle injury,2020-09-24,31.0,Internacional,,,,,
+#12Ivan,Cruciate ligament injury,2024-01-21,316.0,Internacional,,,,,
+#12Ivan,Cruciate ligament injury,2024-01-21,245.0,Internacional,,,,,
+#12Ivan,Wrist injury,2020-10-30,66.0,Internacional,,,,,
+#7JohanCarbonero,Hamstring injury,2025-04-14,77.0,Internacional,300.0,4.0,Fitness,75.0,True
+#7JohanCarbonero,Tonsillitis,2024-10-18,4.0,Internacional,300.0,4.0,Fitness,75.0,True
+#7JohanCarbonero,Sore muscles,2024-03-22,23.0,Internacional,300.0,4.0,Fitness,75.0,True
+#7JohanCarbonero,Muscle injury,2024-01-29,23.0,Internacional,300.0,4.0,Fitness,75.0,True
+#7JohanCarbonero,Fitness,2023-10-11,24.0,Internacional,300.0,4.0,Fitness,75.0,True
+#7JohanCarbonero,Torn muscle bundle,2023-10-08,62.0,Internacional,300.0,4.0,Fitness,75.0,True
+#7JohanCarbonero,Cruciate ligament tear,2023-03-18,207.0,Internacional,300.0,4.0,Fitness,75.0,True
+#7JohanCarbonero,Knock,2023-02-02,7.0,Internacional,300.0,4.0,Fitness,75.0,True
+#7JohanCarbonero,Torn muscle bundle,2022-08-16,23.0,Internacional,300.0,4.0,Fitness,75.0,True
+#7JohanCarbonero,Torn muscle bundle,2021-07-18,25.0,Internacional,300.0,4.0,Fitness,75.0,True
+#7JohanCarbonero,Corona virus,2021-04-08,9.0,Internacional,300.0,4.0,Fitness,75.0,True
+#18Juninho,Hamstring injury,2025-04-04,15.0,Internacional,,,,,
+#27Kaique Rocha,Hamstring injury,2024-11-10,25.0,Internacional,,,,,
+#48Lucca Drummond,Cruciate ligament injury,2024-12-07,207.0,Internacional,,,,,
+#45Lucca,muscular problems,2024-08-12,101.0,Internacional,,,,,
+#45Lucca,muscular problems,2024-07-21,14.0,Internacional,,,,,
+#45Lucca,Hamstring injury,2024-06-23,23.0,Internacional,,,,,
+#45Lucca,Thigh problems,2024-06-14,9.0,Internacional,,,,,
+#45Lucca,muscular problems,2024-05-27,9.0,Internacional,,,,,
+#39Luis Otávio,Hamstring injury,2025-02-03,33.0,Internacional,,,,,
+#18Mauricio,Shoulder injury,2025-02-17,51.0,Internacional,,,,,
+#18Mauricio,Inner ligament stretch of the knee,2024-10-12,14.0,Internacional,,,,,
+#18Mauricio,Bruised knee,2024-06-07,40.0,Internacional,,,,,
+#18Mauricio,Inner ligament stretch of the knee,2022-10-11,15.0,Internacional,,,,,
+#11ÓscarRomero,unknown injury,2024-01-17,14.0,Internacional,66.0,4.0,unknown injury,16.5,True
+#11ÓscarRomero,unknown injury,2023-12-25,17.0,Internacional,66.0,4.0,unknown injury,16.5,True
+#11ÓscarRomero,unknown injury,2023-10-27,19.0,Internacional,66.0,4.0,unknown injury,16.5,True
+#11ÓscarRomero,Forearm fracture,2023-09-28,19.0,Internacional,66.0,4.0,unknown injury,16.5,True
+#11ÓscarRomero,muscular problems,2023-07-03,11.0,Internacional,66.0,4.0,unknown injury,16.5,True
+#11ÓscarRomero,Thigh problems,2022-04-19,4.0,Internacional,66.0,4.0,unknown injury,16.5,True
+#11ÓscarRomero,Thigh problems,2022-03-11,7.0,Internacional,66.0,4.0,unknown injury,16.5,True
+#19RafaelBorré,Abdominal problems,2025-06-02,10.0,Internacional,,,,,
+#19RafaelBorré,Hamstring injury,2025-04-27,31.0,Internacional,,,,,
+#19RafaelBorré,Hamstring injury,2025-02-16,20.0,Internacional,,,,,
+#19RafaelBorré,Hamstring injury,2024-09-26,23.0,Internacional,,,,,
+#19RafaelBorré,Hamstring injury,2024-08-09,16.0,Internacional,,,,,
+#19RafaelBorré,Corona virus,2021-05-15,9.0,Internacional,,,,,
+#19RafaelBorré,Knock,2021-05-05,4.0,Internacional,,,,,
+#19RafaelBorré,Knock,2020-12-03,5.0,Internacional,,,,,
+#19RafaelBorré,Corona virus,2020-11-07,12.0,Internacional,,,,,
+#19RafaelBorré,Hip problems,2020-03-03,5.0,Internacional,,,,,
+#19RafaelBorré,Foot bruise,2018-10-25,6.0,Internacional,,,,,
+#2Ramon,Adductor injury,2024-08-11,20.0,Internacional,,,,,
+#49Ricardo Mathias,Hamstring injury,2025-05-26,17.0,Internacional,,,,,
+#16Ronaldo,Shoulder injury,2024-09-30,20.0,Internacional,,,,,
+#16Ronaldo,Knee injury,2022-05-22,47.0,Internacional,,,,,
+#16Ronaldo,Tonsillitis,2017-10-28,9.0,Internacional,,,,,
+#1SergioRochet,Broken hand,2025-03-30,92.0,Internacional,,,,,
+#1SergioRochet,Knee injury,2025-01-13,54.0,Internacional,,,,,
+#1SergioRochet,Bruised ribs,2024-01-16,66.0,Internacional,,,,,
+#1SergioRochet,Corona virus,2022-05-16,5.0,Internacional,,,,,
+#1SergioRochet,Inflammation in the ankle joint,2022-04-08,5.0,Internacional,,,,,
+#1SergioRochet,Hand injury,2021-10-23,80.0,Internacional,,,,,
+#1SergioRochet,unknown injury,2019-02-12,7.0,Internacional,,,,,
+#1SergioRochet,unknown injury,2018-11-01,6.0,Internacional,,,,,
+#1SergioRochet,Elbow injury,2015-09-25,7.0,Internacional,,,,,
+#29Thiago Maia,muscular problems,2024-11-09,22.0,Internacional,,,,,
+#29Thiago Maia,Hamstring injury,2024-07-01,41.0,Internacional,,,,,
+#29Thiago Maia,Ankle injury,2024-06-18,5.0,Internacional,,,,,
+#29Thiago Maia,Cruciate ligament tear,2020-12-01,212.0,Internacional,,,,,
+#29Thiago Maia,Corona virus,2020-11-21,10.0,Internacional,,,,,
+#29Thiago Maia,Knee injury,2020-01-05,11.0,Internacional,,,,,
+#29Thiago Maia,Foot injury,2019-11-27,17.0,Internacional,,,,,
+#29Thiago Maia,Fitness,2019-10-23,14.0,Internacional,,,,,
+#29Thiago Maia,unknown injury,2019-08-25,42.0,Internacional,,,,,
+#29Thiago Maia,Ankle injury,2019-04-27,5.0,Internacional,,,,,
+#29Thiago Maia,Leg injury,2019-01-18,16.0,Internacional,,,,,
+#41Victor Gabriel,Inner ankle ligament tear,2025-05-23,38.0,Internacional,,,,,
+#41Victor Gabriel,Hamstring injury,2025-03-17,33.0,Internacional,,,,,
+#4Vitão,Hamstring injury,2024-07-16,19.0,Internacional,39.0,2.0,Hamstring injury,19.5,False
+#4Vitão,Hamstring injury,2023-08-28,29.0,Internacional,39.0,2.0,Hamstring injury,19.5,False
+#4Vitão,Inflammation of ligaments in the knee,2023-05-15,10.0,Internacional,39.0,2.0,Hamstring injury,19.5,False
+#4Vitão,unknown injury,2021-10-02,13.0,Internacional,39.0,2.0,Hamstring injury,19.5,False
+#4Vitão,unknown injury,2020-12-09,24.0,Internacional,39.0,2.0,Hamstring injury,19.5,False
+#28Vitinho,Elbow injury,2025-06-02,28.0,Internacional,,,,,
+#28Vitinho,Broken finger,2025-04-30,25.0,Internacional,,,,,
+#28Vitinho,cold,2022-01-23,3.0,Internacional,,,,,
+#94Wanderson,Knee bruise,2025-05-19,13.0,Internacional,,,,,
+#94Wanderson,muscular problems,2024-08-12,35.0,Internacional,,,,,
+#94Wanderson,Muscle fatigue,2024-07-14,28.0,Internacional,,,,,
+#94Wanderson,ankle sprain,2024-04-22,48.0,Internacional,,,,,
+#94Wanderson,Thigh problems,2022-09-11,27.0,Internacional,,,,,
+#94Wanderson,Thigh problems,2022-06-20,28.0,Internacional,,,,,
+#94Wanderson,Ankle injury,2021-05-16,233.0,Internacional,,,,,
+#94Wanderson,unknown injury,2020-11-05,17.0,Internacional,,,,,
+#94Wanderson,Muscle injury,2020-09-22,43.0,Internacional,,,,,
+#94Wanderson,Muscle injury,2019-09-25,52.0,Internacional,,,,,
+#94Wanderson,unknown injury,2018-12-02,6.0,Internacional,,,,,
+#94Wanderson,Torn thigh muscle,2016-10-03,91.0,Internacional,,,,,
+#94Wanderson,unknown injury,2014-01-26,34.0,Internacional,,,,,
+#21Wesley,muscular problems,2025-04-14,5.0,Internacional,50.0,1.0,Shoulder injury,50.0,False
+#21Wesley,Hamstring injury,2025-02-12,24.0,Internacional,50.0,1.0,Shoulder injury,50.0,False
+#21Wesley,Inflammation of pubic bone,2024-06-27,10.0,Internacional,50.0,1.0,Shoulder injury,50.0,False
+#21Wesley,Shoulder injury,2023-12-29,50.0,Internacional,50.0,1.0,Shoulder injury,50.0,False
+#21Wesley,Inflammation of ligaments in the knee,2020-11-05,106.0,Internacional,50.0,1.0,Shoulder injury,50.0,False
+#32AgustínSant'Anna,Hamstring injury,2025-05-19,42.0,Red_Bull_Bragantino,26.0,2.0,muscular problems,13.0,False
+#32AgustínSant'Anna,Thigh problems,2025-02-21,54.0,Red_Bull_Bragantino,26.0,2.0,muscular problems,13.0,False
+#32AgustínSant'Anna,Hamstring strain,2024-11-27,22.0,Red_Bull_Bragantino,26.0,2.0,muscular problems,13.0,False
+#32AgustínSant'Anna,Knee problems,2024-10-04,43.0,Red_Bull_Bragantino,26.0,2.0,muscular problems,13.0,False
+#32AgustínSant'Anna,Tear of the lateral meniscus,2024-07-10,59.0,Red_Bull_Bragantino,26.0,2.0,muscular problems,13.0,False
+#32AgustínSant'Anna,Torn muscle bundle,2024-06-03,22.0,Red_Bull_Bragantino,26.0,2.0,muscular problems,13.0,False
+#32AgustínSant'Anna,muscular problems,2023-10-05,23.0,Red_Bull_Bragantino,26.0,2.0,muscular problems,13.0,False
+#32AgustínSant'Anna,unknown injury,2023-09-27,3.0,Red_Bull_Bragantino,26.0,2.0,muscular problems,13.0,False
+#32AgustínSant'Anna,Corona virus,2021-01-16,13.0,Red_Bull_Bragantino,26.0,2.0,muscular problems,13.0,False
+#32AgustínSant'Anna,Ankle injury,2017-05-23,15.0,Red_Bull_Bragantino,26.0,2.0,muscular problems,13.0,False
+#32AgustínSant'Anna,Knock,2017-02-16,19.0,Red_Bull_Bragantino,26.0,2.0,muscular problems,13.0,False
+#32AgustínSant'Anna,unknown injury,2016-05-16,19.0,Red_Bull_Bragantino,26.0,2.0,muscular problems,13.0,False
+#32AgustínSant'Anna,Hamstring injury,2015-11-20,4.0,Red_Bull_Bragantino,26.0,2.0,muscular problems,13.0,False
+#7Alerrandro,Muscle injury,2022-09-19,46.0,Red_Bull_Bragantino,,,,,
+#7Alerrandro,Hamstring strain,2020-10-10,44.0,Red_Bull_Bragantino,,,,,
+#1Cleiton,Virus,2025-04-17,10.0,Red_Bull_Bragantino,,,,,
+#1Cleiton,Hamstring injury,2024-08-04,21.0,Red_Bull_Bragantino,,,,,
+#39DouglasMendes,Hamstring injury,2025-05-19,24.0,Red_Bull_Bragantino,,,,,
+#8EduardoSasha,ankle sprain,2025-02-21,38.0,Red_Bull_Bragantino,,,,,
+#8EduardoSasha,Hamstring injury,2024-07-18,20.0,Red_Bull_Bragantino,,,,,
+#8EduardoSasha,Hamstring injury,2024-05-11,24.0,Red_Bull_Bragantino,,,,,
+#8EduardoSasha,muscular problems,2022-11-03,29.0,Red_Bull_Bragantino,,,,,
+#8EduardoSasha,Ankle injury,2015-05-29,41.0,Red_Bull_Bragantino,,,,,
+#3Eduardo,Hamstring injury,2024-11-25,52.0,Red_Bull_Bragantino,291.0,2.0,Torn lateral knee ligament,145.5,True
+#3Eduardo,pneumonia,2024-07-22,19.0,Red_Bull_Bragantino,291.0,2.0,Torn lateral knee ligament,145.5,True
+#3Eduardo,Torn lateral knee ligament,2023-07-10,282.0,Red_Bull_Bragantino,291.0,2.0,Torn lateral knee ligament,145.5,True
+#3Eduardo,Ill,2023-03-07,9.0,Red_Bull_Bragantino,291.0,2.0,Torn lateral knee ligament,145.5,True
+#3Eduardo,Muscle injury,2022-09-26,33.0,Red_Bull_Bragantino,291.0,2.0,Torn lateral knee ligament,145.5,True
+#3Eduardo,Ill,2022-09-05,10.0,Red_Bull_Bragantino,291.0,2.0,Torn lateral knee ligament,145.5,True
+#3Eduardo,Ankle problems,2020-02-01,17.0,Red_Bull_Bragantino,291.0,2.0,Torn lateral knee ligament,145.5,True
+#7Eric Ramires,Hamstring injury,2024-10-27,42.0,Red_Bull_Bragantino,,,,,
+#7Eric Ramires,Calf injury,2024-08-11,49.0,Red_Bull_Bragantino,,,,,
+#7Eric Ramires,Hamstring injury,2024-01-19,32.0,Red_Bull_Bragantino,,,,,
+#7Eric Ramires,Hamstring injury,2022-10-23,124.0,Red_Bull_Bragantino,,,,,
+#7Eric Ramires,Corona virus,2020-08-19,34.0,Red_Bull_Bragantino,,,,,
+#7Eric Ramires,unknown injury,2020-07-23,17.0,Red_Bull_Bragantino,,,,,
+#7Eric Ramires,Hamstring injury,2019-10-04,118.0,Red_Bull_Bragantino,,,,,
+#5Fabinho,Hamstring injury,2025-04-07,9.0,Red_Bull_Bragantino,,,,,
+#11Fernando,Tendonitis,2025-03-03,119.0,Red_Bull_Bragantino,274.0,3.0,Adductor pain,91.33333333333331,True
+#11Fernando,Hamstring injury,2024-04-07,314.0,Red_Bull_Bragantino,274.0,3.0,Adductor pain,91.33333333333331,True
+#11Fernando,Adductor pain,2023-11-11,28.0,Red_Bull_Bragantino,274.0,3.0,Adductor pain,91.33333333333331,True
+#11Fernando,Adductor pain,2023-09-02,67.0,Red_Bull_Bragantino,274.0,3.0,Adductor pain,91.33333333333331,True
+#11Fernando,Thigh problems,2023-02-22,179.0,Red_Bull_Bragantino,274.0,3.0,Adductor pain,91.33333333333331,True
+#11Fernando,Muscle injury,2022-09-14,109.0,Red_Bull_Bragantino,274.0,3.0,Adductor pain,91.33333333333331,True
+#11Fernando,unknown injury,2021-11-27,10.0,Red_Bull_Bragantino,274.0,3.0,Adductor pain,91.33333333333331,True
+#11Fernando,unknown injury,2021-09-17,28.0,Red_Bull_Bragantino,274.0,3.0,Adductor pain,91.33333333333331,True
+#11Fernando,Knee injury,2021-07-06,56.0,Red_Bull_Bragantino,274.0,3.0,Adductor pain,91.33333333333331,True
+#11Fernando,unknown injury,2020-10-16,21.0,Red_Bull_Bragantino,274.0,3.0,Adductor pain,91.33333333333331,True
+#11Fernando,Knock,2019-09-01,89.0,Red_Bull_Bragantino,274.0,3.0,Adductor pain,91.33333333333331,True
+#11Fernando,ankle sprain,2018-10-31,62.0,Red_Bull_Bragantino,274.0,3.0,Adductor pain,91.33333333333331,True
+#6Gabriel,Torn knee ligaments,2022-10-02,281.0,Red_Bull_Bragantino,,,,,
+#6Gabriel,Cruciate ligament tear,2015-08-03,183.0,Red_Bull_Bragantino,,,,,
+#31Guilherme Lopes,Hamstring injury,2025-04-28,24.0,Red_Bull_Bragantino,,,,,
+#22Gustavo Neves,Hamstring injury,2024-11-21,14.0,Red_Bull_Bragantino,,,,,
+#11Helinho,Hamstring injury,2024-10-17,23.0,Red_Bull_Bragantino,54.0,1.0,Knee problems,54.0,False
+#11Helinho,Calf strain,2024-08-18,14.0,Red_Bull_Bragantino,54.0,1.0,Knee problems,54.0,False
+#11Helinho,Foot injury,2024-04-02,26.0,Red_Bull_Bragantino,54.0,1.0,Knee problems,54.0,False
+#11Helinho,Knee problems,2023-06-05,54.0,Red_Bull_Bragantino,54.0,1.0,Knee problems,54.0,False
+#11Helinho,Inner ligament stretch of the knee,2022-11-06,156.0,Red_Bull_Bragantino,54.0,1.0,Knee problems,54.0,False
+#30HenryMosquera,Hamstring injury,2025-05-06,55.0,Red_Bull_Bragantino,396.0,4.0,Knee injury,99.0,True
+#30HenryMosquera,Thigh problems,2025-04-21,14.0,Red_Bull_Bragantino,396.0,4.0,Knee injury,99.0,True
+#30HenryMosquera,Adductor injury,2024-10-20,20.0,Red_Bull_Bragantino,396.0,4.0,Knee injury,99.0,True
+#30HenryMosquera,Hamstring injury,2024-02-18,52.0,Red_Bull_Bragantino,396.0,4.0,Knee injury,99.0,True
+#30HenryMosquera,ankle sprain,2024-01-27,14.0,Red_Bull_Bragantino,396.0,4.0,Knee injury,99.0,True
+#30HenryMosquera,Knee injury,2023-06-24,99.0,Red_Bull_Bragantino,396.0,4.0,Knee injury,99.0,True
+#30HenryMosquera,Knee injury,2023-06-24,99.0,Red_Bull_Bragantino,396.0,4.0,Knee injury,99.0,True
+#30HenryMosquera,Knee injury,2023-06-24,99.0,Red_Bull_Bragantino,396.0,4.0,Knee injury,99.0,True
+#30HenryMosquera,Knee injury,2023-06-24,99.0,Red_Bull_Bragantino,396.0,4.0,Knee injury,99.0,True
+#33IgnacioLaquintana,Ankle injury,2023-04-23,113.0,Red_Bull_Bragantino,113.0,1.0,Ankle injury,113.0,True
+#33IgnacioLaquintana,Corona virus,2022-01-06,11.0,Red_Bull_Bragantino,113.0,1.0,Ankle injury,113.0,True
+#9IsidroPitta,Injury to the ankle,2022-11-03,80.0,Red_Bull_Bragantino,,,,,
+#21João Neto,unknown injury,2021-01-01,97.0,Red_Bull_Bragantino,,,,,
+#34José AndrésHurtado,Muscle fatigue,2025-05-06,12.0,Red_Bull_Bragantino,27.0,1.0,Adductor injury,27.0,False
+#34José AndrésHurtado,Thigh problems,2025-02-16,14.0,Red_Bull_Bragantino,27.0,1.0,Adductor injury,27.0,False
+#34José AndrésHurtado,Hamstring injury,2024-10-20,13.0,Red_Bull_Bragantino,27.0,1.0,Adductor injury,27.0,False
+#34José AndrésHurtado,Hamstring injury,2024-07-18,23.0,Red_Bull_Bragantino,27.0,1.0,Adductor injury,27.0,False
+#34José AndrésHurtado,Injury to the ankle,2024-04-25,33.0,Red_Bull_Bragantino,27.0,1.0,Adductor injury,27.0,False
+#34José AndrésHurtado,Adductor injury,2023-03-22,27.0,Red_Bull_Bragantino,27.0,1.0,Adductor injury,27.0,False
+#34José AndrésHurtado,unknown injury,2022-10-03,105.0,Red_Bull_Bragantino,27.0,1.0,Adductor injury,27.0,False
+#29JuninhoCapixaba,Hamstring injury,2025-06-01,29.0,Red_Bull_Bragantino,,,,,
+#29JuninhoCapixaba,Knee injury,2024-07-25,86.0,Red_Bull_Bragantino,,,,,
+#30LuanCândido,ankle sprain,2024-08-26,54.0,Red_Bull_Bragantino,240.0,2.0,Leg injury,120.0,True
+#30LuanCândido,Leg injury,2023-02-27,120.0,Red_Bull_Bragantino,240.0,2.0,Leg injury,120.0,True
+#40Lucão,ankle sprain,2025-04-21,52.0,Red_Bull_Bragantino,,,,,
+#40Lucão,Hamstring injury,2024-08-11,69.0,Red_Bull_Bragantino,,,,,
+#21Lucas Barbosa,Thigh problems,2025-01-17,44.0,Red_Bull_Bragantino,,,,,
+#21Lucas Barbosa,ankle sprain,2024-10-21,12.0,Red_Bull_Bragantino,,,,,
+#30LucasEvangelista,Hamstring injury,2025-04-07,13.0,Red_Bull_Bragantino,,,,,
+#30LucasEvangelista,Hamstring injury,2024-02-24,67.0,Red_Bull_Bragantino,,,,,
+#30LucasEvangelista,Muscle fatigue,2019-12-05,20.0,Red_Bull_Bragantino,,,,,
+#30LucasEvangelista,Inflammation in the knee,2017-02-18,30.0,Red_Bull_Bragantino,,,,,
+#30LucasEvangelista,Shoulder injury,2016-08-28,14.0,Red_Bull_Bragantino,,,,,
+#30LucasEvangelista,Abdominal problems,2016-02-05,15.0,Red_Bull_Bragantino,,,,,
+#30LucasEvangelista,surgery,2015-02-28,94.0,Red_Bull_Bragantino,,,,,
+#35Matheus Fernandes,Thigh problems,2025-04-07,9.0,Red_Bull_Bragantino,,,,,
+#35Matheus Fernandes,Hamstring injury,2025-01-15,20.0,Red_Bull_Bragantino,,,,,
+#35Matheus Fernandes,Hamstring injury,2024-08-01,45.0,Red_Bull_Bragantino,,,,,
+#35Matheus Fernandes,Hamstring injury,2024-06-21,26.0,Red_Bull_Bragantino,,,,,
+#35Matheus Fernandes,Muscle injury,2024-04-09,19.0,Red_Bull_Bragantino,,,,,
+#35Matheus Fernandes,Muscle injury,2024-02-18,24.0,Red_Bull_Bragantino,,,,,
+#35Matheus Fernandes,Muscle injury,2024-02-01,13.0,Red_Bull_Bragantino,,,,,
+#35Matheus Fernandes,muscular problems,2020-09-14,43.0,Red_Bull_Bragantino,,,,,
+#35Matheus Fernandes,Hamstring injury,2020-06-24,17.0,Red_Bull_Bragantino,,,,,
+#45Nathan Mendes,Thigh problems,2024-10-20,218.0,Red_Bull_Bragantino,,,,,
+#45Nathan Mendes,Foot bruise,2024-08-21,59.0,Red_Bull_Bragantino,,,,,
+#45Nathan Mendes,Ill,2024-04-12,16.0,Red_Bull_Bragantino,,,,,
+#14Pedro Henrique,Hamstring injury,2024-08-11,35.0,Red_Bull_Bragantino,81.0,1.0,Injury to the ankle,81.0,True
+#14Pedro Henrique,Inflammation of pubic bone,2024-07-29,9.0,Red_Bull_Bragantino,81.0,1.0,Injury to the ankle,81.0,True
+#14Pedro Henrique,Injury to the ankle,2023-07-14,81.0,Red_Bull_Bragantino,81.0,1.0,Injury to the ankle,81.0,True
+Praxedes,Hamstring injury,2024-06-09,25.0,Red_Bull_Bragantino,,,,,
+Praxedes,unknown injury,2022-10-03,105.0,Red_Bull_Bragantino,,,,,
+#18ThiagoBorbas,Hamstring injury,2024-09-16,86.0,Red_Bull_Bragantino,,,,,
+Vitinho,Hamstring injury,2018-02-09,19.0,Red_Bull_Bragantino,,,,,
+Vitinho,Pubic bone bruise,2017-12-14,6.0,Red_Bull_Bragantino,,,,,
+#28Adson,Leg injury,2025-04-06,6.0,Vasco_da_Gama,,,,,
+#28Adson,Broken tibia,2024-08-27,215.0,Vasco_da_Gama,,,,,
+#28Adson,Thigh problems,2022-10-21,87.0,Vasco_da_Gama,,,,,
+#90Alex Teixeira,Hamstring injury,2024-08-01,28.0,Vasco_da_Gama,,,,,
+#90Alex Teixeira,Knock,2024-07-16,5.0,Vasco_da_Gama,,,,,
+#90Alex Teixeira,Corona virus,2022-01-07,9.0,Vasco_da_Gama,,,,,
+#90Alex Teixeira,Partial muscle tear,2021-11-27,32.0,Vasco_da_Gama,,,,,
+#90Alex Teixeira,Hamstring strain,2021-09-11,20.0,Vasco_da_Gama,,,,,
+#90Alex Teixeira,Hamstring strain,2021-08-28,14.0,Vasco_da_Gama,,,,,
+#90Alex Teixeira,Quarantine,2021-08-10,7.0,Vasco_da_Gama,,,,,
+#90Alex Teixeira,Calf injury,2018-08-02,10.0,Vasco_da_Gama,,,,,
+#90Alex Teixeira,Hamstring injury,2016-01-21,20.0,Vasco_da_Gama,,,,,
+#90Alex Teixeira,unknown injury,2014-04-04,10.0,Vasco_da_Gama,,,,,
+#15BenjamínGarré,Muscle injury,2024-07-26,28.0,Vasco_da_Gama,32.0,1.0,Ankle injury,32.0,False
+#15BenjamínGarré,Muscle injury,2024-02-05,85.0,Vasco_da_Gama,32.0,1.0,Ankle injury,32.0,False
+#15BenjamínGarré,Ankle injury,2023-08-18,32.0,Vasco_da_Gama,32.0,1.0,Ankle injury,32.0,False
+#13Daniel Fuzato,Corona virus,2022-01-03,10.0,Vasco_da_Gama,,,,,
+#7David,Cruciate ligament tear,2024-09-30,273.0,Vasco_da_Gama,63.0,2.0,Knee injury,31.5,True
+#7David,Facial injury,2024-08-19,13.0,Vasco_da_Gama,63.0,2.0,Knee injury,31.5,True
+#7David,Knee injury,2023-04-15,41.0,Vasco_da_Gama,63.0,2.0,Knee injury,31.5,True
+#7David,Ligament stretching,2023-02-11,22.0,Vasco_da_Gama,63.0,2.0,Knee injury,31.5,True
+#10DimitriPayet,Knee problems,2025-04-16,75.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#10DimitriPayet,muscular problems,2024-11-06,15.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#10DimitriPayet,Thigh problems,2024-07-04,24.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#10DimitriPayet,Hamstring injury,2024-06-12,17.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#10DimitriPayet,Knock,2024-05-03,7.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#10DimitriPayet,Inflammation of ligaments in the knee,2024-04-03,24.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#10DimitriPayet,Ankle problems,2023-01-05,9.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#10DimitriPayet,Calf problems,2022-09-01,6.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#10DimitriPayet,Calf injury,2022-05-06,26.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#10DimitriPayet,Muscle injury,2022-03-12,8.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#10DimitriPayet,Calf problems,2021-10-01,16.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#10DimitriPayet,Thigh problems,2021-09-21,4.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#10DimitriPayet,muscular problems,2021-09-06,10.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#10DimitriPayet,Corona virus,2020-08-22,16.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#10DimitriPayet,Contracture,2020-02-12,10.0,Vasco_da_Gama,9.0,1.0,Ankle problems,9.0,False
+#14GuilhermeEstrella,Knee problems,2024-06-29,460.0,Vasco_da_Gama,,,,,
+#25Hugo Moura,ankle sprain,2024-05-02,31.0,Vasco_da_Gama,,,,,
+#25Hugo Moura,Thigh problems,2022-11-07,69.0,Vasco_da_Gama,,,,,
+#8Jair,Cruciate ligament injury,2024-02-05,262.0,Vasco_da_Gama,,,,,
+#38João Victor,Knee injury,2024-07-01,40.0,Vasco_da_Gama,,,,,
+#38João Victor,Ankle injury,2022-07-08,79.0,Vasco_da_Gama,,,,,
+#2José LuisRodríguez,Corona virus,2020-11-19,23.0,Vasco_da_Gama,,,,,
+#2José LuisRodríguez,Ankle injury,2018-03-20,11.0,Vasco_da_Gama,,,,,
+#20JuanSforza,Thigh problems,2023-07-06,4.0,Vasco_da_Gama,15.0,2.0,Thigh problems,7.5,False
+#20JuanSforza,ankle sprain,2023-03-29,11.0,Vasco_da_Gama,15.0,2.0,Thigh problems,7.5,False
+#20JuanSforza,Ankle problems,2022-09-16,7.0,Vasco_da_Gama,15.0,2.0,Thigh problems,7.5,False
+#3Léo,Thigh problems,2022-07-17,9.0,Vasco_da_Gama,,,,,
+#3Léo,Corona virus,2021-03-09,14.0,Vasco_da_Gama,,,,,
+#45LoideAugusto,Fitness,2025-01-02,3.0,Vasco_da_Gama,4.0,1.0,muscular problems,4.0,False
+#45LoideAugusto,unknown injury,2024-10-27,17.0,Vasco_da_Gama,4.0,1.0,muscular problems,4.0,False
+#45LoideAugusto,unknown injury,2024-08-18,20.0,Vasco_da_Gama,4.0,1.0,muscular problems,4.0,False
+#45LoideAugusto,unknown injury,2024-04-14,11.0,Vasco_da_Gama,4.0,1.0,muscular problems,4.0,False
+#45LoideAugusto,Fitness,2024-03-12,6.0,Vasco_da_Gama,4.0,1.0,muscular problems,4.0,False
+#45LoideAugusto,unknown injury,2024-03-04,9.0,Vasco_da_Gama,4.0,1.0,muscular problems,4.0,False
+#45LoideAugusto,muscular problems,2023-11-04,4.0,Vasco_da_Gama,4.0,1.0,muscular problems,4.0,False
+#23LucaOrellano,Leg injury,2025-05-12,5.0,Vasco_da_Gama,,,,,
+#23LucaOrellano,Leg injury,2025-02-20,12.0,Vasco_da_Gama,,,,,
+#43Lucas Freitas,Heel spur,2025-05-05,15.0,Vasco_da_Gama,,,,,
+#43Lucas Freitas,Shoulder injury,2024-08-12,30.0,Vasco_da_Gama,,,,,
+#43Lucas Freitas,stomach problems,2024-07-09,7.0,Vasco_da_Gama,,,,,
+#29Lucas Oliveira,Injury to the ankle,2023-07-24,8.0,Vasco_da_Gama,8.0,1.0,Injury to the ankle,8.0,False
+#6LucasPiton,muscular problems,2024-07-29,20.0,Vasco_da_Gama,,,,,
+#6LucasPiton,muscular problems,2022-11-07,52.0,Vasco_da_Gama,,,,,
+#22ManuelCapasso,Foot injury,2025-03-01,14.0,Vasco_da_Gama,,,,,
+#8MatíasGalarza Fonda,strain,2025-05-03,4.0,Vasco_da_Gama,,,,,
+#4MauricioLemos,Bone splintering,2025-04-09,38.0,Vasco_da_Gama,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Hamstring injury,2024-06-23,70.0,Vasco_da_Gama,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Back injury,2024-05-05,12.0,Vasco_da_Gama,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Calf injury,2024-02-06,32.0,Vasco_da_Gama,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Muscle injury,2023-06-22,6.0,Vasco_da_Gama,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Torn ankle ligaments,2020-11-30,29.0,Vasco_da_Gama,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,unknown injury,2019-09-30,17.0,Vasco_da_Gama,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Muscle injury,2019-08-07,22.0,Vasco_da_Gama,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,ankle sprain,2019-05-22,10.0,Vasco_da_Gama,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,unknown injury,2018-12-27,15.0,Vasco_da_Gama,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,unknown injury,2018-08-09,16.0,Vasco_da_Gama,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Abdominal problems,2017-11-27,7.0,Vasco_da_Gama,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,ankle sprain,2016-10-11,5.0,Vasco_da_Gama,12.0,2.0,Muscle injury,6.0,False
+#4MauricioLemos,Appendicitis,2015-02-01,37.0,Vasco_da_Gama,12.0,2.0,Muscle injury,6.0,False
+#17NunoMoreira,unknown injury,2023-12-10,37.0,Vasco_da_Gama,37.0,1.0,unknown injury,37.0,False
+#18Paulinho Paula,Virus,2025-06-01,29.0,Vasco_da_Gama,,,,,
+#18Paulinho Paula,Cruciate ligament injury,2024-01-28,307.0,Vasco_da_Gama,,,,,
+#11PhilippeCoutinho,Hamstring injury,2024-08-04,42.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#11PhilippeCoutinho,Fitness,2024-07-09,12.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#11PhilippeCoutinho,unknown injury,2023-11-08,34.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#11PhilippeCoutinho,Hamstring injury,2023-08-20,37.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#11PhilippeCoutinho,unknown injury,2023-08-20,36.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#11PhilippeCoutinho,Hamstring injury,2022-11-05,51.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#11PhilippeCoutinho,Corona virus,2021-12-30,15.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#11PhilippeCoutinho,Fitness,2021-08-08,18.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#11PhilippeCoutinho,Tear of the lateral meniscus,2020-12-30,221.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#11PhilippeCoutinho,Hamstring injury,2020-10-25,27.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#11PhilippeCoutinho,Ankle problems,2020-04-24,63.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#11PhilippeCoutinho,Hamstring injury,2019-05-13,11.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#11PhilippeCoutinho,Torn muscle bundle,2018-11-07,20.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#11PhilippeCoutinho,Hamstring injury,2017-12-30,26.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#11PhilippeCoutinho,Knock,2017-10-26,13.0,Vasco_da_Gama,107.0,3.0,unknown injury,35.666666666666664,True
+#66Riquelme,Torn lateral knee ligament,2022-07-21,345.0,Vasco_da_Gama,,,,,
+#3Souza,Knock,2024-07-16,12.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Souza,Knee problems,2023-01-14,24.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Souza,Knee problems,2023-01-05,9.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Souza,Inflammation in the knee,2022-11-05,48.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Souza,Fitness,2022-08-22,9.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Souza,Meniscus tear,2022-07-18,36.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Souza,Hamstring strain,2022-02-26,11.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Souza,unknown injury,2022-02-10,8.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Souza,Hamstring strain,2022-01-22,14.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Souza,Hamstring strain,2021-10-25,7.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Souza,Partial muscle tear,2020-12-26,8.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Souza,unknown injury,2020-12-03,5.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Souza,Corona virus,2020-07-26,15.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Souza,Knee injury,2020-01-29,28.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Souza,Injury to abdominal muscles,2019-01-22,120.0,Vasco_da_Gama,33.0,2.0,Knee problems,16.5,False
+#3Tchê Tchê,Knee injury,2025-02-24,34.0,Vasco_da_Gama,,,,,
+#12Victor Luís,muscular problems,2024-10-14,22.0,Vasco_da_Gama,,,,,
+#7Ademir,Muscle injury,2025-05-08,20.0,Bahia,,,,,
+#7Ademir,Hamstring injury,2024-07-22,38.0,Bahia,,,,,
+André Dhominique,Cruciate ligament injury,2024-06-26,369.0,Bahia,,,,,
+#30Biel,Lumbar vertebra problems,2024-10-26,25.0,Bahia,,,,,
+#30Biel,Back problems,2024-08-12,67.0,Bahia,,,,,
+#30Biel,Injury to the ankle,2024-07-14,7.0,Bahia,,,,,
+#30Biel,Hamstring injury,2022-10-17,76.0,Bahia,,,,,
+#19Caio Alexandre,Foot surgery,2021-08-24,277.0,Bahia,,,,,
+#19Caio Alexandre,Foot injury,2021-08-15,9.0,Bahia,,,,,
+#8Cauly,unknown injury,2022-08-02,23.0,Bahia,,,,,
+#8Cauly,Broken fibula,2021-08-25,86.0,Bahia,,,,,
+#8Cauly,Thigh problems,2018-11-07,22.0,Bahia,,,,,
+#8Cauly,Thigh problems,2018-10-27,3.0,Bahia,,,,,
+#8Cauly,Virus,2018-02-01,46.0,Bahia,,,,,
+#8Cauly,Torn muscle fiber,2015-10-05,25.0,Bahia,,,,,
+#8Cauly,Torn muscle fiber,2015-08-05,20.0,Bahia,,,,,
+#1Danilo Fernandes,Knee injury,2022-09-02,260.0,Bahia,,,,,
+#33David Duarte,Hamstring injury,2024-11-21,77.0,Bahia,,,,,
+#33David Duarte,flu,2024-07-01,12.0,Bahia,,,,,
+#14Erick,Hamstring injury,2025-05-19,42.0,Bahia,,,,,
+#14Erick,muscular problems,2024-11-17,14.0,Bahia,,,,,
+#10Everton Ribeiro,Foot injury,2019-07-21,11.0,Bahia,,,,,
+#3Gabriel Xavier,Calf injury,2025-03-31,30.0,Bahia,,,,,
+#2Gilberto,Knee injury,2025-05-01,17.0,Bahia,4.0,1.0,flu,4.0,False
+#2Gilberto,Thigh problems,2024-08-05,27.0,Bahia,4.0,1.0,flu,4.0,False
+#2Gilberto,flu,2023-01-09,4.0,Bahia,4.0,1.0,flu,4.0,False
+#2Gilberto,Tonsillitis,2022-02-01,9.0,Bahia,4.0,1.0,flu,4.0,False
+#2Gilberto,Muscle injury,2021-02-12,5.0,Bahia,4.0,1.0,flu,4.0,False
+#2Gilberto,Corona virus,2021-01-19,9.0,Bahia,4.0,1.0,flu,4.0,False
+#2Gilberto,unknown injury,2015-09-29,27.0,Bahia,4.0,1.0,flu,4.0,False
+#25Iago,Thigh problems,2025-04-07,14.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#25Iago,Muscle injury,2024-10-29,116.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#25Iago,Foot bruise,2024-04-01,36.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#25Iago,Thigh problems,2023-12-06,17.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#25Iago,Muscle injury,2023-04-23,69.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#25Iago,Achilles tendon problems,2023-01-01,46.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#25Iago,Thigh problems,2022-09-19,11.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#25Iago,minor knock,2022-09-01,8.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#25Iago,muscular problems,2022-01-17,18.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#25Iago,Hand injury,2021-10-28,19.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#25Iago,Shoulder injury,2021-09-16,26.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#25Iago,Knee problems,2021-05-20,12.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#25Iago,Ankle injury,2021-02-01,71.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#25Iago,Neck injury,2021-01-11,11.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#25Iago,bruise,2020-11-30,18.0,Bahia,132.0,3.0,Thigh problems,44.0,True
+#6Jean Lucas,Corona virus,2021-12-30,8.0,Bahia,,,,,
+#13JhoannerChávez,ankle sprain,2025-01-06,136.0,Bahia,,,,,
+#13JhoannerChávez,Dead leg,2024-04-29,16.0,Bahia,,,,,
+#13JhoannerChávez,Calf injury,2024-02-26,23.0,Bahia,,,,,
+#13JhoannerChávez,Knee injury,2022-02-06,55.0,Bahia,,,,,
+#4Kanu,Muscle injury,2025-04-14,77.0,Bahia,,,,,
+#37Kayky,Muscle injury,2024-11-09,32.0,Bahia,456.0,1.0,Torn knee ligaments,456.0,True
+#37Kayky,Torn knee ligaments,2023-07-17,456.0,Bahia,456.0,1.0,Torn knee ligaments,456.0,True
+#37Kayky,Knee problems,2021-10-01,24.0,Bahia,456.0,1.0,Torn knee ligaments,456.0,True
+Léo Cittadini,Hamstring injury,2023-04-23,69.0,Bahia,69.0,1.0,Hamstring injury,69.0,True
+Léo Cittadini,Knee problems,2022-11-03,73.0,Bahia,69.0,1.0,Hamstring injury,69.0,True
+#46LucianoJuba,muscular problems,2023-06-24,6.0,Bahia,6.0,1.0,muscular problems,6.0,False
+#9LucianoRodríguez,Muscle fatigue,2025-04-11,6.0,Bahia,,,,,
+#22Marcos Felipe,Head injury,2024-12-04,6.0,Bahia,,,,,
+#15MichelAraújo,Hamstring injury,2025-03-20,38.0,Bahia,19.0,1.0,Muscle injury,19.0,False
+#15MichelAraújo,Inner ligament stretch of the knee,2024-09-26,55.0,Bahia,19.0,1.0,Muscle injury,19.0,False
+#15MichelAraújo,Knee injury,2024-07-02,9.0,Bahia,19.0,1.0,Muscle injury,19.0,False
+#15MichelAraújo,Muscle injury,2023-06-15,19.0,Bahia,19.0,1.0,Muscle injury,19.0,False
+#15MichelAraújo,Thigh problems,2021-01-22,12.0,Bahia,19.0,1.0,Muscle injury,19.0,False
+#15MichelAraújo,Corona virus,2020-11-18,15.0,Bahia,19.0,1.0,Muscle injury,19.0,False
+#15MichelAraújo,Calf problems,2020-10-10,12.0,Bahia,19.0,1.0,Muscle injury,19.0,False
+#15MichelAraújo,Muscle injury,2018-07-23,51.0,Bahia,19.0,1.0,Muscle injury,19.0,False
+#15MichelAraújo,Muscle injury,2018-05-08,15.0,Bahia,19.0,1.0,Muscle injury,19.0,False
+#26NicolásAcevedo,Cruciate ligament injury,2023-12-06,317.0,Bahia,317.0,1.0,Cruciate ligament injury,317.0,True
+#26NicolásAcevedo,Abdominal problems,2021-10-11,54.0,Bahia,317.0,1.0,Cruciate ligament injury,317.0,True
+#9Rafael Ratão,Muscle injury,2023-10-29,3.0,Bahia,3.0,1.0,Muscle injury,3.0,False
+#9Rafael Ratão,flu,2022-10-27,6.0,Bahia,3.0,1.0,Muscle injury,3.0,False
+#9Rafael Ratão,Muscle injury,2022-09-05,30.0,Bahia,3.0,1.0,Muscle injury,3.0,False
+#9Rafael Ratão,minor knock,2021-03-02,7.0,Bahia,3.0,1.0,Muscle injury,3.0,False
+#9Rafael Ratão,unknown injury,2020-06-12,10.0,Bahia,3.0,1.0,Muscle injury,3.0,False
+#9Rafael Ratão,unknown injury,2019-08-30,39.0,Bahia,3.0,1.0,Muscle injury,3.0,False
+#9Rafael Ratão,unknown injury,2019-03-12,6.0,Bahia,3.0,1.0,Muscle injury,3.0,False
+#5Rezende,Lumbar vertebra problems,2025-05-11,50.0,Bahia,,,,,
+#5Rezende,Hamstring injury,2024-09-22,72.0,Bahia,,,,,
+#5Rezende,Muscle injury,2024-07-28,28.0,Bahia,,,,,
+#5Rezende,Inner ligament stretch of the knee,2024-01-25,21.0,Bahia,,,,,
+#11RodrigoNestor,ankle sprain,2024-09-02,20.0,Bahia,310.0,2.0,Knee injury,155.0,True
+#11RodrigoNestor,Knee injury,2023-11-06,155.0,Bahia,310.0,2.0,Knee injury,155.0,True
+#96Ronaldo,Hamstring injury,2025-04-18,33.0,Bahia,,,,,
+#96Ronaldo,Knee injury,2025-01-20,20.0,Bahia,,,,,
+#96Ronaldo,muscular problems,2024-07-25,24.0,Bahia,,,,,
+#96Ronaldo,Shoulder injury,2022-08-01,3.0,Bahia,,,,,
+#13SantiagoArias,Hamstring injury,2025-04-18,37.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#13SantiagoArias,Leg injury,2023-10-13,21.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#13SantiagoArias,Calf injury,2023-04-17,27.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#13SantiagoArias,Leg injury,2023-03-01,15.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#13SantiagoArias,Hamstring injury,2021-12-23,128.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#13SantiagoArias,Broken fibula,2020-10-11,280.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#13SantiagoArias,Groin injury,2020-01-24,22.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#13SantiagoArias,Hamstring injury,2019-03-13,20.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#13SantiagoArias,Rib fracture,2018-09-08,17.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#13SantiagoArias,Groin injury,2017-11-06,15.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#13SantiagoArias,Knock,2017-08-26,6.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#13SantiagoArias,Ankle injury,2015-03-05,89.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#13SantiagoArias,Foot injury,2015-02-20,8.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#13SantiagoArias,Groin injury,2014-08-21,10.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#13SantiagoArias,Thigh problems,2012-10-30,25.0,Bahia,63.0,3.0,Leg injury,21.0,True
+#21SantiagoRamos Mingo,muscular problems,2024-11-04,7.0,Bahia,,,,,
+#21SantiagoRamos Mingo,unknown injury,2024-09-29,16.0,Bahia,,,,,
+#21SantiagoRamos Mingo,Knee injury,2024-05-12,20.0,Bahia,,,,,
+#21SantiagoRamos Mingo,Hamstring injury,2021-09-10,9.0,Bahia,,,,,
+#21SantiagoRamos Mingo,Corona virus,2021-07-10,7.0,Bahia,,,,,
+#21SantiagoRamos Mingo,Hamstring injury,2020-12-07,83.0,Bahia,,,,,
+#16Thaciano,Achilles tendon problems,2025-04-21,13.0,Bahia,,,,,
+#16Thaciano,Broken nose bone,2025-01-23,13.0,Bahia,,,,,
+#16Thaciano,unknown injury,2022-01-19,15.0,Bahia,,,,,
+#12Willian José,Muscle fatigue,2025-04-18,6.0,Bahia,10.0,1.0,unknown injury,10.0,False
+#12Willian José,unknown injury,2024-09-14,11.0,Bahia,10.0,1.0,unknown injury,10.0,False
+#12Willian José,unknown injury,2023-09-24,10.0,Bahia,10.0,1.0,unknown injury,10.0,False
+#12Willian José,Torn muscle fiber,2022-01-04,14.0,Bahia,10.0,1.0,unknown injury,10.0,False
+#12Willian José,Corona virus,2020-09-09,21.0,Bahia,10.0,1.0,unknown injury,10.0,False
+#12Willian José,Muscle injury,2019-03-04,25.0,Bahia,10.0,1.0,unknown injury,10.0,False
+#12Willian José,Torn muscle fiber,2018-09-01,20.0,Bahia,10.0,1.0,unknown injury,10.0,False
+#12Willian José,Metatarsal bruise,2018-02-05,26.0,Bahia,10.0,1.0,unknown injury,10.0,False
+#12Willian José,Hamstring injury,2017-04-27,15.0,Bahia,10.0,1.0,unknown injury,10.0,False
+#12Willian José,Muscle injury,2017-02-11,48.0,Bahia,10.0,1.0,unknown injury,10.0,False
+#12Willian José,Ankle injury,2016-12-11,9.0,Bahia,10.0,1.0,unknown injury,10.0,False
+#41Yago Felipe,muscular problems,2023-05-19,44.0,Bahia,44.0,1.0,muscular problems,44.0,False
+#11Arthur Gomes,Achilles tendon rupture,2025-04-12,79.0,Cruzeiro,,,,,
+#11Arthur Gomes,Shoulder injury,2025-03-15,21.0,Cruzeiro,,,,,
+#11Arthur Gomes,Thigh problems,2024-05-27,24.0,Cruzeiro,,,,,
+#1Cássio,Knee problems,2023-11-12,51.0,Cruzeiro,55.0,2.0,Knee problems,27.5,False
+#1Cássio,Intestinal virus,2023-02-10,4.0,Cruzeiro,55.0,2.0,Knee problems,27.5,False
+#1Cássio,Contracture,2020-11-26,6.0,Cruzeiro,55.0,2.0,Knee problems,27.5,False
+#88Christian,Dental surgery,2025-05-05,6.0,Cruzeiro,84.0,2.0,Hamstring injury,42.0,True
+#88Christian,Hamstring injury,2024-10-16,31.0,Cruzeiro,84.0,2.0,Hamstring injury,42.0,True
+#88Christian,Hamstring injury,2023-07-25,42.0,Cruzeiro,84.0,2.0,Hamstring injury,42.0,True
+#92Dudu,Calf injury,2024-08-08,24.0,Cruzeiro,582.0,2.0,Cruciate ligament tear,291.0,True
+#92Dudu,Cruciate ligament tear,2023-08-28,291.0,Cruzeiro,582.0,2.0,Cruciate ligament tear,291.0,True
+#21Eduardo,Muscle injury,2024-07-15,95.0,Cruzeiro,,,,,
+#21Eduardo,Hamstring injury,2024-05-21,26.0,Cruzeiro,,,,,
+#21Eduardo,Foot injury,2024-05-03,13.0,Cruzeiro,,,,,
+#21Eduardo,Ankle injury,2024-04-04,17.0,Cruzeiro,,,,,
+#21Eduardo,Muscle injury,2019-12-23,24.0,Cruzeiro,,,,,
+#21Eduardo,Muscle injury,2019-03-12,15.0,Cruzeiro,,,,,
+#21Eduardo,Cruciate ligament surgery,2017-11-18,226.0,Cruzeiro,,,,,
+#15Fabrício Bruno,Broken nose bone,2024-03-02,4.0,Cruzeiro,,,,,
+#15Fabrício Bruno,Broken toe,2022-03-30,109.0,Cruzeiro,,,,,
+#23Fagner,Muscle fatigue,2025-05-19,6.0,Cruzeiro,,,,,
+#23Fagner,Muscle fatigue,2025-04-18,8.0,Cruzeiro,,,,,
+#23Fagner,Hamstring injury,2024-05-28,49.0,Cruzeiro,,,,,
+#23Fagner,Virus,2013-02-18,10.0,Cruzeiro,,,,,
+#9Gabriel Barbosa,Thigh problems,2025-05-05,6.0,Cruzeiro,,,,,
+#9Gabriel Barbosa,Thigh problems,2024-09-16,10.0,Cruzeiro,,,,,
+#9Gabriel Barbosa,Hamstring injury,2024-08-16,28.0,Cruzeiro,,,,,
+#77Japa,Inflammation of the biceps tendon in the thigh,2025-01-23,134.0,Cruzeiro,,,,,
+#77Japa,Broken foot,2024-09-02,54.0,Cruzeiro,,,,,
+#77Japa,Foot injury,2024-02-21,99.0,Cruzeiro,,,,,
+#43João Marcelo,Torn knee ligaments,2025-02-02,148.0,Cruzeiro,,,,,
+#34Jonathan Jesus,Virus,2025-03-27,10.0,Cruzeiro,,,,,
+#19JuanDinenno,Cruciate ligament injury,2024-08-28,232.0,Cruzeiro,,,,,
+#19JuanDinenno,Pubic bone bruise,2024-05-27,58.0,Cruzeiro,,,,,
+#19JuanDinenno,Broken nose bone,2024-04-13,44.0,Cruzeiro,,,,,
+#6Kaiki,Muscle injury,2024-01-26,69.0,Cruzeiro,,,,,
+#19Kaio Jorge,Hamstring injury,2024-11-27,35.0,Cruzeiro,147.0,2.0,unknown injury,73.5,True
+#19Kaio Jorge,unknown injury,2024-05-24,6.0,Cruzeiro,147.0,2.0,unknown injury,73.5,True
+#19Kaio Jorge,unknown injury,2024-03-30,9.0,Cruzeiro,147.0,2.0,unknown injury,73.5,True
+#19Kaio Jorge,unknown injury,2023-09-26,27.0,Cruzeiro,147.0,2.0,unknown injury,73.5,True
+#19Kaio Jorge,Fitness,2023-02-15,120.0,Cruzeiro,147.0,2.0,unknown injury,73.5,True
+#19Kaio Jorge,Patellar tendon rupture,2022-02-24,356.0,Cruzeiro,147.0,2.0,unknown injury,73.5,True
+#19Kaio Jorge,influenza,2022-01-06,1.0,Cruzeiro,147.0,2.0,unknown injury,73.5,True
+#19Kaio Jorge,muscular problems,2021-08-23,39.0,Cruzeiro,147.0,2.0,unknown injury,73.5,True
+#19Kaio Jorge,muscular problems,2021-02-15,53.0,Cruzeiro,147.0,2.0,unknown injury,73.5,True
+#26Lautaro Díaz,Thigh problems,2024-08-26,11.0,Cruzeiro,15.0,1.0,Muscle injury,15.0,False
+#26Lautaro Díaz,unknown injury,2024-03-01,58.0,Cruzeiro,15.0,1.0,Muscle injury,15.0,False
+#26Lautaro Díaz,Muscle injury,2023-05-19,15.0,Cruzeiro,15.0,1.0,Muscle injury,15.0,False
+#26Lautaro Díaz,Sore muscles,2022-01-30,15.0,Cruzeiro,15.0,1.0,Muscle injury,15.0,False
+#29LucasRomero,Torn muscle bundle,2022-09-27,17.0,Cruzeiro,,,,,
+#29LucasRomero,Torn muscle bundle,2021-08-09,23.0,Cruzeiro,,,,,
+#16Lucas Silva,heart problems,2016-07-09,177.0,Cruzeiro,,,,,
+#25Lucas Villalba,Muscle fatigue,2025-05-05,6.0,Cruzeiro,31.0,1.0,Ligament injury,31.0,False
+#25Lucas Villalba,Hamstring injury,2024-12-02,30.0,Cruzeiro,31.0,1.0,Ligament injury,31.0,False
+#25Lucas Villalba,Ligament injury,2023-11-18,31.0,Cruzeiro,31.0,1.0,Ligament injury,31.0,False
+#25Lucas Villalba,Corona virus,2020-08-13,15.0,Cruzeiro,31.0,1.0,Ligament injury,31.0,False
+#23Marlon,Chest injury,2024-07-08,14.0,Cruzeiro,,,,,
+#23Marlon,Tear of the lateral meniscus,2022-10-23,41.0,Cruzeiro,,,,,
+#23Marlon,unknown injury,2022-09-30,15.0,Cruzeiro,,,,,
+#23Marlon,Corona virus,2021-02-17,11.0,Cruzeiro,,,,,
+#23Marlon,Hamstring injury,2020-09-08,15.0,Cruzeiro,,,,,
+#23Marlon,Knee injury,2019-12-07,24.0,Cruzeiro,,,,,
+#7Marquinhos,Hamstring injury,2024-07-29,22.0,Cruzeiro,,,,,
+#7Marquinhos,Hamstring injury,2024-06-22,15.0,Cruzeiro,,,,,
+#14MateoGamarra,Knee bruise,2024-09-20,6.0,Cruzeiro,,,,,
+#14MateoGamarra,Calf injury,2024-05-06,6.0,Cruzeiro,,,,,
+#8Matheus Henrique,Meniscus injury,2025-04-10,81.0,Cruzeiro,54.0,1.0,Hamstring muscle injury,54.0,False
+#8Matheus Henrique,fracture,2024-11-27,35.0,Cruzeiro,54.0,1.0,Hamstring muscle injury,54.0,False
+#8Matheus Henrique,Hip flexor problems,2024-10-08,15.0,Cruzeiro,54.0,1.0,Hamstring muscle injury,54.0,False
+#8Matheus Henrique,Rest,2024-01-03,3.0,Cruzeiro,54.0,1.0,Hamstring muscle injury,54.0,False
+#8Matheus Henrique,Hamstring muscle injury,2023-10-02,54.0,Cruzeiro,54.0,1.0,Hamstring muscle injury,54.0,False
+#8Matheus Henrique,muscular problems,2022-04-10,6.0,Cruzeiro,54.0,1.0,Hamstring muscle injury,54.0,False
+#8Matheus Henrique,muscular problems,2021-12-20,47.0,Cruzeiro,54.0,1.0,Hamstring muscle injury,54.0,False
+#8Matheus Henrique,Groin injury,2019-05-25,48.0,Cruzeiro,54.0,1.0,Hamstring muscle injury,54.0,False
+#10Matheus Pereira,Muscle fatigue,2025-04-21,5.0,Cruzeiro,68.0,1.0,Knee injury,68.0,True
+#10Matheus Pereira,Knee injury,2023-08-08,68.0,Cruzeiro,68.0,1.0,Knee injury,68.0,True
+#10Matheus Pereira,Strain in the thigh and gluteal muscles,2019-05-05,28.0,Cruzeiro,68.0,1.0,Knee injury,68.0,True
+#5Walace,muscular problems,2025-04-02,7.0,Cruzeiro,,,,,
+#5Walace,Hamstring injury,2024-11-28,34.0,Cruzeiro,,,,,
+#5Walace,Tonsillitis,2024-09-16,10.0,Cruzeiro,,,,,
+#5Walace,Fitness,2024-07-09,15.0,Cruzeiro,,,,,
+#5Walace,muscular problems,2020-11-01,28.0,Cruzeiro,,,,,
+#5Walace,muscular problems,2020-09-17,37.0,Cruzeiro,,,,,
+#5Walace,Shoulder injury,2020-07-20,5.0,Cruzeiro,,,,,
+#5Walace,Ill,2018-11-23,6.0,Cruzeiro,,,,,
+#5Walace,Knee problems,2018-01-11,5.0,Cruzeiro,,,,,
+#5Walace,Back problems,2017-12-14,19.0,Cruzeiro,,,,,
+#5Walace,Knee bruise,2017-11-16,8.0,Cruzeiro,,,,,
+#94Wanderson,Knee bruise,2025-05-19,13.0,Cruzeiro,,,,,
+#94Wanderson,muscular problems,2024-08-12,35.0,Cruzeiro,,,,,
+#94Wanderson,Muscle fatigue,2024-07-14,28.0,Cruzeiro,,,,,
+#94Wanderson,ankle sprain,2024-04-22,48.0,Cruzeiro,,,,,
+#94Wanderson,Thigh problems,2022-09-11,27.0,Cruzeiro,,,,,
+#94Wanderson,Thigh problems,2022-06-20,28.0,Cruzeiro,,,,,
+#94Wanderson,Ankle injury,2021-05-16,233.0,Cruzeiro,,,,,
+#94Wanderson,unknown injury,2020-11-05,17.0,Cruzeiro,,,,,
+#94Wanderson,Muscle injury,2020-09-22,43.0,Cruzeiro,,,,,
+#94Wanderson,Muscle injury,2019-09-25,52.0,Cruzeiro,,,,,
+#94Wanderson,unknown injury,2018-12-02,6.0,Cruzeiro,,,,,
+#94Wanderson,Torn thigh muscle,2016-10-03,91.0,Cruzeiro,,,,,
+#94Wanderson,unknown injury,2014-01-26,34.0,Cruzeiro,,,,,
+#12William,Muscle fatigue,2025-04-18,13.0,Cruzeiro,,,,,
+#12William,Knee injury,2021-11-11,440.0,Cruzeiro,,,,,
+#12William,Fitness,2021-11-01,10.0,Cruzeiro,,,,,
+#12William,Cruciate ligament tear,2021-05-05,180.0,Cruzeiro,,,,,
+#12William,Cruciate ligament tear,2020-02-09,258.0,Cruzeiro,,,,,
+#11Yannick Bolasie,Knock,2025-04-07,19.0,Cruzeiro,,,,,
+#11Yannick Bolasie,unknown injury,2021-12-20,8.0,Cruzeiro,,,,,
+#11Yannick Bolasie,unknown injury,2021-11-22,8.0,Cruzeiro,,,,,
+#11Yannick Bolasie,Hamstring strain,2021-02-11,18.0,Cruzeiro,,,,,
+#11Yannick Bolasie,Cruciate ligament tear,2016-12-05,371.0,Cruzeiro,,,,,
+#11Yannick Bolasie,Calf muscle tear,2015-12-21,46.0,Cruzeiro,,,,,
+#2Zé Ivaldo,Corona virus,2020-11-24,17.0,Cruzeiro,,,,,
+#2Zé Ivaldo,Bone edema,2019-07-12,50.0,Cruzeiro,,,,,
+#20Alex Silva,Meniscus injury,2017-10-26,86.0,Coritiba,,,,,
+#20Alex Silva,Thigh problems,2015-02-28,185.0,Coritiba,,,,,
+#8Andrey,Torn lateral knee ligament,2022-05-28,282.0,Coritiba,,,,,
+#13BenjamínKuscevic,ankle sprain,2025-01-22,10.0,Coritiba,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Hamstring injury,2024-04-14,29.0,Coritiba,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Adductor injury,2023-05-06,16.0,Coritiba,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Corona virus,2020-11-20,15.0,Coritiba,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Ankle surgery,2020-09-21,51.0,Coritiba,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Ankle problems,2020-08-17,35.0,Coritiba,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Knee injury,2019-07-28,49.0,Coritiba,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,muscular problems,2019-05-15,12.0,Coritiba,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Inflammation in the knee,2018-07-28,10.0,Coritiba,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Skull fracture,2018-03-01,25.0,Coritiba,32.0,2.0,Adductor injury,16.0,False
+Bruno Viana,Corona virus,2020-12-27,10.0,Coritiba,,,,,
+#33Caio Matheus,Torn knee ligaments,2022-06-13,264.0,Coritiba,,,,,
+#27Carlosde Pena,Corona virus,2022-01-03,21.0,Coritiba,,,,,
+#27Carlosde Pena,unknown injury,2021-04-20,4.0,Coritiba,,,,,
+#27Carlosde Pena,unknown injury,2020-03-04,27.0,Coritiba,,,,,
+#27Carlosde Pena,Hamstring injury,2020-03-03,39.0,Coritiba,,,,,
+#27Carlosde Pena,Muscle injury,2018-05-07,16.0,Coritiba,,,,,
+#49Dellatorre,Calf strain,2023-04-30,71.0,Coritiba,71.0,1.0,Calf strain,71.0,True
+#49Dellatorre,Knee injury,2017-08-02,98.0,Coritiba,71.0,1.0,Calf strain,71.0,True
+#49Dellatorre,Knee injury,2017-05-19,29.0,Coritiba,71.0,1.0,Calf strain,71.0,True
+#37Everaldo,muscular problems,2024-07-28,22.0,Coritiba,,,,,
+#37Everaldo,Hamstring injury,2024-02-13,145.0,Coritiba,,,,,
+#37Everaldo,muscular problems,2021-11-09,84.0,Coritiba,,,,,
+#37Everaldo,Hamstring injury,2021-10-19,16.0,Coritiba,,,,,
+#8Filipe Machado,Hamstring injury,2023-11-30,61.0,Coritiba,61.0,1.0,Hamstring injury,61.0,True
+#8Filipe Machado,Lung contusion,2022-12-14,60.0,Coritiba,61.0,1.0,Hamstring injury,61.0,True
+#91Gustavo Coutinho,Muscle injury,2023-05-09,18.0,Coritiba,18.0,1.0,Muscle injury,18.0,False
+Iury Castilho,unknown injury,2024-06-02,45.0,Coritiba,,,,,
+Iury Castilho,Hamstring injury,2024-04-26,16.0,Coritiba,,,,,
+Iury Castilho,Adductor injury,2019-09-11,9.0,Coritiba,,,,,
+#10Josué,unknown injury,2018-11-27,4.0,Coritiba,,,,,
+#10Josué,unknown injury,2017-11-25,32.0,Coritiba,,,,,
+#10Josué,Hamstring injury,2016-03-21,18.0,Coritiba,,,,,
+#10Josué,minor knock,2016-03-03,5.0,Coritiba,,,,,
+#10Josué,Knock,2016-01-07,19.0,Coritiba,,,,,
+#9Júnior Brumado,Muscle injury,2022-08-29,156.0,Coritiba,,,,,
+#9Júnior Brumado,Knee injury,2022-05-12,50.0,Coritiba,,,,,
+#9Júnior Brumado,Ankle injury,2021-10-14,36.0,Coritiba,,,,,
+#9Júnior Brumado,Ankle injury,2020-10-08,169.0,Coritiba,,,,,
+#27Kaio César,Hamstring injury,2025-05-16,45.0,Coritiba,,,,,
+#3Maicon,Thigh problems,2022-09-30,35.0,Coritiba,,,,,
+#3Maicon,Muscle injury,2020-10-18,14.0,Coritiba,,,,,
+#3Maicon,unknown injury,2018-09-03,13.0,Coritiba,,,,,
+#3Maicon,Muscle fatigue,2016-02-08,12.0,Coritiba,,,,,
+#3Maicon,Torn muscle fiber,2015-10-05,29.0,Coritiba,,,,,
+#3Maicon,Bone sprain,2012-11-03,45.0,Coritiba,,,,,
+#3Maicon,Bone sprain,2009-12-09,8.0,Coritiba,,,,,
+#7Nicolas Careca,Knock,2022-08-22,146.0,Coritiba,,,,,
+#4Rodrigo Moledo,Knock,2025-04-01,90.0,Coritiba,,,,,
+#4Rodrigo Moledo,Cruciate ligament tear,2021-01-13,422.0,Coritiba,,,,,
+#4Rodrigo Moledo,Thigh problems,2019-09-26,36.0,Coritiba,,,,,
+#4Rodrigo Moledo,Thigh problems,2019-05-19,78.0,Coritiba,,,,,
+#4Rodrigo Moledo,Muscle injury,2018-09-19,34.0,Coritiba,,,,,
+#4Rodrigo Moledo,Knee injury,2018-07-05,29.0,Coritiba,,,,,
+#4Rodrigo Moledo,Head injury,2017-11-19,16.0,Coritiba,,,,,
+#4Rodrigo Moledo,Elbow injury,2017-08-21,29.0,Coritiba,,,,,
+#4Rodrigo Moledo,Broken nose bone,2017-05-29,45.0,Coritiba,,,,,
+#4Rodrigo Moledo,Muscle injury,2017-01-10,25.0,Coritiba,,,,,
+#4Rodrigo Moledo,Knee surgery,2015-05-20,170.0,Coritiba,,,,,
+#4Rodrigo Moledo,Hamstring injury,2013-11-04,8.0,Coritiba,,,,,
+#19SebastiánGómez,Arthroscopy,2022-11-18,102.0,Coritiba,,,,,
+#36Vini Paulista,Adductor injury,2024-04-21,26.0,Coritiba,,,,,
+#73Zeca,Calf injury,2017-05-29,64.0,Coritiba,,,,,
+#17AgustínCanobbio,Skull fracture,2025-05-15,33.0,Athletico_Paranaense,,,,,
+#17AgustínCanobbio,Bone edema,2024-10-19,43.0,Athletico_Paranaense,,,,,
+#17AgustínCanobbio,Injury to the ankle,2024-05-05,10.0,Athletico_Paranaense,,,,,
+#17AgustínCanobbio,Knock,2022-06-10,18.0,Athletico_Paranaense,,,,,
+#17AgustínCanobbio,Facial fracture,2022-03-06,34.0,Athletico_Paranaense,,,,,
+#17AgustínCanobbio,Leg injury,2020-08-30,86.0,Athletico_Paranaense,,,,,
+#17AgustínCanobbio,Rest,2019-05-25,3.0,Athletico_Paranaense,,,,,
+#17AgustínCanobbio,Rest,2019-03-02,4.0,Athletico_Paranaense,,,,,
+#17AgustínCanobbio,Stomach flu,2018-04-12,6.0,Athletico_Paranaense,,,,,
+#27Alan Kardec,Thigh problems,2023-10-23,17.0,Athletico_Paranaense,17.0,1.0,Thigh problems,17.0,False
+#27Alan Kardec,Herniated disc,2022-10-30,242.0,Athletico_Paranaense,17.0,1.0,Thigh problems,17.0,False
+#27Alan Kardec,Hip flexor problems,2022-08-27,21.0,Athletico_Paranaense,17.0,1.0,Thigh problems,17.0,False
+#27Alan Kardec,Muscle injury,2021-07-24,15.0,Athletico_Paranaense,17.0,1.0,Thigh problems,17.0,False
+#27Alan Kardec,Knee surgery,2015-04-01,184.0,Athletico_Paranaense,17.0,1.0,Thigh problems,17.0,False
+#27Alan Kardec,Achilles tendon problems,2010-08-06,44.0,Athletico_Paranaense,17.0,1.0,Thigh problems,17.0,False
+#24Bento,Abdominal muscle strain,2024-07-24,15.0,Athletico_Paranaense,35.0,1.0,Thigh problems,35.0,False
+#24Bento,Abdominal muscle strain,2024-07-24,15.0,Athletico_Paranaense,35.0,1.0,Thigh problems,35.0,False
+#24Bento,Thigh problems,2023-08-27,35.0,Athletico_Paranaense,35.0,1.0,Thigh problems,35.0,False
+#10BrunoZapelli,Injury to the ankle,2024-09-20,6.0,Athletico_Paranaense,,,,,
+#88Christian,Dental surgery,2025-05-05,6.0,Athletico_Paranaense,84.0,2.0,Hamstring injury,42.0,True
+#88Christian,Hamstring injury,2024-10-16,31.0,Athletico_Paranaense,84.0,2.0,Hamstring injury,42.0,True
+#88Christian,Hamstring injury,2023-07-25,42.0,Athletico_Paranaense,84.0,2.0,Hamstring injury,42.0,True
+#2Dudu,Knee problems,2024-06-14,12.0,Athletico_Paranaense,20.0,1.0,Thigh problems,20.0,False
+#2Dudu,Knock,2024-02-23,19.0,Athletico_Paranaense,20.0,1.0,Thigh problems,20.0,False
+#2Dudu,Thigh problems,2023-03-06,20.0,Athletico_Paranaense,20.0,1.0,Thigh problems,20.0,False
+#14Erick,Hamstring injury,2025-05-19,42.0,Athletico_Paranaense,,,,,
+#14Erick,muscular problems,2024-11-17,14.0,Athletico_Paranaense,,,,,
+#15FabrizioPeralta,Fitness,2024-07-19,22.0,Athletico_Paranaense,,,,,
+#5Felipinho,Ill,2024-06-18,50.0,Athletico_Paranaense,,,,,
+#6Fernando,ankle sprain,2024-09-02,17.0,Athletico_Paranaense,278.0,1.0,Torn lateral knee ligament,278.0,True
+#6Fernando,Torn lateral knee ligament,2023-06-23,278.0,Athletico_Paranaense,278.0,1.0,Torn lateral knee ligament,278.0,True
+#8Giuliano,Hamstring injury,2024-07-23,204.0,Athletico_Paranaense,,,,,
+#8Giuliano,Hamstring injury,2024-07-06,16.0,Athletico_Paranaense,,,,,
+#8Giuliano,Calf injury,2024-02-28,19.0,Athletico_Paranaense,,,,,
+#8Giuliano,unknown injury,2021-04-29,18.0,Athletico_Paranaense,,,,,
+#8Giuliano,unknown injury,2021-02-09,15.0,Athletico_Paranaense,,,,,
+#8Giuliano,unknown injury,2021-01-22,10.0,Athletico_Paranaense,,,,,
+#8Giuliano,Shoulder injury,2018-01-20,20.0,Athletico_Paranaense,,,,,
+#8Giuliano,Leg injury,2013-08-23,46.0,Athletico_Paranaense,,,,,
+#18HayenPalacios,Cruciate ligament injury,2022-08-09,403.0,Athletico_Paranaense,,,,,
+#11Isaac,Hamstring injury,2024-07-22,19.0,Athletico_Paranaense,,,,,
+#11Isaac,Hamstring injury,2024-06-18,33.0,Athletico_Paranaense,,,,,
+#20Julimar,Inflammation of ligaments in the knee,2024-11-17,225.0,Athletico_Paranaense,,,,,
+#20Julimar,Torn lateral knee ligament,2022-03-21,300.0,Athletico_Paranaense,,,,,
+LeonardoGodoy,Muscle injury,2024-01-16,40.0,Athletico_Paranaense,50.0,3.0,Muscle injury,16.666666666666668,True
+LeonardoGodoy,Knee injury,2023-08-25,17.0,Athletico_Paranaense,50.0,3.0,Muscle injury,16.666666666666668,True
+LeonardoGodoy,Muscle injury,2023-06-23,16.0,Athletico_Paranaense,50.0,3.0,Muscle injury,16.666666666666668,True
+LeonardoGodoy,Muscle injury,2023-02-12,17.0,Athletico_Paranaense,50.0,3.0,Muscle injury,16.666666666666668,True
+LeonardoGodoy,Broken fibula,2019-02-16,185.0,Athletico_Paranaense,50.0,3.0,Muscle injury,16.666666666666668,True
+#3Léo,Thigh problems,2022-07-17,9.0,Athletico_Paranaense,,,,,
+#3Léo,Corona virus,2021-03-09,14.0,Athletico_Paranaense,,,,,
+#37LucasEsquivel,Inflammation of pubic bone,2024-02-13,32.0,Athletico_Paranaense,,,,,
+#19Luiz Fernando,Muscle injury,2024-09-26,7.0,Athletico_Paranaense,,,,,
+Madson,Injury to the ankle,2024-10-27,246.0,Athletico_Paranaense,,,,,
+Madson,Broken hand,2022-09-20,19.0,Athletico_Paranaense,,,,,
+#88Patrick,Muscle injury,2024-04-05,31.0,Athletico_Paranaense,,,,,
+#88Patrick,muscular problems,2022-07-24,12.0,Athletico_Paranaense,,,,,
+Praxedes,Hamstring injury,2024-06-09,25.0,Athletico_Paranaense,,,,,
+Praxedes,unknown injury,2022-10-03,105.0,Athletico_Paranaense,,,,,
+#31Raul,ankle sprain,2024-04-25,36.0,Athletico_Paranaense,244.0,1.0,Torn lateral knee ligament,244.0,True
+#31Raul,Torn lateral knee ligament,2023-01-30,244.0,Athletico_Paranaense,244.0,1.0,Torn lateral knee ligament,244.0,True
+#50Renan Viana,Cruciate ligament tear,2024-10-08,251.0,Athletico_Paranaense,,,,,
+#70Renan,Hip flexor problems,2024-04-19,36.0,Athletico_Paranaense,433.0,1.0,Shin injury,433.0,True
+#70Renan,Shin injury,2023-01-01,433.0,Athletico_Paranaense,433.0,1.0,Shin injury,433.0,True
+#70Renan,Hamstring injury,2022-10-29,16.0,Athletico_Paranaense,433.0,1.0,Shin injury,433.0,True
+#70Renan,Ill,2022-04-29,4.0,Athletico_Paranaense,433.0,1.0,Shin injury,433.0,True
+#23Santos,Thigh problems,2024-08-22,164.0,Athletico_Paranaense,,,,,
+#23Santos,Corona virus,2020-11-24,17.0,Athletico_Paranaense,,,,,
+#4TobiasFigueiredo,Groin injury,2024-06-30,12.0,Athletico_Paranaense,,,,,
+#4TobiasFigueiredo,Muscle injury,2024-04-06,47.0,Athletico_Paranaense,,,,,
+#4TobiasFigueiredo,Fitness,2020-01-18,6.0,Athletico_Paranaense,,,,,
+#4TobiasFigueiredo,Fitness,2020-01-18,6.0,Athletico_Paranaense,,,,,
+#4TobiasFigueiredo,Fitness,2019-08-30,3.0,Athletico_Paranaense,,,,,
+#4TobiasFigueiredo,Fitness,2019-01-04,3.0,Athletico_Paranaense,,,,,
+#4TobiasFigueiredo,Cruciate ligament tear,2018-12-25,125.0,Athletico_Paranaense,,,,,
+#4TobiasFigueiredo,Fitness,2018-10-29,3.0,Athletico_Paranaense,,,,,
+#4TobiasFigueiredo,Fitness,2018-10-19,3.0,Athletico_Paranaense,,,,,
+#4TobiasFigueiredo,Fitness,2018-09-14,21.0,Athletico_Paranaense,,,,,
+#28TomásCuello,Hamstring injury,2025-05-22,39.0,Athletico_Paranaense,,,,,
+#28TomásCuello,Knee injury,2024-06-23,18.0,Athletico_Paranaense,,,,,
+#28TomásCuello,Toothache,2019-09-18,31.0,Athletico_Paranaense,,,,,
+#13BenjamínKuscevic,ankle sprain,2025-01-22,10.0,Fortaleza,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Hamstring injury,2024-04-14,29.0,Fortaleza,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Adductor injury,2023-05-06,16.0,Fortaleza,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Corona virus,2020-11-20,15.0,Fortaleza,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Ankle surgery,2020-09-21,51.0,Fortaleza,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Ankle problems,2020-08-17,35.0,Fortaleza,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Knee injury,2019-07-28,49.0,Fortaleza,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,muscular problems,2019-05-15,12.0,Fortaleza,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Inflammation in the knee,2018-07-28,10.0,Fortaleza,32.0,2.0,Adductor injury,16.0,False
+#13BenjamínKuscevic,Skull fracture,2018-03-01,25.0,Fortaleza,32.0,2.0,Adductor injury,16.0,False
+#12Brenno,laceration,2022-10-09,9.0,Fortaleza,,,,,
+#26Breno Lopes,Forearm fracture,2025-03-16,38.0,Fortaleza,,,,,
+#26Breno Lopes,Ligament stretching,2021-04-16,53.0,Fortaleza,,,,,
+#26Breno Lopes,Corona virus,2020-11-20,9.0,Fortaleza,,,,,
+#6Bruno Pacheco,Tendonitis,2024-11-23,61.0,Fortaleza,,,,,
+#6Bruno Pacheco,Tendonitis,2024-09-01,28.0,Fortaleza,,,,,
+#6Bruno Pacheco,Hand injury,2024-02-16,8.0,Fortaleza,,,,,
+#6Bruno Pacheco,Ill,2022-11-07,5.0,Fortaleza,,,,,
+#6Bruno Pacheco,muscular problems,2022-09-19,19.0,Fortaleza,,,,,
+#6Bruno Pacheco,Shoulder injury,2017-10-30,7.0,Fortaleza,,,,,
+#10Calebe,Hamstring injury,2024-06-23,80.0,Fortaleza,61.0,2.0,Thigh problems,30.5,True
+#10Calebe,Hamstring injury,2024-04-03,78.0,Fortaleza,61.0,2.0,Thigh problems,30.5,True
+#10Calebe,Thigh problems,2024-02-04,42.0,Fortaleza,61.0,2.0,Thigh problems,30.5,True
+#10Calebe,Thigh problems,2023-10-27,12.0,Fortaleza,61.0,2.0,Thigh problems,30.5,True
+#10Calebe,Inner ligament stretch of the knee,2023-08-08,49.0,Fortaleza,61.0,2.0,Thigh problems,30.5,True
+#23David Luiz,Head injury,2025-04-24,5.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#23David Luiz,Muscle injury,2025-03-23,6.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#23David Luiz,Fever,2024-11-14,12.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#23David Luiz,Achilles tendon problems,2024-10-27,7.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#23David Luiz,muscular problems,2023-05-15,5.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#23David Luiz,Hamstring injury,2021-05-03,22.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#23David Luiz,Ill,2020-12-25,8.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#23David Luiz,Head injury,2020-12-01,15.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#23David Luiz,Knock,2020-11-27,2.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#23David Luiz,Hamstring injury,2020-10-26,9.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#23David Luiz,Neck injury,2020-09-11,8.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#23David Luiz,Knee injury,2018-04-01,43.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#23David Luiz,Ankle injury,2018-02-10,50.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#23David Luiz,Ankle problems,2018-01-25,9.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#23David Luiz,Knee injury,2017-11-26,41.0,Fortaleza,5.0,1.0,muscular problems,5.0,False
+#18Deyverson,bruise,2015-04-08,28.0,Fortaleza,,,,,
+#18Deyverson,Dead leg,2015-03-23,10.0,Fortaleza,,,,,
+#16Diogo Barbosa,ankle sprain,2025-04-27,24.0,Fortaleza,,,,,
+#16Diogo Barbosa,Muscle injury,2024-12-02,52.0,Fortaleza,,,,,
+#16Diogo Barbosa,Arthroscopy,2024-08-11,38.0,Fortaleza,,,,,
+#27DylanBorrero,Hip injury,2024-07-05,42.0,Fortaleza,364.0,1.0,Cruciate ligament tear,364.0,True
+#27DylanBorrero,Cruciate ligament tear,2023-04-29,364.0,Fortaleza,364.0,1.0,Cruciate ligament tear,364.0,True
+#33EmanuelBrítez,ankle sprain,2025-01-29,97.0,Fortaleza,,,,,
+#33EmanuelBrítez,Thigh problems,2024-08-15,6.0,Fortaleza,,,,,
+#8EmmanuelMartínez,Hamstring injury,2025-04-21,8.0,Fortaleza,,,,,
+#8EmmanuelMartínez,Knee injury,2024-06-24,42.0,Fortaleza,,,,,
+#8EmmanuelMartínez,Tendonitis,2024-02-02,44.0,Fortaleza,,,,,
+#8EmmanuelMartínez,unknown injury,2022-09-12,111.0,Fortaleza,,,,,
+#8EmmanuelMartínez,Knee collateral ligament strain,2022-04-01,30.0,Fortaleza,,,,,
+#8EmmanuelMartínez,ankle sprain,2021-11-22,15.0,Fortaleza,,,,,
+#14ErosMancuso,Knee bruise,2025-03-02,13.0,Fortaleza,,,,,
+#14ErosMancuso,Adductor injury,2024-07-29,26.0,Fortaleza,,,,,
+#14ErosMancuso,strain,2024-07-22,5.0,Fortaleza,,,,,
+#14ErosMancuso,strain,2024-07-02,8.0,Fortaleza,,,,,
+#14ErosMancuso,Muscle injury,2024-03-01,11.0,Fortaleza,,,,,
+Felipe Jonatan,Torn knee ligaments,2023-04-22,255.0,Fortaleza,255.0,1.0,Torn knee ligaments,255.0,True
+Felipe Jonatan,unknown injury,2022-11-06,103.0,Fortaleza,255.0,1.0,Torn knee ligaments,255.0,True
+#32GastónÁvila,Hand injury,2025-04-30,10.0,Fortaleza,,,,,
+#32GastónÁvila,Fitness,2025-01-01,40.0,Fortaleza,,,,,
+#32GastónÁvila,Cruciate ligament tear,2024-01-19,348.0,Fortaleza,,,,,
+#32GastónÁvila,Adductor injury,2022-04-18,15.0,Fortaleza,,,,,
+#32GastónÁvila,Shoulder injury,2021-03-09,19.0,Fortaleza,,,,,
+#35Hércules,Cruciate ligament tear,2023-07-10,263.0,Fortaleza,526.0,2.0,Cruciate ligament tear,263.0,True
+#39ImanolMachuca,Knee problems,2025-03-03,20.0,Fortaleza,,,,,
+#39ImanolMachuca,Torn muscle bundle,2025-02-03,21.0,Fortaleza,,,,,
+#39ImanolMachuca,Hamstring injury,2024-07-25,16.0,Fortaleza,,,,,
+#1João Ricardo,Adductor injury,2023-03-18,62.0,Fortaleza,62.0,1.0,Adductor injury,62.0,True
+#9Juan MartínLucero,muscular problems,2024-07-28,24.0,Fortaleza,,,,,
+#9Juan MartínLucero,Thigh problems,2022-08-22,14.0,Fortaleza,,,,,
+#88Lucas Sasha,Forearm fracture,2025-05-18,43.0,Fortaleza,,,,,
+#88Lucas Sasha,Calf injury,2024-09-18,65.0,Fortaleza,,,,,
+#88Lucas Sasha,Inner ligament stretch of the knee,2024-04-29,42.0,Fortaleza,,,,,
+#88Lucas Sasha,Broken jaw,2018-08-09,37.0,Fortaleza,,,,,
+#82Luquinhas,Groin injury,2023-04-06,51.0,Fortaleza,51.0,1.0,Groin injury,51.0,False
+#11Marinho,Thigh problems,2025-04-17,12.0,Fortaleza,,,,,
+#11Marinho,Thigh problems,2024-08-15,27.0,Fortaleza,,,,,
+#11Marinho,Muscle injury,2024-07-18,6.0,Fortaleza,,,,,
+#11Marinho,Hamstring injury,2024-05-24,40.0,Fortaleza,,,,,
+#11Marinho,Corona virus,2021-02-25,10.0,Fortaleza,,,,,
+#80MatheusPereira,Corona virus,2022-01-01,8.0,Fortaleza,,,,,
+#80MatheusPereira,unknown injury,2018-12-24,31.0,Fortaleza,,,,,
+#20MatheusRossetto,Calf injury,2025-05-18,43.0,Fortaleza,15.0,1.0,Muscle injury,15.0,False
+#20MatheusRossetto,Calf injury,2025-01-22,16.0,Fortaleza,15.0,1.0,Muscle injury,15.0,False
+#20MatheusRossetto,Calf injury,2024-08-18,30.0,Fortaleza,15.0,1.0,Muscle injury,15.0,False
+#20MatheusRossetto,Thigh problems,2024-06-17,13.0,Fortaleza,15.0,1.0,Muscle injury,15.0,False
+#20MatheusRossetto,Hamstring injury,2024-03-28,30.0,Fortaleza,15.0,1.0,Muscle injury,15.0,False
+#20MatheusRossetto,Muscle injury,2023-03-08,15.0,Fortaleza,15.0,1.0,Muscle injury,15.0,False
+#20MatheusRossetto,Muscle injury,2022-04-04,25.0,Fortaleza,15.0,1.0,Muscle injury,15.0,False
+#20MatheusRossetto,Quarantine,2021-04-01,30.0,Fortaleza,15.0,1.0,Muscle injury,15.0,False
+#21Moisés,Thigh problems,2025-04-14,77.0,Fortaleza,76.0,2.0,Foot bruise,38.0,True
+#21Moisés,Thigh problems,2024-09-15,19.0,Fortaleza,76.0,2.0,Foot bruise,38.0,True
+#21Moisés,Thigh problems,2024-06-10,27.0,Fortaleza,76.0,2.0,Foot bruise,38.0,True
+#21Moisés,Foot bruise,2023-05-10,7.0,Fortaleza,76.0,2.0,Foot bruise,38.0,True
+#21Moisés,Metatarsal fracture,2023-01-14,69.0,Fortaleza,76.0,2.0,Foot bruise,38.0,True
+Pedro Augusto,Inflammation of pubic bone,2024-11-01,83.0,Fortaleza,,,,,
+Pedro Augusto,Elbow injury,2024-03-15,19.0,Fortaleza,,,,,
+Pol Fernández,ankle sprain,2024-02-15,41.0,Fortaleza,11.0,1.0,Thigh problems,11.0,False
+Pol Fernández,Thigh problems,2023-05-25,11.0,Fortaleza,11.0,1.0,Thigh problems,11.0,False
+Pol Fernández,Calf problems,2022-03-31,8.0,Fortaleza,11.0,1.0,Thigh problems,11.0,False
+#29Rodrigo Santos,Fitness,2025-04-09,53.0,Fortaleza,,,,,
+#2Tinga,ankle sprain,2025-04-27,13.0,Fortaleza,,,,,
+#2Tinga,Calf problems,2025-03-30,21.0,Fortaleza,,,,,
+#2Tinga,Calf injury,2025-03-23,6.0,Fortaleza,,,,,
+#2Tinga,Calf injury,2024-07-25,20.0,Fortaleza,,,,,
+#2Tinga,Hamstring injury,2024-03-21,16.0,Fortaleza,,,,,
+#3TomásCardona,unknown injury,2025-03-25,18.0,Fortaleza,11.0,1.0,muscular problems,11.0,False
+#3TomásCardona,Thigh problems,2024-10-05,48.0,Fortaleza,11.0,1.0,muscular problems,11.0,False
+#3TomásCardona,Thigh problems,2024-04-12,39.0,Fortaleza,11.0,1.0,muscular problems,11.0,False
+#3TomásCardona,muscular problems,2023-09-13,11.0,Fortaleza,11.0,1.0,muscular problems,11.0,False
+#7TomásPochettino,Tendonitis,2025-04-02,24.0,Fortaleza,,,,,
+#7TomásPochettino,muscular problems,2024-07-25,16.0,Fortaleza,,,,,
+#7TomásPochettino,flu,2022-08-29,5.0,Fortaleza,,,,,
+#7TomásPochettino,Corona virus,2022-05-18,6.0,Fortaleza,,,,,
+#22YagoPikachu,Gunshot wound,2019-07-30,12.0,Fortaleza,,,,,
+#17Zé Welison,Thigh problems,2025-05-07,14.0,Fortaleza,,,,,
+#17Zé Welison,Hamstring injury,2024-06-29,25.0,Fortaleza,,,,,
+#17Zé Welison,Cruciate ligament tear,2015-02-21,182.0,Fortaleza,,,,,
+#88Cauan Barros,Meniscus injury,2023-06-07,55.0,América_Mineiro,55.0,1.0,Meniscus injury,55.0,False
+Daniel Jr,Hamstring injury,2024-06-07,14.0,América_Mineiro,38.0,1.0,Hamstring injury,38.0,False
+Daniel Jr,Groin injury,2024-03-11,27.0,América_Mineiro,38.0,1.0,Hamstring injury,38.0,False
+Daniel Jr,Hamstring injury,2023-06-21,38.0,América_Mineiro,38.0,1.0,Hamstring injury,38.0,False
+#5FernandoElizari,unknown injury,2023-03-07,21.0,América_Mineiro,21.0,1.0,unknown injury,21.0,False
+#5FernandoElizari,Torn muscle bundle,2021-09-29,18.0,América_Mineiro,21.0,1.0,unknown injury,21.0,False
+#3Lucão,unknown injury,2018-03-05,89.0,América_Mineiro,,,,,
+#3Lucão,Muscle injury,2018-01-06,48.0,América_Mineiro,,,,,
+#3Lucão,unknown injury,2017-11-20,29.0,América_Mineiro,,,,,
+#23Mariano,Muscle injury,2024-07-06,15.0,América_Mineiro,,,,,
+#23Mariano,Thigh problems,2024-06-10,11.0,América_Mineiro,,,,,
+#23Mariano,Calf injury,2024-02-20,39.0,América_Mineiro,,,,,
+#23Mariano,Hamstring injury,2022-10-02,13.0,América_Mineiro,,,,,
+#23Mariano,Hamstring injury,2020-11-09,23.0,América_Mineiro,,,,,
+#23Mariano,unknown injury,2019-02-02,10.0,América_Mineiro,,,,,
+#23Mariano,unknown injury,2018-07-23,18.0,América_Mineiro,,,,,
+#23Mariano,unknown injury,2018-04-29,12.0,América_Mineiro,,,,,
+#23Mariano,Hamstring strain,2017-12-09,19.0,América_Mineiro,,,,,
+#23Mariano,Knee injury,2017-04-28,22.0,América_Mineiro,,,,,
+Matheus Davó,Cruciate ligament injury,2023-11-25,258.0,América_Mineiro,258.0,1.0,Cruciate ligament injury,258.0,True
+#30Nicolas,Adductor injury,2025-04-06,20.0,América_Mineiro,,,,,
+#45Ricardo Silva,Fitness,2022-02-20,23.0,América_Mineiro,,,,,
+#17Stênio,Shoulder injury,2022-10-01,92.0,América_Mineiro,,,,,
+#17Stênio,Muscle injury,2021-11-02,24.0,América_Mineiro,,,,,
+#29Vitor Jacaré,Cruciate ligament injury,2021-03-13,246.0,América_Mineiro,,,,,
+#9Willian Bigode,Hamstring injury,2024-03-08,59.0,América_Mineiro,43.0,1.0,Thigh problems,43.0,False
+#9Willian Bigode,Thigh problems,2023-07-17,43.0,América_Mineiro,43.0,1.0,Thigh problems,43.0,False
+#9Willian Bigode,Corona virus,2020-11-20,15.0,América_Mineiro,43.0,1.0,Thigh problems,43.0,False
+#9Willian Bigode,Torn knee ligaments,2018-11-26,191.0,América_Mineiro,43.0,1.0,Thigh problems,43.0,False
+#16Aloísio,Muscle injury,2024-05-01,31.0,Goiás,39.0,1.0,unknown injury,39.0,False
+#16Aloísio,unknown injury,2023-12-01,39.0,Goiás,39.0,1.0,unknown injury,39.0,False
+#16Aloísio,muscular problems,2021-10-01,41.0,Goiás,39.0,1.0,unknown injury,39.0,False
+#45Arthur Caíke,Adductor injury,2024-07-25,16.0,Goiás,36.0,1.0,Muscle injury,36.0,False
+#45Arthur Caíke,Muscle injury,2023-06-09,36.0,Goiás,36.0,1.0,Muscle injury,36.0,False
+#20Dieguinho,Vertebral injury,2023-06-05,92.0,Goiás,92.0,1.0,Vertebral injury,92.0,True
+#31FacundoBarceló,Muscle injury,2022-04-02,44.0,Goiás,,,,,
+#31FacundoBarceló,Muscle injury,2021-04-30,10.0,Goiás,,,,,
+#5GonzaloFreitas,Adductor injury,2024-08-07,11.0,Goiás,10.0,1.0,unknown injury,10.0,False
+#5GonzaloFreitas,unknown injury,2024-03-11,31.0,Goiás,10.0,1.0,unknown injury,10.0,False
+#5GonzaloFreitas,unknown injury,2023-04-17,10.0,Goiás,10.0,1.0,unknown injury,10.0,False
+#5GonzaloFreitas,Adductor pain,2018-07-28,5.0,Goiás,10.0,1.0,unknown injury,10.0,False
+#5GonzaloFreitas,Muscle injury,2017-04-14,18.0,Goiás,10.0,1.0,unknown injury,10.0,False
+#5GonzaloFreitas,Knee problems,2017-03-07,16.0,Goiás,10.0,1.0,unknown injury,10.0,False
+#5GonzaloFreitas,Muscle injury,2016-09-16,11.0,Goiás,10.0,1.0,unknown injury,10.0,False
+#5GonzaloFreitas,Ankle injury,2016-02-13,11.0,Goiás,10.0,1.0,unknown injury,10.0,False
+#7Jajá,Torn ligaments,2023-10-14,29.0,Goiás,29.0,1.0,Torn ligaments,29.0,False
+#11JhonVásquez,muscular problems,2022-10-10,20.0,Goiás,,,,,
+#36LucasLovat,Collateral ligament ripture,2024-07-02,48.0,Goiás,,,,,
+#36LucasLovat,minor knock,2022-07-01,10.0,Goiás,,,,,
+#36LucasLovat,Muscle injury,2022-03-07,24.0,Goiás,,,,,
+#36LucasLovat,Muscle contusion,2022-02-01,22.0,Goiás,,,,,
+#36LucasLovat,unknown injury,2021-07-01,184.0,Goiás,,,,,
+#36LucasLovat,unknown injury,2021-03-02,56.0,Goiás,,,,,
+#36LucasLovat,muscular problems,2019-12-04,24.0,Goiás,,,,,
+#14Lucas Ribeiro,Torn lateral knee ligament,2022-10-07,268.0,Goiás,,,,,
+#3Luiz Felipe,Knee injury,2024-05-02,48.0,Goiás,,,,,
+#75Messias,muscular problems,2022-10-24,84.0,Goiás,,,,,
+#75Messias,muscular problems,2022-09-30,21.0,Goiás,,,,,
+#75Messias,Hamstring injury,2017-11-16,5.0,Goiás,,,,,
+#29Reynaldo,Arm injury,2023-08-31,54.0,Goiás,54.0,1.0,Arm injury,54.0,False
+#32Rodrigo Andrade,Calf injury,2024-05-31,21.0,Goiás,,,,,
+#32Rodrigo Andrade,muscular problems,2024-04-26,16.0,Goiás,,,,,
+#32Rodrigo Andrade,Hamstring injury,2024-01-23,29.0,Goiás,,,,,
+#32Rodrigo Andrade,muscular problems,2022-10-02,24.0,Goiás,,,,,
+#32Rodrigo Andrade,Foot injury,2019-10-10,8.0,Goiás,,,,,
+#23Tadeu,Broken finger,2023-05-01,19.0,Goiás,19.0,1.0,Broken finger,19.0,False
+Titi,Calf problems,2024-02-21,20.0,Goiás,,,,,
+#7Vinícius,unknown injury,2022-11-06,56.0,Goiás,,,,,
+#7Vinícius,Hamstring injury,2022-04-27,31.0,Goiás,,,,,
+#7Vinícius,Hamstring injury,2019-08-01,6.0,Goiás,,,,,
+#22Vitinho,Hamstring injury,2024-09-15,38.0,Goiás,,,,,
+#97Willean Lepo,Adductor injury,2024-09-02,54.0,Goiás,,,,,
+#97Willean Lepo,Knee problems,2024-07-28,14.0,Goiás,,,,,
+#33AlanEmpereur,Foot injury,2024-10-19,32.0,Cuiabá,,,,,
+#33AlanEmpereur,Corona virus,2020-11-20,9.0,Cuiabá,,,,,
+#33AlanEmpereur,Calf muscle tear,2020-09-19,30.0,Cuiabá,,,,,
+#33AlanEmpereur,Calf problems,2020-07-25,16.0,Cuiabá,,,,,
+#33AlanEmpereur,Hamstring muscle injury,2019-12-23,25.0,Cuiabá,,,,,
+#33AlanEmpereur,Hamstring muscle injury,2018-12-20,8.0,Cuiabá,,,,,
+#33AlanEmpereur,Hamstring injury,2017-09-10,55.0,Cuiabá,,,,,
+AlissonSafira,unknown injury,2024-10-01,20.0,Cuiabá,,,,,
+AlissonSafira,unknown injury,2021-11-01,50.0,Cuiabá,,,,,
+#22Derik Lacerda,Hamstring injury,2024-11-24,11.0,Cuiabá,,,,,
+#22Derik Lacerda,muscular problems,2024-07-26,8.0,Cuiabá,,,,,
+#22Derik Lacerda,Inflammation of ligaments in the knee,2024-06-07,16.0,Cuiabá,,,,,
+#22Derik Lacerda,Muscle injury,2024-05-16,20.0,Cuiabá,,,,,
+#22Derik Lacerda,Shoulder injury,2021-03-17,76.0,Cuiabá,,,,,
+#22Derik Lacerda,unknown injury,2021-01-20,14.0,Cuiabá,,,,,
+#22Derik Lacerda,unknown injury,2021-01-01,7.0,Cuiabá,,,,,
+#22Derik Lacerda,Shoulder injury,2020-09-15,71.0,Cuiabá,,,,,
+#9Edu,Meniscus injury,2020-08-08,292.0,Cuiabá,,,,,
+#7GustavoSauer,unknown injury,2016-10-23,70.0,Cuiabá,,,,,
+#9IsidroPitta,Injury to the ankle,2022-11-03,80.0,Cuiabá,,,,,
+#70Juan Christian,unknown injury,2025-01-18,4.0,Cuiabá,,,,,
+#30Lucas Mineiro,Meniscus injury,2023-01-03,180.0,Cuiabá,180.0,1.0,Meniscus injury,180.0,True
+#30Lucas Mineiro,Meniscus injury,2022-01-20,51.0,Cuiabá,180.0,1.0,Meniscus injury,180.0,True
+#23LucianoGiménez,Muscle injury,2024-09-16,31.0,Cuiabá,,,,,
+#14MateusPasinato,Broken nose bone,2021-05-05,58.0,Cuiabá,,,,,
+#33Matheus Alexandre,Knee injury,2024-08-18,18.0,Cuiabá,,,,,
+#33Matheus Alexandre,Muscle injury,2024-07-03,15.0,Cuiabá,,,,,
+#33Matheus Alexandre,Hamstring injury,2024-04-01,13.0,Cuiabá,,,,,
+#8Max,Calf injury,2024-06-22,14.0,Cuiabá,,,,,
+#8Max,Thigh problems,2024-04-16,29.0,Cuiabá,,,,,
+#4Nathan,Hip problems,2024-04-23,57.0,Cuiabá,331.0,1.0,Cruciate ligament injury,331.0,True
+#4Nathan,Hip injury,2024-04-01,21.0,Cuiabá,331.0,1.0,Cruciate ligament injury,331.0,True
+#4Nathan,Cruciate ligament injury,2023-02-04,331.0,Cuiabá,331.0,1.0,Cruciate ligament injury,331.0,True
+#4Nathan,Meniscus tear,2022-02-26,48.0,Cuiabá,331.0,1.0,Cruciate ligament injury,331.0,True
+#4Nathan,unknown injury,2021-04-09,8.0,Cuiabá,331.0,1.0,Cruciate ligament injury,331.0,True
+#4Nathan,Quarantine,2020-07-11,11.0,Cuiabá,331.0,1.0,Cruciate ligament injury,331.0,True
+#4Nathan,unknown injury,2019-07-31,7.0,Cuiabá,331.0,1.0,Cruciate ligament injury,331.0,True
+#4Nathan,Meniscus injury,2019-04-15,78.0,Cuiabá,331.0,1.0,Cruciate ligament injury,331.0,True
+#4Nathan,Meniscus injury,2018-09-05,182.0,Cuiabá,331.0,1.0,Cruciate ligament injury,331.0,True
+#4Nathan,Torn muscle fiber,2018-04-17,10.0,Cuiabá,331.0,1.0,Cruciate ligament injury,331.0,True
+#45Patrick de Lucca,Torn lateral knee ligament,2023-04-02,274.0,Cuiabá,274.0,1.0,Torn lateral knee ligament,274.0,True
+#7Pedrinho,Muscle injury,2024-05-07,30.0,Cuiabá,,,,,
+#10Ruan Oliveira,Cruciate ligament injury,2023-12-07,419.0,Cuiabá,419.0,1.0,Cruciate ligament injury,419.0,True
+#10Ruan Oliveira,Cruciate ligament injury,2020-09-01,996.0,Cuiabá,419.0,1.0,Cruciate ligament injury,419.0,True
+#6Sander,Hamstring injury,2023-08-01,63.0,Cuiabá,63.0,1.0,Hamstring injury,63.0,True
+#6Sander,muscular problems,2019-11-11,6.0,Cuiabá,63.0,1.0,Hamstring injury,63.0,True
+#6Sander,Cut,2019-08-22,16.0,Cuiabá,63.0,1.0,Hamstring injury,63.0,True
+#6Sander,Elbow injury,2019-07-17,30.0,Cuiabá,63.0,1.0,Hamstring injury,63.0,True
+#6Sander,Bone edema,2019-04-24,22.0,Cuiabá,63.0,1.0,Hamstring injury,63.0,True
+#6Sander,Foot injury,2018-10-28,44.0,Cuiabá,63.0,1.0,Hamstring injury,63.0,True
+Vitão,unknown injury,2024-12-20,22.0,Cuiabá,,,,,
+#32YamilAsad,Knee injury,2024-08-11,32.0,Cuiabá,,,,,
+#32YamilAsad,Ankle injury,2018-08-28,18.0,Cuiabá,,,,,
